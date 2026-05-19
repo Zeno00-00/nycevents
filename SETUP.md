@@ -48,6 +48,23 @@ You'll need a Gmail "App Password" — separate from your normal Gmail login.
 | `SMTP_PASS` | The 16-char app password from step 2        |
 | `EMAIL_TO`  | The email where you want digests delivered  |
 
+## 3b. Set up Ticketmaster API (recommended — covers Beacon, MSG, Carnegie, Barclays, BAM, etc.)
+
+Without this, the app shows zero ticketed-venue concerts/shows. With it, you get hundreds.
+
+1. Go to **https://developer.ticketmaster.com/**
+2. Click **Sign In** → **Get Your API Key** (top right). You'll create a free developer account.
+3. Once signed in, go to **My Apps** → **Add new app**. Name it `nycevents`, any homepage URL works.
+4. On the app's page, copy the **Consumer Key** (a 32-char string).
+5. Back in the repo: **Settings → Secrets and variables → Actions → New repository secret**
+6. Add one secret:
+
+| Name | Value |
+|---|---|
+| `TM_API_KEY` | The Consumer Key from step 4 |
+
+The free tier is 5,000 calls/day — the sync uses ~5 per run, so you're nowhere near the limit.
+
 ## 4. Trigger the first sync
 
 The sync runs automatically every day at 5 AM ET. To test it now:

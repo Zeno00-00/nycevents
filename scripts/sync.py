@@ -33,6 +33,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "web" / "data" / "events.json"
 LOG = ROOT / "scripts" / "last_sync.log"
 TENTPOLES = ROOT / "scripts" / "tentpole_annuals.json"
+EXHIBITS  = ROOT / "scripts" / "museum_exhibits.json"
 
 ET_OFFSET = "-04:00"   # EDT; switches to -05:00 in winter — refine if needed
 
@@ -86,6 +87,44 @@ BK_CB_HOOD = {
 }
 QN_CB_HOOD = { "1": "lic", "2": "lic", "7": "flushing", "8": "flushing" }
 
+# Major NYC venue → neighborhood id. Used by Ticketmaster adapter & keyword fallback.
+VENUE_HOOD = {
+    # UWS
+    "beacon theatre": "uws", "lincoln center": "uws", "david geffen hall": "uws",
+    "alice tully hall": "uws", "metropolitan opera house": "uws", "symphony space": "uws",
+    # UES
+    "92ny": "ues", "92nd street y": "ues", "park avenue armory": "ues", "frick collection": "ues",
+    "guggenheim": "ues", "metropolitan museum": "ues",
+    # Midtown West
+    "madison square garden": "midtownW", "msg": "midtownW", "radio city": "midtownW",
+    "carnegie hall": "midtownW", "town hall": "midtownW", "javits center": "midtownW",
+    "bryant park": "midtownW", "the shed": "midtownW", "hudson yards": "midtownW",
+    # Midtown East
+    "rockefeller": "midtownE", "ed sullivan theater": "midtownW",
+    # Chelsea
+    "chelsea": "chelsea", "joyce theater": "chelsea", "highline ballroom": "chelsea",
+    # Gramercy / Flatiron / Union Sq
+    "gramercy theatre": "gramercy", "irving plaza": "gramercy", "union square": "gramercy",
+    "madison square park": "gramercy",
+    # West Village
+    "comedy cellar": "westvillage", "village vanguard": "westvillage", "blue note": "westvillage",
+    "(le) poisson rouge": "westvillage", "the public theater": "eastvillage",
+    "joe's pub": "eastvillage", "webster hall": "eastvillage",
+    # SoHo / Tribeca
+    "city winery": "soho", "soho house": "soho",
+    # LES
+    "bowery ballroom": "les", "mercury lounge": "les", "rockwood music hall": "les",
+    # FiDi
+    "the oculus": "fidi", "battery park": "fidi", "south street seaport": "fidi", "pier 17": "fidi",
+    # Outer
+    "barclays center": "dumbo", "bam": "dumbo", "brooklyn academy": "dumbo",
+    "brooklyn steel": "bushwick", "house of yes": "bushwick", "elsewhere": "bushwick",
+    "music hall of williamsburg": "williamsburg", "warsaw": "williamsburg",
+    "pioneer works": "redhook",
+    "kings theatre": "crownhts",
+    "forest hills stadium": "flushing",
+}
+
 # Keyword fallback when CB not available
 HOOD_KEYWORDS = [
     ("uws",          ["upper west", "lincoln center", "amsterdam ave", "columbus ave", "west 7", "west 8", "west 9"]),
@@ -115,6 +154,14 @@ def map_hood(borough: str, location: str, community_board: str | None) -> tuple[
     b = (borough or "").lower()
     is_mn = "manhattan" in b
     boro_out = "manhattan" if is_mn else "outer"
+
+    # Venue-name match (highest priority — most accurate)
+    for venue_key, hood_id in VENUE_HOOD.items():
+        if venue_key in loc:
+            # Determine borough from the hood
+            outer_hoods = {"williamsburg", "lic", "bushwick", "flushing", "dumbo",
+                           "parkslope", "redhook", "crownhts"}
+            return hood_id, ("outer" if hood_id in outer_hoods else "manhattan")
 
     # Community board lookup
     if community_board:
@@ -328,6 +375,37 @@ def fetch_tentpoles() -> Iterable[Event]:
             )
 
 
+def fetch_museum_exhibits() -> Iterable[Event]:
+    """Hand-curated currently-running museum special exhibits."""
+    data = json.loads(EXHIBITS.read_text())
+    today = dt.date.today()
+    for ex in data["exhibits"]:
+        try:
+            sd = dt.date.fromisoformat(ex["start_date"])
+            ed = dt.date.fromisoformat(ex["end_date"])
+        except Exception:
+            continue
+        if ed < today:           # exhibit already closed
+            continue
+        start_iso = f"{sd.isoformat()}T10:00:00{ET_OFFSET}"
+        end_iso   = f"{ed.isoformat()}T17:00:00{ET_OFFSET}"
+        venue = ex["museum"]
+        yield Event(
+            id=Event.make_id(ex["title"], start_iso, venue),
+            title=ex["title"],
+            category="mindeye", subcategory="museum-art",
+            tags=list(ex.get("tags", ["m-art"])),
+            neighborhood=ex["neighborhood"],
+            borough="manhattan" if ex["neighborhood"] not in {"williamsburg","lic","bushwick","flushing","dumbo","parkslope","redhook","crownhts"} else "outer",
+            venue=venue,
+            start=start_iso, end=end_iso,
+            price=ex.get("price", "$$"),
+            tentpole=False,
+            sources=[{"name": venue, "url": ex.get("url", "")}],
+            description=ex.get("description", ""),
+        )
+
+
 # RSS adapters: stored as "leads" — short cards linking out, because
 # news/aggregator RSS items don't always carry structured event dates.
 def _rss_items(url: str) -> list[dict]:
@@ -434,12 +512,151 @@ def fetch_gothamist_rss() -> Iterable[Event]:
         )
 
 
+def _tm_price_bucket(prng: dict | None) -> str:
+    if not prng: return "$$"
+    try:
+        avg = (float(prng.get("min", 0)) + float(prng.get("max", 0))) / 2
+    except Exception:
+        return "$$"
+    if avg <= 25: return "$"
+    if avg <= 75: return "$$"
+    return "$$$"
+
+def _tm_classify(classifications: list) -> tuple[str, str, list[str]]:
+    """Map Ticketmaster classifications to (category, subcategory, tags)."""
+    if not classifications: return "stagesound", "concerts", ["music"]
+    c = classifications[0] or {}
+    seg = ((c.get("segment") or {}).get("name") or "").lower()
+    genre = ((c.get("genre") or {}).get("name") or "").lower()
+    if seg == "music":
+        tag_map = {
+            "rock": "g-indie", "alternative": "g-indie", "indie": "g-indie",
+            "jazz": "g-jazz", "classical": "g-classical",
+            "hip-hop": "g-hiphop", "rap": "g-hiphop", "r&b": "g-hiphop",
+            "electronic": "g-electronic", "dance": "g-electronic",
+            "folk": "g-folk", "world": "g-world",
+        }
+        tag = next((t for k, t in tag_map.items() if k in genre), "music")
+        return "stagesound", "concerts", [tag]
+    if seg == "arts & theatre":
+        if "comedy" in genre: return "stagesound", "comedy-clubs", ["comedy"]
+        return "stagesound", "concerts", ["theater"]
+    if seg == "comedy" or "comedy" in genre:
+        return "stagesound", "comedy-theater", ["comedy"]
+    return "stagesound", "concerts", ["music"]
+
+
+def fetch_ticketmaster() -> Iterable[Event]:
+    """Ticketmaster Discovery API — covers Beacon, MSG, Radio City, Carnegie, etc.
+
+    Requires TM_API_KEY env var (free signup at developer.ticketmaster.com).
+    No-op if key not set.
+    """
+    key = os.environ.get("TM_API_KEY")
+    if not key:
+        return
+
+    today = dt.date.today()
+    end_window = today + dt.timedelta(days=180)
+    base = "https://app.ticketmaster.com/discovery/v2/events.json"
+
+    # Paginate up to 5 pages of 200 (TM hard caps at ~1000 results per query)
+    for page in range(5):
+        params = {
+            "apikey": key,
+            "city": "New York",
+            "stateCode": "NY",
+            "countryCode": "US",
+            "classificationName": "music,arts & theatre,comedy",
+            "startDateTime": f"{today.isoformat()}T00:00:00Z",
+            "endDateTime":   f"{end_window.isoformat()}T23:59:59Z",
+            "size": 200,
+            "page": page,
+            "sort": "date,asc",
+        }
+        url = base + "?" + urllib.parse.urlencode(params)
+        try:
+            body = http_get(url, timeout=30)
+        except urllib.error.HTTPError as e:
+            print(f"  ticketmaster page {page} failed: {e}", file=sys.stderr)
+            break
+        data = json.loads(body)
+        events_arr = (data.get("_embedded") or {}).get("events") or []
+        if not events_arr:
+            break
+
+        for r in events_arr:
+            name = (r.get("name") or "").strip()
+            if not name: continue
+            dates = (r.get("dates") or {}).get("start") or {}
+            start_iso = dates.get("dateTime") or (dates.get("localDate") + "T20:00:00Z" if dates.get("localDate") else None)
+            if not start_iso: continue
+            # End: ~3h after start (TM rarely provides end time)
+            try:
+                end_dt = dt.datetime.fromisoformat(start_iso.replace("Z", "+00:00")) + dt.timedelta(hours=3)
+                end_iso = end_dt.isoformat()
+            except Exception:
+                end_iso = start_iso
+
+            venues = ((r.get("_embedded") or {}).get("venues") or [])
+            v = venues[0] if venues else {}
+            venue_name = (v.get("name") or "Unknown venue").strip()
+            v_city = ((v.get("city") or {}).get("name") or "").lower()
+            # Skip events that aren't actually in NYC (TM "New York" returns surrounding metro)
+            if "new york" not in v_city and "brooklyn" not in v_city and "queens" not in v_city:
+                continue
+            v_state = ((v.get("state") or {}).get("stateCode") or "").upper()
+            if v_state and v_state != "NY":
+                continue
+
+            hood, boro = map_hood("Manhattan", venue_name, None)
+            if hood in DROP_HOODS:
+                continue
+
+            category, sub, tags = _tm_classify(r.get("classifications") or [])
+            prng_list = r.get("priceRanges") or []
+            price = _tm_price_bucket(prng_list[0] if prng_list else None)
+
+            # 2-sentence description
+            try:
+                s_dt = dt.datetime.fromisoformat(start_iso.replace("Z", "+00:00"))
+                when_str = s_dt.astimezone(dt.timezone(dt.timedelta(hours=-4))).strftime("%A, %b %-d at %-I:%M %p")
+            except Exception:
+                when_str = ""
+            sent1 = f"Live show at {venue_name}" + (f" on {when_str}." if when_str else ".")
+            if prng_list:
+                p = prng_list[0]
+                pmin = p.get("min"); pmax = p.get("max")
+                sent2 = f"Tickets via Ticketmaster, from ${pmin:.0f}–${pmax:.0f}." if pmin is not None and pmax is not None else "Tickets via Ticketmaster."
+            else:
+                sent2 = "Tickets via Ticketmaster."
+
+            yield Event(
+                id=Event.make_id(name, start_iso, venue_name),
+                title=name,
+                category=category, subcategory=sub, tags=tags,
+                neighborhood=hood, borough=boro,
+                venue=venue_name,
+                start=start_iso, end=end_iso,
+                price=price, tentpole=False,
+                sources=[{"name": "Ticketmaster", "url": r.get("url", "https://www.ticketmaster.com")}],
+                description=f"{sent1} {sent2}".strip(),
+            )
+
+        # Stop if last page
+        pageinfo = data.get("page") or {}
+        if pageinfo.get("number", page) + 1 >= pageinfo.get("totalPages", 1):
+            break
+
+
 # Register adapters in run order.
 # News RSS adapters (timeout / skint / gothamist) intentionally disabled —
 # they return articles, not scheduled events. Functions kept for reference.
 ADAPTERS: list[tuple[str, Callable[[], Iterable[Event]]]] = [
-    ("tentpoles",   fetch_tentpoles),
-    ("nyc_permits", fetch_nyc_permits),
+    ("tentpoles",        fetch_tentpoles),
+    ("museum_exhibits",  fetch_museum_exhibits),
+    ("nyc_permits",      fetch_nyc_permits),
+    ("ticketmaster",     fetch_ticketmaster),
 ]
 
 

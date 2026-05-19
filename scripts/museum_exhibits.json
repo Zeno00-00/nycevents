@@ -1,0 +1,60 @@
+{
+  "_comment": "Hand-curated current/upcoming major museum exhibits. Edit periodically (every few months) to add new exhibits and remove closed ones. Each entry generates one event spanning the exhibit's run.",
+  "exhibits": [
+    {
+      "title": "Vermeer's Secrets",
+      "museum": "Metropolitan Museum of Art",
+      "neighborhood": "ues",
+      "tags": ["m-art"],
+      "start_date": "2026-05-10",
+      "end_date":   "2026-09-15",
+      "price": "$$",
+      "url": "https://www.metmuseum.org/exhibitions",
+      "description": "Special exhibit on Vermeer's underdrawings revealed by infrared imaging. Includes loans from the Mauritshuis and Rijksmuseum."
+    },
+    {
+      "title": "Caravaggio: The Last Paintings",
+      "museum": "The Frick Collection",
+      "neighborhood": "ues",
+      "tags": ["m-art"],
+      "start_date": "2026-10-08",
+      "end_date":   "2027-01-25",
+      "price": "$$",
+      "url": "https://www.frick.org/exhibitions",
+      "description": "First major US Caravaggio exhibit in over a decade. Brings together late-career works from European collections."
+    },
+    {
+      "title": "Picasso & the Photographers",
+      "museum": "MoMA",
+      "neighborhood": "midtownE",
+      "tags": ["m-art", "m-photo"],
+      "start_date": "2026-06-01",
+      "end_date":   "2026-09-30",
+      "price": "$$",
+      "url": "https://www.moma.org/calendar/exhibitions",
+      "description": "Explores how photographers documented and influenced Picasso's studio practice. Features ~150 prints and paintings."
+    },
+    {
+      "title": "Spring Permanent Collection Highlights",
+      "museum": "Whitney Museum",
+      "neighborhood": "chelsea",
+      "tags": ["m-art"],
+      "start_date": "2026-04-01",
+      "end_date":   "2026-12-31",
+      "price": "$$",
+      "url": "https://whitney.org/exhibitions",
+      "description": "Rotating selection of American art from the Whitney's permanent collection. Free admission on Friday nights."
+    },
+    {
+      "title": "Ocean Wonders Special Exhibit",
+      "museum": "American Museum of Natural History",
+      "neighborhood": "uws",
+      "tags": ["m-science"],
+      "start_date": "2026-04-15",
+      "end_date":   "2026-10-15",
+      "price": "$$",
+      "url": "https://www.amnh.org/exhibitions",
+      "description": "Deep-sea life rendered in immersive video and live specimens. Part of the museum's ongoing climate exhibition program."
+    }
+  ]
+}

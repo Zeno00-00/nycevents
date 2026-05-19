@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T10:44:50.268314-04:00",
+  "generated_at": "2026-05-19T11:01:13.778117-04:00",
   "events": [
     {
       "id": "e-79c61f6e7c",
@@ -624,6 +624,122 @@
         }
       ],
       "description": "Annual international contemporary and modern art fair."
+    },
+    {
+      "id": "e-5bbe4d2d19",
+      "title": "Vermeer's Secrets",
+      "category": "mindeye",
+      "subcategory": "museum-art",
+      "tags": [
+        "m-art"
+      ],
+      "neighborhood": "ues",
+      "borough": "manhattan",
+      "venue": "Metropolitan Museum of Art",
+      "start": "2026-05-10T10:00:00-04:00",
+      "end": "2026-09-15T17:00:00-04:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/exhibitions"
+        }
+      ],
+      "description": "Special exhibit on Vermeer's underdrawings revealed by infrared imaging. Includes loans from the Mauritshuis and Rijksmuseum."
+    },
+    {
+      "id": "e-0fe90472e0",
+      "title": "Caravaggio: The Last Paintings",
+      "category": "mindeye",
+      "subcategory": "museum-art",
+      "tags": [
+        "m-art"
+      ],
+      "neighborhood": "ues",
+      "borough": "manhattan",
+      "venue": "The Frick Collection",
+      "start": "2026-10-08T10:00:00-04:00",
+      "end": "2027-01-25T17:00:00-04:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "The Frick Collection",
+          "url": "https://www.frick.org/exhibitions"
+        }
+      ],
+      "description": "First major US Caravaggio exhibit in over a decade. Brings together late-career works from European collections."
+    },
+    {
+      "id": "e-db76ca98a1",
+      "title": "Picasso & the Photographers",
+      "category": "mindeye",
+      "subcategory": "museum-art",
+      "tags": [
+        "m-art",
+        "m-photo"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "MoMA",
+      "start": "2026-06-01T10:00:00-04:00",
+      "end": "2026-09-30T17:00:00-04:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "MoMA",
+          "url": "https://www.moma.org/calendar/exhibitions"
+        }
+      ],
+      "description": "Explores how photographers documented and influenced Picasso's studio practice. Features ~150 prints and paintings."
+    },
+    {
+      "id": "e-c5a5337cd0",
+      "title": "Spring Permanent Collection Highlights",
+      "category": "mindeye",
+      "subcategory": "museum-art",
+      "tags": [
+        "m-art"
+      ],
+      "neighborhood": "chelsea",
+      "borough": "manhattan",
+      "venue": "Whitney Museum",
+      "start": "2026-04-01T10:00:00-04:00",
+      "end": "2026-12-31T17:00:00-04:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Whitney Museum",
+          "url": "https://whitney.org/exhibitions"
+        }
+      ],
+      "description": "Rotating selection of American art from the Whitney's permanent collection. Free admission on Friday nights."
+    },
+    {
+      "id": "e-2cb1a7b759",
+      "title": "Ocean Wonders Special Exhibit",
+      "category": "mindeye",
+      "subcategory": "museum-art",
+      "tags": [
+        "m-science"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "American Museum of Natural History",
+      "start": "2026-04-15T10:00:00-04:00",
+      "end": "2026-10-15T17:00:00-04:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "American Museum of Natural History",
+          "url": "https://www.amnh.org/exhibitions"
+        }
+      ],
+      "description": "Deep-sea life rendered in immersive video and live specimens. Part of the museum's ongoing climate exhibition program."
     },
     {
       "id": "e-8f8fe729c6",
@@ -1934,7 +2050,7 @@
         "free",
         "outdoor"
       ],
-      "neighborhood": "midtownW",
+      "neighborhood": "gramercy",
       "borough": "manhattan",
       "venue": "Union Square Plaza: 17/18 Broadway University Place between E 17 st and E 18th st,  EAST   18 STREET between BROADWAY and PARK AVENUE SOUTH",
       "start": "2026-05-22T10:00:00.000-04:00",
