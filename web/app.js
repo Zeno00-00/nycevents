@@ -117,10 +117,21 @@
     const s = new Date(ev.start), e = new Date(ev.end);
     return s <= TODAY && TODAY <= e;
   }
+  function endOfThisWeekETKey() {
+    // ET day-of-week for TODAY: Sun=0, Mon=1, ..., Sat=6
+    const dayName = new Intl.DateTimeFormat('en-US', { timeZone: TZ, weekday: 'short' }).format(TODAY);
+    const idx = { Sun: 0, Mon: 1, Tue: 2, Wed: 3, Thu: 4, Fri: 5, Sat: 6 }[dayName] ?? 0;
+    const daysToSun = (7 - idx) % 7;       // 0 if already Sunday
+    const endDay = new Date(TODAY.getTime() + daysToSun * 86400000);
+    return etDayKey(endDay);
+  }
+
   function isThisWeek(ev) {
-    const s = new Date(ev.start);
-    const weekOut = new Date(TODAY.getTime() + 7 * 86400000);
-    return s >= TODAY && s <= weekOut;
+    // Today (ET) through end of the upcoming Sunday (ET), inclusive.
+    const sKey = etDayKey(new Date(ev.start));
+    const todayKey = etDayKey(TODAY);
+    if (sKey < todayKey) return false;
+    return sKey <= endOfThisWeekETKey();
   }
   function isUpcoming(ev) {
     const s = new Date(ev.start);
@@ -296,6 +307,7 @@
       e.borough === state.borough && (isThisWeek(e) || isRunningNow(e))
     );
 
+    const columns = el('div', { class: 'cat-columns' });
     for (const c of CATS) {
       const inCat = pool.filter(e => e.category === c.id);
       // sort: interest-matched first, then by start
@@ -304,20 +316,21 @@
         if (am !== bm) return am ? -1 : 1;
         return new Date(a.start) - new Date(b.start);
       });
-      const section = el('div', { class: 'section' });
-      section.appendChild(el('div', { class: 'section-head' }, [
+      const col = el('div', { class: 'cat-column' });
+      col.appendChild(el('div', { class: 'col-head' }, [
         el('h2', {}, c.label),
         el('span', { class: 'count' }, String(inCat.length)),
       ]));
       if (inCat.length === 0) {
-        section.appendChild(el('div', { class: 'section-empty' }, 'Nothing this week.'));
+        col.appendChild(el('div', { class: 'col-empty' }, 'Nothing.'));
       } else {
-        const cards = el('div', { class: 'cards' });
+        const cards = el('div', { class: 'col-cards' });
         for (const ev of inCat) cards.appendChild(renderCard(ev));
-        section.appendChild(cards);
+        col.appendChild(cards);
       }
-      body.appendChild(section);
+      columns.appendChild(col);
     }
+    body.appendChild(columns);
     sheet.appendChild(body);
     return sheet;
   }
