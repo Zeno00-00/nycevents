@@ -252,6 +252,23 @@ def fetch_nyc_permits() -> Iterable[Event]:
             r.get("event_type"), r.get("event_agency"), name
         )
         venue = loc or (r.get("event_agency") or "Citywide")
+        # Build a 2-sentence summary from the structured fields.
+        agency = (r.get("event_agency") or "NYC").strip()
+        et_label = (r.get("event_type") or "permitted event").strip()
+        # Friendly time string
+        try:
+            s_dt = dt.datetime.fromisoformat(start.replace("Z", "+00:00"))
+            e_dt = dt.datetime.fromisoformat(end.replace("Z", "+00:00"))
+            same_day = s_dt.date() == e_dt.date()
+            day_str = s_dt.strftime("%A, %b %-d")
+            t_str = f"{s_dt.strftime('%-I:%M %p')}–{e_dt.strftime('%-I:%M %p')}"
+            when_str = f"{day_str}, {t_str}" if same_day else f"{s_dt.strftime('%b %-d')} – {e_dt.strftime('%b %-d')}"
+        except Exception:
+            when_str = ""
+        sent1 = f"A {et_label.lower()} hosted by {agency}."
+        sent2 = f"Takes place {when_str} at {loc}." if when_str else f"Location: {loc}."
+        description = f"{sent1} {sent2}".strip()
+
         yield Event(
             id=Event.make_id(name, start, venue),
             title=name,
@@ -264,7 +281,7 @@ def fetch_nyc_permits() -> Iterable[Event]:
                 "name": "NYC Open Data",
                 "url": f"https://data.cityofnewyork.us/d/tvpp-9vvx"
             }],
-            description=f"{r.get('event_agency','NYC')} permitted event · {r.get('event_type','')}".strip(" ·"),
+            description=description,
         )
 
 

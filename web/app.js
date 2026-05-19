@@ -36,12 +36,15 @@
       borough: 'manhattan',
       selectedHood: null,
       sheetExpanded: false,
-      interests: {},
-      saved: {},
+      interests: {},          // { subcategory|tag : 'yes' | 'no' } — set from settings
+      saved: {},              // { eventId : true } — flagged "Interested"
+      disliked: {},           // { eventId : true } — hidden via 👎
+      dislikeCounts: {},      // { subcategory : N } — feeds the learner
       tabFilters: {},
       activeMonth: null,
     };
   }
+  const DISLIKE_THRESHOLD = 3;  // auto-hide subcategory after this many 👎
   function saveState() {
     try { localStorage.setItem(STORE_KEY, JSON.stringify(state)); } catch (e) {}
   }
@@ -139,8 +142,24 @@
     return false;
   }
   function eventHidden(ev) {
+    if (state.disliked[ev.id]) return true;
     if (ev.subcategory && state.interests[ev.subcategory] === 'no') return true;
     return false;
+  }
+
+  function dislikeEvent(ev) {
+    state.disliked[ev.id] = true;
+    if (ev.subcategory) {
+      state.dislikeCounts[ev.subcategory] = (state.dislikeCounts[ev.subcategory] || 0) + 1;
+      // Auto-set interest to 'no' once threshold crossed
+      if (state.dislikeCounts[ev.subcategory] >= DISLIKE_THRESHOLD &&
+          state.interests[ev.subcategory] !== 'no') {
+        state.interests[ev.subcategory] = 'no';
+      }
+    }
+    // If saved, unsave
+    if (state.saved[ev.id]) delete state.saved[ev.id];
+    saveState();
   }
 
   // === Filtering ===
@@ -196,8 +215,9 @@
       countsByHood[ev.neighborhood] = (countsByHood[ev.neighborhood] || 0) + 1;
     }
 
+    const SVG_NS = 'http://www.w3.org/2000/svg';
     for (const h of hd.hoods) {
-      const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      const path = document.createElementNS(SVG_NS, 'path');
       path.setAttribute('d', h.path);
       path.setAttribute('class', 'hood' + (state.selectedHood === h.id ? ' active' : ''));
       path.addEventListener('click', () => {
@@ -207,22 +227,33 @@
       });
       svg.appendChild(path);
 
-      const label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      // Label: multi-line via tspans if `labels` array provided, else single line.
+      const label = document.createElementNS(SVG_NS, 'text');
       label.setAttribute('x', h.labelX);
       label.setAttribute('y', h.labelY);
       label.setAttribute('class', 'hood-label' + (state.selectedHood === h.id ? ' active' : ''));
-      label.textContent = h.name;
-      svg.appendChild(label);
+      const lines = (h.labels && h.labels.length) ? h.labels : [h.name];
+      const lineH = 10;
+      const startDy = -((lines.length - 1) * lineH) / 2;
+      lines.forEach((line, i) => {
+        const t = document.createElementNS(SVG_NS, 'tspan');
+        t.setAttribute('x', h.labelX);
+        t.setAttribute('dy', i === 0 ? startDy : lineH);
+        t.textContent = line;
+        label.appendChild(t);
+      });
 
+      // Event count appended after the last line (subtle, only if > 0).
       const cnt = countsByHood[h.id] || 0;
       if (cnt > 0) {
-        const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-        dot.setAttribute('cx', h.labelX + 26);
-        dot.setAttribute('cy', h.labelY - 4);
-        dot.setAttribute('r', Math.min(2 + cnt * 0.6, 5));
-        dot.setAttribute('class', 'hood-dot');
-        svg.appendChild(dot);
+        const c = document.createElementNS(SVG_NS, 'tspan');
+        c.setAttribute('x', h.labelX);
+        c.setAttribute('dy', lineH);
+        c.setAttribute('class', 'hood-count');
+        c.textContent = `${cnt} event${cnt === 1 ? '' : 's'}`;
+        label.appendChild(c);
       }
+      svg.appendChild(label);
     }
     return svg;
   }
@@ -314,9 +345,14 @@
     const actions = el('div', { class: 'actions' }, [
       el('span', { class: 'price ' + priceClass(ev.price) }, priceLabel(ev.price)),
       el('button', {
+        class: 'dislike',
+        title: 'Hide & learn',
+        on: { click: (e) => { e.stopPropagation(); dislikeEvent(ev); render(); } }
+      }, '👎'),
+      el('button', {
         class: 'star' + (isSaved ? ' on' : ''),
         on: { click: (e) => { e.stopPropagation(); toggleSaved(ev.id); render(); } }
-      }, isSaved ? '★ Saved' : '☆ Interested'),
+      }, isSaved ? '★ Saved' : '☆ Save'),
     ]);
     card.appendChild(actions);
     card.addEventListener('click', () => openDetail(ev));
@@ -444,10 +480,18 @@
     badges.appendChild(el('span', { class: 'tag' }, priceLabel(ev.price)));
     main.appendChild(badges);
     row.appendChild(main);
-    row.appendChild(el('button', {
-      class: 'tl-star' + (isSaved ? ' on' : ''),
-      on: { click: (e) => { e.stopPropagation(); toggleSaved(ev.id); render(); } }
-    }, isSaved ? '★' : '☆'));
+    const rowActions = el('div', { class: 'tl-actions' }, [
+      el('button', {
+        class: 'tl-star tl-dislike',
+        title: 'Hide & learn',
+        on: { click: (e) => { e.stopPropagation(); dislikeEvent(ev); render(); } }
+      }, '👎'),
+      el('button', {
+        class: 'tl-star' + (isSaved ? ' on' : ''),
+        on: { click: (e) => { e.stopPropagation(); toggleSaved(ev.id); render(); } }
+      }, isSaved ? '★' : '☆'),
+    ]);
+    row.appendChild(rowActions);
     row.addEventListener('click', () => openDetail(ev));
     return row;
   }
@@ -550,7 +594,11 @@
     acts.appendChild(el('button', {
       class: 'primary',
       on: { click: () => { toggleSaved(ev.id); backdrop.remove(); render(); } }
-    }, isSaved ? '★ Saved' : '☆ Interested'));
+    }, isSaved ? '★ Saved' : '☆ Save'));
+    acts.appendChild(el('button', {
+      class: 'dislike-btn',
+      on: { click: () => { dislikeEvent(ev); backdrop.remove(); render(); } }
+    }, '👎 Hide'));
     acts.appendChild(el('button', {
       on: { click: () => backdrop.remove() }
     }, 'Close'));

@@ -128,16 +128,17 @@ button { font: inherit; }
 .hood:hover { fill: var(--hood-fill-hover); }
 .hood.active { fill: var(--hood-fill-active); stroke: var(--accent); stroke-width: 1.8; }
 .hood-label {
-  fill: var(--muted);
+  fill: var(--text);
   font-size: 9px;
   font-weight: 500;
   pointer-events: none;
   text-anchor: middle;
 }
 .hood-label.active { fill: var(--accent); }
-.hood-dot {
+.hood-label .hood-count {
   fill: var(--accent);
-  pointer-events: none;
+  font-size: 8px;
+  font-weight: 600;
 }
 
 /* === Bottom sheet === */
@@ -261,7 +262,6 @@ button { font: inherit; }
 }
 .card .price.free { color: var(--good); }
 .card .star {
-  margin-left: auto;
   background: transparent;
   border: 1px solid var(--border);
   color: var(--muted);
@@ -271,6 +271,17 @@ button { font: inherit; }
   cursor: pointer;
 }
 .card .star.on { color: var(--accent); border-color: var(--accent); background: var(--accent-soft); }
+.card .dislike {
+  margin-left: auto;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--muted);
+  border-radius: 999px;
+  padding: 4px 9px;
+  font-size: 13px;
+  cursor: pointer;
+}
+.card .dislike:hover { background: rgba(199, 90, 90, 0.12); border-color: var(--danger); }
 .card .match-badge {
   position: absolute;
   top: 10px; right: 10px;
@@ -365,13 +376,22 @@ button { font: inherit; }
   letter-spacing: 0.04em;
 }
 .tl-main .tag.tent { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); }
+.tl-actions {
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  gap: 4px;
+  padding-left: 4px;
+}
 .tl-star {
   background: transparent;
   border: none; color: var(--muted);
-  font-size: 18px;
-  padding: 0 4px;
+  font-size: 16px;
+  padding: 2px 6px;
+  cursor: pointer;
 }
-.tl-star.on { color: var(--accent); }
+.tl-star.on { color: var(--accent); font-size: 18px; }
+.tl-dislike { font-size: 14px; opacity: 0.65; }
+.tl-dislike:hover { opacity: 1; }
 
 /* === Saved tab === */
 .saved-empty {
@@ -474,4 +494,12 @@ button { font: inherit; }
   background: var(--accent-soft);
   border-color: var(--accent);
   color: var(--accent);
+}
+.modal-actions button.dislike-btn {
+  color: var(--muted);
+}
+.modal-actions button.dislike-btn:hover {
+  background: rgba(199, 90, 90, 0.12);
+  border-color: var(--danger);
+  color: var(--danger);
 }
