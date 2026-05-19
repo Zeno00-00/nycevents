@@ -554,35 +554,52 @@ def fetch_ticketmaster() -> Iterable[Event]:
     """
     key = os.environ.get("TM_API_KEY")
     if not key:
+        print("  ticketmaster: TM_API_KEY not set — skipping")
         return
 
     today = dt.date.today()
     end_window = today + dt.timedelta(days=180)
     base = "https://app.ticketmaster.com/discovery/v2/events.json"
 
-    # Paginate up to 5 pages of 200 (TM hard caps at ~1000 results per query)
+    # Use repeated classificationName params (TM accepts either; this avoids any
+    # comma-encoding edge cases). Also use marketId=345 (NYC DMA) for tighter scope.
+    total_pages_seen = 0
+    total_events_kept = 0
+    total_filtered_loc = 0
     for page in range(5):
-        params = {
-            "apikey": key,
-            "city": "New York",
-            "stateCode": "NY",
-            "countryCode": "US",
-            "classificationName": "music,arts & theatre,comedy",
-            "startDateTime": f"{today.isoformat()}T00:00:00Z",
-            "endDateTime":   f"{end_window.isoformat()}T23:59:59Z",
-            "size": 200,
-            "page": page,
-            "sort": "date,asc",
-        }
+        params = [
+            ("apikey", key),
+            ("marketId", "345"),                       # NYC market
+            ("classificationName", "Music"),
+            ("classificationName", "Arts & Theatre"),
+            ("classificationName", "Comedy"),
+            ("startDateTime", f"{today.isoformat()}T00:00:00Z"),
+            ("endDateTime",   f"{end_window.isoformat()}T23:59:59Z"),
+            ("size", "200"),
+            ("page", str(page)),
+            ("sort", "date,asc"),
+        ]
         url = base + "?" + urllib.parse.urlencode(params)
         try:
             body = http_get(url, timeout=30)
         except urllib.error.HTTPError as e:
-            print(f"  ticketmaster page {page} failed: {e}", file=sys.stderr)
+            err_body = ""
+            try: err_body = e.read().decode("utf-8", errors="replace")[:200]
+            except Exception: pass
+            print(f"  ticketmaster page {page} HTTP {e.code}: {err_body}", file=sys.stderr)
             break
-        data = json.loads(body)
+        except Exception as e:
+            print(f"  ticketmaster page {page} error: {type(e).__name__}: {e}", file=sys.stderr)
+            break
+        try:
+            data = json.loads(body)
+        except json.JSONDecodeError as e:
+            print(f"  ticketmaster page {page} bad JSON: {e}", file=sys.stderr)
+            break
         events_arr = (data.get("_embedded") or {}).get("events") or []
+        total_pages_seen += 1
         if not events_arr:
+            print(f"  ticketmaster page {page}: 0 events returned, stopping")
             break
 
         for r in events_arr:
@@ -602,14 +619,22 @@ def fetch_ticketmaster() -> Iterable[Event]:
             v = venues[0] if venues else {}
             venue_name = (v.get("name") or "Unknown venue").strip()
             v_city = ((v.get("city") or {}).get("name") or "").lower()
-            # Skip events that aren't actually in NYC (TM "New York" returns surrounding metro)
-            if "new york" not in v_city and "brooklyn" not in v_city and "queens" not in v_city:
-                continue
             v_state = ((v.get("state") or {}).get("stateCode") or "").upper()
+            # Restrict to NYC (TM "marketId=345" already does this loosely, but double-check)
             if v_state and v_state != "NY":
+                total_filtered_loc += 1
+                continue
+            nyc_cities = {"new york", "brooklyn", "queens", "long island city",
+                          "astoria", "flushing", "williamsburg"}
+            if v_city and not any(c in v_city for c in nyc_cities):
+                total_filtered_loc += 1
                 continue
 
-            hood, boro = map_hood("Manhattan", venue_name, None)
+            # Pick borough from city name as a hint to map_hood
+            boro_hint = "Brooklyn" if "brooklyn" in v_city else (
+                        "Queens"   if any(c in v_city for c in ["queens","flushing","astoria","long island city"]) else
+                        "Manhattan")
+            hood, boro = map_hood(boro_hint, venue_name, None)
             if hood in DROP_HOODS:
                 continue
 
@@ -642,11 +667,14 @@ def fetch_ticketmaster() -> Iterable[Event]:
                 sources=[{"name": "Ticketmaster", "url": r.get("url", "https://www.ticketmaster.com")}],
                 description=f"{sent1} {sent2}".strip(),
             )
+            total_events_kept += 1
 
         # Stop if last page
         pageinfo = data.get("page") or {}
         if pageinfo.get("number", page) + 1 >= pageinfo.get("totalPages", 1):
             break
+
+    print(f"  ticketmaster summary: {total_pages_seen} pages, {total_events_kept} kept, {total_filtered_loc} filtered by location")
 
 
 # Register adapters in run order.
