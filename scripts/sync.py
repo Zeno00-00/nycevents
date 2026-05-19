@@ -70,11 +70,14 @@ def http_get(url: str, timeout: int = 25) -> str:
 
 
 # ---------- Neighborhood/borough mapping ----------
+# Neighborhoods we don't surface — events that resolve here get dropped.
+DROP_HOODS = {"harlem", "morningside"}
+
 # Manhattan community board → neighborhood id (matches web/data/neighborhoods.json)
+# CB 9-12 (Morningside through Inwood) intentionally omitted — user excluded those.
 MN_CB_HOOD = {
     "1": "fidi", "2": "westvillage", "3": "eastvillage", "4": "chelsea",
     "5": "midtownW", "6": "gramercy", "7": "uws", "8": "ues",
-    "9": "morningside", "10": "harlem", "11": "harlem", "12": "harlem",
 }
 # Outer borough community board → neighborhood
 BK_CB_HOOD = {
@@ -85,8 +88,6 @@ QN_CB_HOOD = { "1": "lic", "2": "lic", "7": "flushing", "8": "flushing" }
 
 # Keyword fallback when CB not available
 HOOD_KEYWORDS = [
-    ("harlem",       ["harlem", "125th"]),
-    ("morningside",  ["morningside", "manhattanville", "columbia"]),
     ("uws",          ["upper west", "lincoln center", "amsterdam ave", "columbus ave", "west 7", "west 8", "west 9"]),
     ("ues",          ["upper east", "lexington ave", "park ave", "madison ave", "east 7", "east 8", "east 9"]),
     ("midtownW",     ["times square", "hell's kitchen", "8th ave", "9th ave", "10th ave", "broadway"]),
@@ -245,6 +246,8 @@ def fetch_nyc_permits() -> Iterable[Event]:
         cb = re.findall(r"\d+", str(cb_raw))
         cb = cb[0] if cb else None
         hood, boro = map_hood(borough_raw, loc, cb)
+        if hood in DROP_HOODS:
+            continue
         category, sub, tags = classify_open_data(
             r.get("event_type"), r.get("event_agency"), name
         )
@@ -415,12 +418,11 @@ def fetch_gothamist_rss() -> Iterable[Event]:
 
 
 # Register adapters in run order.
+# News RSS adapters (timeout / skint / gothamist) intentionally disabled —
+# they return articles, not scheduled events. Functions kept for reference.
 ADAPTERS: list[tuple[str, Callable[[], Iterable[Event]]]] = [
     ("tentpoles",   fetch_tentpoles),
     ("nyc_permits", fetch_nyc_permits),
-    ("timeout",     fetch_timeout_rss),
-    ("skint",       fetch_skint_rss),
-    ("gothamist",   fetch_gothamist_rss),
 ]
 
 

@@ -3,10 +3,8 @@
   "manhattan": {
     "viewBox": "0 0 200 600",
     "hoods": [
-      { "id": "harlem",       "name": "Harlem",           "path": "M50,20 L155,40 L155,100 L60,90 Z",   "labelX": 105, "labelY": 65 },
-      { "id": "morningside",  "name": "Morningside",      "path": "M60,90 L110,100 L110,150 L55,140 Z", "labelX": 80,  "labelY": 122 },
-      { "id": "uws",          "name": "Upper West Side",  "path": "M55,140 L110,150 L110,230 L48,220 Z","labelX": 80,  "labelY": 190 },
-      { "id": "ues",          "name": "Upper East Side",  "path": "M110,100 L155,100 L160,230 L110,230 Z","labelX":135,"labelY": 165 },
+      { "id": "uws",          "name": "Upper West Side",  "path": "M55,40 L110,40 L110,230 L48,220 Z",  "labelX": 80,  "labelY": 135 },
+      { "id": "ues",          "name": "Upper East Side",  "path": "M110,40 L155,40 L160,230 L110,230 Z","labelX":135, "labelY": 135 },
       { "id": "midtownW",     "name": "Midtown West",     "path": "M48,220 L110,230 L110,290 L46,280 Z","labelX": 78,  "labelY": 257 },
       { "id": "midtownE",     "name": "Midtown East",     "path": "M110,230 L160,230 L160,290 L110,290 Z","labelX":135, "labelY": 260 },
       { "id": "chelsea",      "name": "Chelsea",          "path": "M46,280 L110,290 L110,335 L48,330 Z","labelX": 78,  "labelY": 312 },
