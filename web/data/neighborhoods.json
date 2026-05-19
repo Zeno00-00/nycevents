@@ -1,0 +1,34 @@
+{
+  "_comment": "Stylized neighborhood polygons. Coordinates roughly approximate Manhattan / outer borough geography on a 200x600 SVG canvas. Not GIS-accurate.",
+  "manhattan": {
+    "viewBox": "0 0 200 600",
+    "hoods": [
+      { "id": "harlem",       "name": "Harlem",           "path": "M50,20 L155,40 L155,100 L60,90 Z",   "labelX": 105, "labelY": 65 },
+      { "id": "morningside",  "name": "Morningside",      "path": "M60,90 L110,100 L110,150 L55,140 Z", "labelX": 80,  "labelY": 122 },
+      { "id": "uws",          "name": "Upper West Side",  "path": "M55,140 L110,150 L110,230 L48,220 Z","labelX": 80,  "labelY": 190 },
+      { "id": "ues",          "name": "Upper East Side",  "path": "M110,100 L155,100 L160,230 L110,230 Z","labelX":135,"labelY": 165 },
+      { "id": "midtownW",     "name": "Midtown West",     "path": "M48,220 L110,230 L110,290 L46,280 Z","labelX": 78,  "labelY": 257 },
+      { "id": "midtownE",     "name": "Midtown East",     "path": "M110,230 L160,230 L160,290 L110,290 Z","labelX":135, "labelY": 260 },
+      { "id": "chelsea",      "name": "Chelsea",          "path": "M46,280 L110,290 L110,335 L48,330 Z","labelX": 78,  "labelY": 312 },
+      { "id": "gramercy",     "name": "Gramercy",         "path": "M110,290 L160,290 L158,335 L110,335 Z","labelX":134,"labelY": 314 },
+      { "id": "westvillage",  "name": "West Village",     "path": "M48,330 L100,335 L100,380 L52,375 Z","labelX": 76,  "labelY": 357 },
+      { "id": "eastvillage",  "name": "East Village",     "path": "M100,335 L158,335 L155,378 L100,380 Z","labelX":128, "labelY": 358 },
+      { "id": "soho",         "name": "SoHo / Tribeca",   "path": "M52,375 L105,380 L100,440 L58,440 Z","labelX": 78,  "labelY": 412 },
+      { "id": "les",          "name": "Lower East Side",  "path": "M105,380 L155,378 L150,440 L100,440 Z","labelX":127, "labelY": 412 },
+      { "id": "fidi",         "name": "FiDi",             "path": "M58,440 L150,440 L130,505 L75,500 Z","labelX":102, "labelY": 472 }
+    ]
+  },
+  "outer": {
+    "viewBox": "0 0 200 600",
+    "hoods": [
+      { "id": "williamsburg", "name": "Williamsburg",          "path": "M30,30 L100,30 L100,90 L30,90 Z",   "labelX": 65,  "labelY": 62 },
+      { "id": "lic",          "name": "LIC / Astoria",         "path": "M100,30 L175,30 L175,90 L100,90 Z", "labelX": 137, "labelY": 62 },
+      { "id": "bushwick",     "name": "Bushwick",              "path": "M30,90 L100,90 L100,160 L30,160 Z", "labelX": 65,  "labelY": 125 },
+      { "id": "flushing",     "name": "Flushing / Queens",     "path": "M100,90 L175,90 L175,200 L100,200 Z","labelX": 137, "labelY": 145 },
+      { "id": "dumbo",        "name": "DUMBO / Bklyn Hts",     "path": "M30,160 L100,160 L100,230 L30,230 Z","labelX": 65,  "labelY": 195 },
+      { "id": "parkslope",    "name": "Park Slope",            "path": "M30,230 L100,230 L100,300 L30,300 Z","labelX": 65,  "labelY": 265 },
+      { "id": "redhook",      "name": "Red Hook / Gowanus",    "path": "M30,300 L100,300 L100,370 L30,370 Z","labelX": 65,  "labelY": 335 },
+      { "id": "crownhts",     "name": "Crown Heights",         "path": "M100,200 L175,200 L175,370 L100,370 Z","labelX": 137, "labelY": 285 }
+    ]
+  }
+}

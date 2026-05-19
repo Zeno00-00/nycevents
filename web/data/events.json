@@ -1,0 +1,2809 @@
+{
+  "generated_at": "2026-05-18T20:51:00.416374-04:00",
+  "events": [
+    {
+      "id": "e-79c61f6e7c",
+      "title": "Distinguished Gentleman's Ride NYC",
+      "category": "outabout",
+      "subcategory": "themed-ride",
+      "tags": [
+        "outdoor",
+        "charity"
+      ],
+      "neighborhood": "soho",
+      "borough": "manhattan",
+      "venue": "Starts SoHo",
+      "start": "2026-09-27T10:00:00-04:00",
+      "end": "2026-09-27T14:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "DGR",
+          "url": "https://www.gentlemansride.com/"
+        }
+      ],
+      "description": "Annual classic motorcycle ride raising funds for men's health. Riders in dapper attire."
+    },
+    {
+      "id": "e-648605d005",
+      "title": "Open House New York Weekend",
+      "category": "outabout",
+      "subcategory": "ohny",
+      "tags": [
+        "free",
+        "architecture"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Citywide",
+      "start": "2026-10-17T09:00:00-04:00",
+      "end": "2026-10-19T17:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "OHNY",
+          "url": "https://ohny.org/"
+        }
+      ],
+      "description": "Hundreds of normally-closed buildings open to the public for one weekend."
+    },
+    {
+      "id": "e-dbe5c71b92",
+      "title": "NY Fashion Week (S/S)",
+      "category": "outabout",
+      "subcategory": "fashion-week",
+      "tags": [
+        "fashion"
+      ],
+      "neighborhood": "soho",
+      "borough": "manhattan",
+      "venue": "Citywide venues",
+      "start": "2026-09-10T09:00:00-04:00",
+      "end": "2026-09-17T22:00:00-04:00",
+      "price": "$$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "CFDA",
+          "url": "https://cfda.com/"
+        }
+      ],
+      "description": "Spring/Summer collections. Mix of public and invite-only shows."
+    },
+    {
+      "id": "e-3c9905289d",
+      "title": "NY Fashion Week (F/W)",
+      "category": "outabout",
+      "subcategory": "fashion-week",
+      "tags": [
+        "fashion"
+      ],
+      "neighborhood": "soho",
+      "borough": "manhattan",
+      "venue": "Citywide venues",
+      "start": "2026-02-12T09:00:00-04:00",
+      "end": "2026-02-19T22:00:00-04:00",
+      "price": "$$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "CFDA",
+          "url": "https://cfda.com/"
+        }
+      ],
+      "description": "Fall/Winter collections. Mix of public and invite-only shows."
+    },
+    {
+      "id": "e-24c3d1335f",
+      "title": "Frieze New York",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "art",
+        "fair"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "The Shed",
+      "start": "2026-05-14T11:00:00-04:00",
+      "end": "2026-05-18T19:00:00-04:00",
+      "price": "$$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Frieze",
+          "url": "https://www.frieze.com/fairs/frieze-new-york"
+        }
+      ],
+      "description": "Annual contemporary art fair. 60+ galleries from around the world."
+    },
+    {
+      "id": "e-a92e96f311",
+      "title": "Tribeca Film Festival",
+      "category": "outabout",
+      "subcategory": "film-festival",
+      "tags": [
+        "film",
+        "festival"
+      ],
+      "neighborhood": "soho",
+      "borough": "manhattan",
+      "venue": "Multiple venues, Tribeca",
+      "start": "2026-06-11T10:00:00-04:00",
+      "end": "2026-06-22T22:00:00-04:00",
+      "price": "$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Tribeca",
+          "url": "https://tribecafilm.com/"
+        }
+      ],
+      "description": "Eleven days of premieres, talks, and screenings across Lower Manhattan."
+    },
+    {
+      "id": "e-49b7c5ad94",
+      "title": "New York Film Festival",
+      "category": "outabout",
+      "subcategory": "film-festival",
+      "tags": [
+        "film",
+        "festival"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "Lincoln Center",
+      "start": "2026-09-25T10:00:00-04:00",
+      "end": "2026-10-11T22:00:00-04:00",
+      "price": "$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Film at Lincoln Center",
+          "url": "https://www.filmlinc.org/"
+        }
+      ],
+      "description": "Curated lineup of the year's most acclaimed international films."
+    },
+    {
+      "id": "e-46e4d6b412",
+      "title": "Bryant Park Holiday Market",
+      "category": "outabout",
+      "subcategory": "holiday-market",
+      "tags": [
+        "free",
+        "holiday",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Bryant Park",
+      "start": "2026-10-30T11:00:00-04:00",
+      "end": "2026-12-31T19:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Bryant Park",
+          "url": "https://bryantpark.org/"
+        }
+      ],
+      "description": "170+ shops, ice skating, and food village. Free admission."
+    },
+    {
+      "id": "e-618025b2bb",
+      "title": "Macy's Thanksgiving Day Parade",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "parade",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Central Park West to 34th St",
+      "start": "2026-11-26T09:00:00-04:00",
+      "end": "2026-11-26T12:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Macy's",
+          "url": "https://www.macys.com/social/parade/"
+        }
+      ],
+      "description": "Annual Thanksgiving Day parade with giant balloons and floats."
+    },
+    {
+      "id": "e-fb1d5f7901",
+      "title": "Rockefeller Center Tree Lighting",
+      "category": "outabout",
+      "subcategory": "holiday-market",
+      "tags": [
+        "free",
+        "holiday"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Rockefeller Plaza",
+      "start": "2026-12-02T19:00:00-04:00",
+      "end": "2026-12-02T22:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Rockefeller Center",
+          "url": "https://www.rockefellercenter.com/"
+        }
+      ],
+      "description": "Annual Christmas tree lighting ceremony, broadcast live."
+    },
+    {
+      "id": "e-6ce11a2a97",
+      "title": "Times Square New Year's Eve Ball Drop",
+      "category": "outabout",
+      "subcategory": "fireworks",
+      "tags": [
+        "free",
+        "holiday"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Times Square",
+      "start": "2026-12-31T18:00:00-04:00",
+      "end": "2026-12-31T23:59:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Times Square Alliance",
+          "url": "https://www.timessquarenyc.org/nye"
+        }
+      ],
+      "description": "Annual midnight ball drop. Arrive early; expect heavy crowds and security."
+    },
+    {
+      "id": "e-09a7e78dfa",
+      "title": "Macy's 4th of July Fireworks",
+      "category": "outabout",
+      "subcategory": "fireworks",
+      "tags": [
+        "free",
+        "holiday"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "East River (varies)",
+      "start": "2026-07-04T21:00:00-04:00",
+      "end": "2026-07-04T22:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Macy's",
+          "url": "https://www.macys.com/social/fireworks/"
+        }
+      ],
+      "description": "Annual Independence Day fireworks over the East River."
+    },
+    {
+      "id": "e-9de98d3e69",
+      "title": "Armory Show",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "art",
+        "fair"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Javits Center",
+      "start": "2026-09-10T11:00:00-04:00",
+      "end": "2026-09-14T19:00:00-04:00",
+      "price": "$$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "The Armory Show",
+          "url": "https://www.thearmoryshow.com/"
+        }
+      ],
+      "description": "Annual international contemporary and modern art fair."
+    },
+    {
+      "id": "e-468aaf60a0",
+      "title": "Distinguished Gentleman's Ride NYC",
+      "category": "outabout",
+      "subcategory": "themed-ride",
+      "tags": [
+        "outdoor",
+        "charity"
+      ],
+      "neighborhood": "soho",
+      "borough": "manhattan",
+      "venue": "Starts SoHo",
+      "start": "2027-09-26T10:00:00-04:00",
+      "end": "2027-09-26T14:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "DGR",
+          "url": "https://www.gentlemansride.com/"
+        }
+      ],
+      "description": "Annual classic motorcycle ride raising funds for men's health. Riders in dapper attire."
+    },
+    {
+      "id": "e-dc08e81d01",
+      "title": "Open House New York Weekend",
+      "category": "outabout",
+      "subcategory": "ohny",
+      "tags": [
+        "free",
+        "architecture"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Citywide",
+      "start": "2027-10-16T09:00:00-04:00",
+      "end": "2027-10-18T17:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "OHNY",
+          "url": "https://ohny.org/"
+        }
+      ],
+      "description": "Hundreds of normally-closed buildings open to the public for one weekend."
+    },
+    {
+      "id": "e-82af42c2a2",
+      "title": "NY Fashion Week (S/S)",
+      "category": "outabout",
+      "subcategory": "fashion-week",
+      "tags": [
+        "fashion"
+      ],
+      "neighborhood": "soho",
+      "borough": "manhattan",
+      "venue": "Citywide venues",
+      "start": "2027-09-09T09:00:00-04:00",
+      "end": "2027-09-16T22:00:00-04:00",
+      "price": "$$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "CFDA",
+          "url": "https://cfda.com/"
+        }
+      ],
+      "description": "Spring/Summer collections. Mix of public and invite-only shows."
+    },
+    {
+      "id": "e-cd5ee67643",
+      "title": "NY Fashion Week (F/W)",
+      "category": "outabout",
+      "subcategory": "fashion-week",
+      "tags": [
+        "fashion"
+      ],
+      "neighborhood": "soho",
+      "borough": "manhattan",
+      "venue": "Citywide venues",
+      "start": "2027-02-11T09:00:00-04:00",
+      "end": "2027-02-18T22:00:00-04:00",
+      "price": "$$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "CFDA",
+          "url": "https://cfda.com/"
+        }
+      ],
+      "description": "Fall/Winter collections. Mix of public and invite-only shows."
+    },
+    {
+      "id": "e-7e64aaa710",
+      "title": "Frieze New York",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "art",
+        "fair"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "The Shed",
+      "start": "2027-05-13T11:00:00-04:00",
+      "end": "2027-05-17T19:00:00-04:00",
+      "price": "$$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Frieze",
+          "url": "https://www.frieze.com/fairs/frieze-new-york"
+        }
+      ],
+      "description": "Annual contemporary art fair. 60+ galleries from around the world."
+    },
+    {
+      "id": "e-2b4eb23660",
+      "title": "Tribeca Film Festival",
+      "category": "outabout",
+      "subcategory": "film-festival",
+      "tags": [
+        "film",
+        "festival"
+      ],
+      "neighborhood": "soho",
+      "borough": "manhattan",
+      "venue": "Multiple venues, Tribeca",
+      "start": "2027-06-10T10:00:00-04:00",
+      "end": "2027-06-21T22:00:00-04:00",
+      "price": "$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Tribeca",
+          "url": "https://tribecafilm.com/"
+        }
+      ],
+      "description": "Eleven days of premieres, talks, and screenings across Lower Manhattan."
+    },
+    {
+      "id": "e-92d1bc738c",
+      "title": "New York Film Festival",
+      "category": "outabout",
+      "subcategory": "film-festival",
+      "tags": [
+        "film",
+        "festival"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "Lincoln Center",
+      "start": "2027-09-24T10:00:00-04:00",
+      "end": "2027-10-10T22:00:00-04:00",
+      "price": "$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Film at Lincoln Center",
+          "url": "https://www.filmlinc.org/"
+        }
+      ],
+      "description": "Curated lineup of the year's most acclaimed international films."
+    },
+    {
+      "id": "e-35a949624d",
+      "title": "Bryant Park Holiday Market",
+      "category": "outabout",
+      "subcategory": "holiday-market",
+      "tags": [
+        "free",
+        "holiday",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Bryant Park",
+      "start": "2027-10-30T11:00:00-04:00",
+      "end": "2027-12-31T19:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Bryant Park",
+          "url": "https://bryantpark.org/"
+        }
+      ],
+      "description": "170+ shops, ice skating, and food village. Free admission."
+    },
+    {
+      "id": "e-cb6ababe91",
+      "title": "Macy's Thanksgiving Day Parade",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "parade",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Central Park West to 34th St",
+      "start": "2027-11-25T09:00:00-04:00",
+      "end": "2027-11-25T12:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Macy's",
+          "url": "https://www.macys.com/social/parade/"
+        }
+      ],
+      "description": "Annual Thanksgiving Day parade with giant balloons and floats."
+    },
+    {
+      "id": "e-eabf1a936f",
+      "title": "Rockefeller Center Tree Lighting",
+      "category": "outabout",
+      "subcategory": "holiday-market",
+      "tags": [
+        "free",
+        "holiday"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Rockefeller Plaza",
+      "start": "2027-12-01T19:00:00-04:00",
+      "end": "2027-12-01T22:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Rockefeller Center",
+          "url": "https://www.rockefellercenter.com/"
+        }
+      ],
+      "description": "Annual Christmas tree lighting ceremony, broadcast live."
+    },
+    {
+      "id": "e-4436d9b3e9",
+      "title": "Times Square New Year's Eve Ball Drop",
+      "category": "outabout",
+      "subcategory": "fireworks",
+      "tags": [
+        "free",
+        "holiday"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Times Square",
+      "start": "2027-12-31T18:00:00-04:00",
+      "end": "2027-12-31T23:59:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Times Square Alliance",
+          "url": "https://www.timessquarenyc.org/nye"
+        }
+      ],
+      "description": "Annual midnight ball drop. Arrive early; expect heavy crowds and security."
+    },
+    {
+      "id": "e-9b7bb5373b",
+      "title": "Macy's 4th of July Fireworks",
+      "category": "outabout",
+      "subcategory": "fireworks",
+      "tags": [
+        "free",
+        "holiday"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "East River (varies)",
+      "start": "2027-07-04T21:00:00-04:00",
+      "end": "2027-07-04T22:00:00-04:00",
+      "price": "free",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "Macy's",
+          "url": "https://www.macys.com/social/fireworks/"
+        }
+      ],
+      "description": "Annual Independence Day fireworks over the East River."
+    },
+    {
+      "id": "e-9fba0032b7",
+      "title": "Armory Show",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "art",
+        "fair"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Javits Center",
+      "start": "2027-09-09T11:00:00-04:00",
+      "end": "2027-09-13T19:00:00-04:00",
+      "price": "$$$",
+      "tentpole": true,
+      "sources": [
+        {
+          "name": "The Armory Show",
+          "url": "https://www.thearmoryshow.com/"
+        }
+      ],
+      "description": "Annual international contemporary and modern art fair."
+    },
+    {
+      "id": "e-f484c41e6f",
+      "title": "AIDS Walk New York '2026",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Central Park: Bandshell Plaza   ,Central Park: 72nd Street Cross Drive ,Central Park: Dead Road North ,Central Park: The Mall ,Central Park: South Dead Road A ,Central Park: South Dead Road B ,Central Park: Cherry Hill ,Central Park: Center Loop ,Central Park: Literary Walk ,Central Park: 102nd Street Cross Drive ,Central Park: Wagner Cove",
+      "start": "2026-05-18T02:00:00.000-04:00",
+      "end": "2026-05-18T23:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-8fe09166eb",
+      "title": "Tienda de Pueblo",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "34 AVENUE between 77 STREET and 78 STREET",
+      "start": "2026-05-18T07:00:00.000-04:00",
+      "end": "2026-05-18T12:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Open Street Partner Event"
+    },
+    {
+      "id": "e-4e2bd62cfd",
+      "title": "Immigrant Culture Month at Avenue C Plaza",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE",
+      "start": "2026-05-18T09:00:00.000-04:00",
+      "end": "2026-05-18T23:30:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Event"
+    },
+    {
+      "id": "e-132666f8c8",
+      "title": "Music Performances and Fitness Classes and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET",
+      "start": "2026-05-18T09:00:00.000-04:00",
+      "end": "2026-05-18T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-904c036bb5",
+      "title": "Live Music and Dance Performances and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street",
+      "start": "2026-05-18T09:00:00.000-04:00",
+      "end": "2026-05-18T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-189647b545",
+      "title": "Mt. Hope Pl PS 28 Open Street Event",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "MOUNT HOPE PLACE OPEN STREET: MOUNT HOPE PLACE OPEN STREET",
+      "start": "2026-05-18T09:00:00.000-04:00",
+      "end": "2026-05-18T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Street Event"
+    },
+    {
+      "id": "e-f40525b3e3",
+      "title": "Walk-a-Thon Spirit Day",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Forest Park: BBQ Area Blue   ,Forest Park: BBQ Area Purple ,Forest Park: BBQ Area Teal",
+      "start": "2026-05-18T10:00:00.000-04:00",
+      "end": "2026-05-18T14:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-ab1b4ed479",
+      "title": "Teachers College-Columbia University Convocation 2026",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "harlem",
+      "borough": "manhattan",
+      "venue": "Plaza de Las Americas: Plaza de Las Americas WEST  175 STREET between BROADWAY and WADSWORTH AVENUE",
+      "start": "2026-05-18T11:00:00.000-04:00",
+      "end": "2026-05-19T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Event"
+    },
+    {
+      "id": "e-847d15500d",
+      "title": "SKETCHING MAY MONDAYS: Workshop Series with Queens College",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Alley Athletic Playground: Alley Athletic Playground Parking Lot",
+      "start": "2026-05-18T17:00:00.000-04:00",
+      "end": "2026-05-18T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-00cccf346c",
+      "title": "Yoga Series Weekdays",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "chelsea",
+      "borough": "manhattan",
+      "venue": "Bella Abzug Park : Block 2 (between 34th street & 35th street)",
+      "start": "2026-05-18T17:30:00.000-04:00",
+      "end": "2026-05-18T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-dd0334958a",
+      "title": "Chelsea Piers Fitness Series",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "dumbo",
+      "borough": "outer",
+      "venue": "Fort Greene Park: Monument Plaza",
+      "start": "2026-05-18T17:30:00.000-04:00",
+      "end": "2026-05-18T19:30:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-8f8fe729c6",
+      "title": "Green Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "fidi",
+      "borough": "manhattan",
+      "venue": "Bowling Green: Subway Plaza (Cobblestone)",
+      "start": "2026-05-19T00:00:00.000-04:00",
+      "end": "2026-05-19T23:55:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-9a4951155a",
+      "title": "HHFM Mt. Eden Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Mount Eden Malls: Mount Eden Malls",
+      "start": "2026-05-19T07:00:00.000-04:00",
+      "end": "2026-05-19T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-49bb811603",
+      "title": "Underhill Plaza May 2026",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "crownhts",
+      "borough": "outer",
+      "venue": "Underhill Avenue Plaza: Underhill Avenue Plaza Underhill Ave between Atlantic Ave and Pacific St",
+      "start": "2026-05-19T08:00:00.000-04:00",
+      "end": "2026-05-19T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-4f9288c2dd",
+      "title": "RNYRR Manhattan Track and Field Series",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Macombs Dam Park: Track-01   ,Macombs Dam Park: Soccer-01 ,Macombs Dam Park: Macombs Dam Park",
+      "start": "2026-05-19T08:00:00.000-04:00",
+      "end": "2026-05-19T12:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-1c119385f9",
+      "title": "Music Performances and Fitness Classes and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET",
+      "start": "2026-05-19T09:00:00.000-04:00",
+      "end": "2026-05-19T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-74813491bc",
+      "title": "Live Music and Dance Performances and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street",
+      "start": "2026-05-19T09:00:00.000-04:00",
+      "end": "2026-05-19T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-f7d1e10fe1",
+      "title": "Kid's Concert with Mike Messer",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "chelsea",
+      "borough": "manhattan",
+      "venue": "Bella Abzug Park : Block 1 (between 33rd street & 34th street)",
+      "start": "2026-05-19T10:00:00.000-04:00",
+      "end": "2026-05-19T11:30:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-43794be708",
+      "title": "TSQ LIVE: 45/46 Plaza Programming",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "chelsea",
+      "borough": "manhattan",
+      "venue": "Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE",
+      "start": "2026-05-19T12:00:00.000-04:00",
+      "end": "2026-05-19T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-f79b1400a4",
+      "title": "Celebrating Birth of Malcolm X",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "outdoor",
+        "parade"
+      ],
+      "neighborhood": "harlem",
+      "borough": "manhattan",
+      "venue": "WEST  125 STREET between ADAM CLAYTON POWELL JR BOULEVARD and MALCOLM X BOULEVARD,  WEST  125 STREET between ST NICHOLAS AVENUE and FIFTH AVENUE,  WEST  125 STREET between ADAM CLAYTON POWELL JR BOULEVARD and MALCOLM X BOULEVARD",
+      "start": "2026-05-19T12:00:00.000-04:00",
+      "end": "2026-05-19T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Police Department permitted event \u00b7 Parade"
+    },
+    {
+      "id": "e-8b0278a58b",
+      "title": "Crafting  Tuesdays at Alley Athletic: Workshop Series with Queens College",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Alley Athletic Playground: Alley Athletic Playground Parking Lot",
+      "start": "2026-05-19T17:00:00.000-04:00",
+      "end": "2026-05-19T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-0a1d3e6dee",
+      "title": "HHFM North Central Bronx Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Mosholu Parkway: Mosholu Parkway-Kossuth Playground Event Area",
+      "start": "2026-05-20T07:00:00.000-04:00",
+      "end": "2026-05-20T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-3fe780d828",
+      "title": "HHFM Hunts Point Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Monsignor Raul Del Valle Square: Whole Park",
+      "start": "2026-05-20T07:00:00.000-04:00",
+      "end": "2026-05-20T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-ef394ea825",
+      "title": "RNYRR Bronx Track and Field Series",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Macombs Dam Park: Track-01   ,Macombs Dam Park: Soccer-01 ,Macombs Dam Park: Macombs Dam Park",
+      "start": "2026-05-20T08:00:00.000-04:00",
+      "end": "2026-05-20T12:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-709541bf54",
+      "title": "HHFM Hunts Point Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor",
+        "food"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "EAST  163 STREET between BRUCKNER BOULEVARD and SOUTHERN BOULEVARD",
+      "start": "2026-05-20T08:00:00.000-04:00",
+      "end": "2026-05-20T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Farmers Market"
+    },
+    {
+      "id": "e-1984d1f052",
+      "title": "Immigrant Culture Month at Avenue C Plaza",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE",
+      "start": "2026-05-20T09:00:00.000-04:00",
+      "end": "2026-05-20T23:30:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Event"
+    },
+    {
+      "id": "e-0520bed082",
+      "title": "south villge  farmers market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor",
+        "food"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "AVENUE OF AMERICAS between CARMINE STREET and WEST    3 STREET",
+      "start": "2026-05-20T09:00:00.000-04:00",
+      "end": "2026-05-20T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Farmers Market"
+    },
+    {
+      "id": "e-5c0e495e64",
+      "title": "Music Performances and Fitness Classes and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET",
+      "start": "2026-05-20T09:00:00.000-04:00",
+      "end": "2026-05-20T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-b6027c4027",
+      "title": "Live Music and Dance Performances and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street",
+      "start": "2026-05-20T09:00:00.000-04:00",
+      "end": "2026-05-20T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-de3415d022",
+      "title": "FULTON MALL / METRO TECH COMMUNITY EXPO",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "dumbo",
+      "borough": "outer",
+      "venue": "LAWRENCE STREET between FULTON STREET and WILLOUGHBY STREET",
+      "start": "2026-05-20T10:00:00.000-04:00",
+      "end": "2026-05-20T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Single Block Festival"
+    },
+    {
+      "id": "e-710743dd3d",
+      "title": "Jackson Heights SDA School Walk-a-Thon",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Astoria Park: Picnic Blue   ,Astoria Park: Track-01",
+      "start": "2026-05-20T10:00:00.000-04:00",
+      "end": "2026-05-20T12:30:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-0852b6d2a8",
+      "title": "40th Street Festival",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "EAST   40 STREET between PARK AVENUE and MADISON AVENUE",
+      "start": "2026-05-20T10:00:00.000-04:00",
+      "end": "2026-05-20T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Single Block Festival"
+    },
+    {
+      "id": "e-6422f60b2d",
+      "title": "TSQ LIVE: 45/46 Plaza Programming",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "chelsea",
+      "borough": "manhattan",
+      "venue": "Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE",
+      "start": "2026-05-20T12:00:00.000-04:00",
+      "end": "2026-05-20T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-0a2aee8de2",
+      "title": "Dumbo After Hours Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "dumbo",
+      "borough": "outer",
+      "venue": "Pearl Street Plaza: Archway (Pearl Street Plaza) water street between Anchorage Pl and adams st",
+      "start": "2026-05-20T12:00:00.000-04:00",
+      "end": "2026-05-20T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-ac05db4371",
+      "title": "6 Days of Kissena Twilight racing series",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "flushing",
+      "borough": "outer",
+      "venue": "Kissena Park: Velodrome-Track-01",
+      "start": "2026-05-20T12:00:00.000-04:00",
+      "end": "2026-05-20T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-4965b5c5d7",
+      "title": "High School Fashion Show",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "Gansevoort Plaza: 12/13 9 Avenue 9 AVENUE between Gansevoort st and WEST   13 STREET",
+      "start": "2026-05-20T17:00:00.000-04:00",
+      "end": "2026-05-20T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-5f3228089c",
+      "title": "Yoga Series Weekdays",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "chelsea",
+      "borough": "manhattan",
+      "venue": "Bella Abzug Park : Block 2 (between 34th street & 35th street)",
+      "start": "2026-05-20T17:30:00.000-04:00",
+      "end": "2026-05-20T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-fa327f324e",
+      "title": "Green Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "fidi",
+      "borough": "manhattan",
+      "venue": "Bowling Green: Subway Plaza (Cobblestone)",
+      "start": "2026-05-21T00:00:00.000-04:00",
+      "end": "2026-05-21T23:55:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-e51a91c799",
+      "title": "HHFM St. Mary's Park Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "St. Mary's Park: St Mary's Playground West",
+      "start": "2026-05-21T07:00:00.000-04:00",
+      "end": "2026-05-21T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-67df658f01",
+      "title": "PS 18 Bike Fest",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "502 MORRIS AVENUE, MORRIS AVENUE between EAST  148 STREET and EAST  144 STREET,  EAST  148 STREET between MORRIS AVENUE and COLLEGE AVENUE,  COLLEGE AVENUE between EAST  148 STREET and EAST  145 STREET,  EAST  145 STREET between COLLEGE AVENUE and 3 AVENUE,  THIRD AVENUE between EAST  145 STREET and EAST  143 STREET,  EAST  143 STREET between THIRD AVENUE and MORRIS AVENUE,  MORRIS AVENUE between EAST  143 STREET and EAST  148 STREET, 502 MORRIS AVENUE",
+      "start": "2026-05-21T07:00:00.000-04:00",
+      "end": "2026-05-21T12:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Police Department permitted event \u00b7 Athletic Race / Tour"
+    },
+    {
+      "id": "e-91b68d8afa",
+      "title": "HHFM Mt. Eden Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Mount Eden Malls: Mount Eden Malls",
+      "start": "2026-05-21T07:00:00.000-04:00",
+      "end": "2026-05-21T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-1e45ad51a7",
+      "title": "Underhill Plaza May 2026",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "crownhts",
+      "borough": "outer",
+      "venue": "Underhill Avenue Plaza: Underhill Avenue Plaza Underhill Ave between Atlantic Ave and Pacific St",
+      "start": "2026-05-21T08:00:00.000-04:00",
+      "end": "2026-05-21T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-f416921e31",
+      "title": "Farmers Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor",
+        "food"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "Richard Tucker Square: Richard Tucker Square",
+      "start": "2026-05-21T08:00:00.000-04:00",
+      "end": "2026-05-21T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-ee315dcf1b",
+      "title": "Columbia Thursday Sunday Greenmarket",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor",
+        "food"
+      ],
+      "neighborhood": "morningside",
+      "borough": "manhattan",
+      "venue": "BROADWAY between WEST  113 STREET and WEST  116 STREET",
+      "start": "2026-05-21T08:00:00.000-04:00",
+      "end": "2026-05-21T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Farmers Market"
+    },
+    {
+      "id": "e-8bca5f9546",
+      "title": "HHFM East Harlem Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor",
+        "food"
+      ],
+      "neighborhood": "harlem",
+      "borough": "manhattan",
+      "venue": "EAST  104 STREET between THIRD AVENUE and SECOND AVENUE",
+      "start": "2026-05-21T08:00:00.000-04:00",
+      "end": "2026-05-21T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Farmers Market"
+    },
+    {
+      "id": "e-ecb3ac6790",
+      "title": "Mental Health Fair",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "EAST  153 STREET between BERGEN AVENUE and BROOK AVENUE",
+      "start": "2026-05-21T09:00:00.000-04:00",
+      "end": "2026-05-21T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Health Fair"
+    },
+    {
+      "id": "e-1672e7a006",
+      "title": "St. Anthony Flea Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET",
+      "start": "2026-05-21T09:00:00.000-04:00",
+      "end": "2026-05-21T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Sidewalk Sale"
+    },
+    {
+      "id": "e-4c8dacfc30",
+      "title": "Live Music and Dance Performances and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street",
+      "start": "2026-05-21T09:00:00.000-04:00",
+      "end": "2026-05-21T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-01f4fe5424",
+      "title": "Music Performances and Fitness Classes and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET",
+      "start": "2026-05-21T09:00:00.000-04:00",
+      "end": "2026-05-21T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-d7c2cef9e1",
+      "title": "Columbus Circle Food Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Central Park: Merchants' Gate",
+      "start": "2026-05-21T09:30:00.000-04:00",
+      "end": "2026-05-21T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-dc82589508",
+      "title": "MIDTOWN EAST COMMUNITY FOOD FAIR",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "EAST   45 STREET between 3 AVENUE and LEXINGTON AVENUE",
+      "start": "2026-05-21T10:00:00.000-04:00",
+      "end": "2026-05-21T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Single Block Festival"
+    },
+    {
+      "id": "e-108fdf8ade",
+      "title": "TSQ LIVE: 45/46 Plaza Programming",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "chelsea",
+      "borough": "manhattan",
+      "venue": "Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE",
+      "start": "2026-05-21T12:00:00.000-04:00",
+      "end": "2026-05-21T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Street Activity Permit Office permitted event \u00b7 Plaza Partner Event"
+    },
+    {
+      "id": "e-e980ce0ff6",
+      "title": "Shakespeare Performance  -  Julius Caesar",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "parkslope",
+      "borough": "outer",
+      "venue": "Carroll Park: Park House Plaza",
+      "start": "2026-05-21T17:00:00.000-04:00",
+      "end": "2026-05-21T22:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "Parks Department permitted event \u00b7 Special Event"
+    },
+    {
+      "id": "e-ea1b33fcd4",
+      "title": "NYC beaches are reopening for the summer season this weekend!",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.880832+00:00",
+      "end": "2026-05-26T00:50:58.880832+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/nyc-beaches-are-reopening-for-the-summer-season-this-weekend-051826"
+        }
+      ],
+      "description": "From Coney Island to Rockaway, New York\u2019s beaches officially reopen May 23 with surfing, boardwalk snacks and long-overdue summer energy across all five boroughs."
+    },
+    {
+      "id": "e-40ebf411cf",
+      "title": "Watch: \u2018The Gilded Age\u2019 filmed a giant parade in the Financial District last weekend",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.880898+00:00",
+      "end": "2026-05-26T00:50:58.880898+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/watch-the-gilded-age-filmed-a-giant-parade-in-the-financial-district-last-weekend-051826"
+        }
+      ],
+      "description": "You can see the highly-detailed set, costumes and even a main character running through the street."
+    },
+    {
+      "id": "e-69e377f965",
+      "title": "Free Shakespeare in the Park's 'Romeo & Juliet' starts performances next week",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.880915+00:00",
+      "end": "2026-05-26T00:50:58.880915+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/free-shakespeare-in-the-parks-romeo-juliet-starts-performances-next-week-051526"
+        }
+      ],
+      "description": "The expanded Shakespeare in the City program will start with the Bard\u2019s timeless tale."
+    },
+    {
+      "id": "e-9fb8b211ca",
+      "title": "You can now register for a free large-scale World Cup viewing event on Long Island",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.880943+00:00",
+      "end": "2026-05-26T00:50:58.880943+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/you-can-now-register-for-a-free-large-scale-world-cup-viewing-event-on-long-island-051426"
+        }
+      ],
+      "description": "The free public watch party at Stony Brook University will feature giant match screenings, fan experiences and thousands of soccer fans next summer."
+    },
+    {
+      "id": "e-29eabb4034",
+      "title": "This sold-out NYC Jewish food festival on Governors Island is coming back this summer",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.880967+00:00",
+      "end": "2026-05-26T00:50:58.880967+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/this-sold-out-nyc-jewish-food-festival-on-governors-island-is-coming-back-this-summer-051326"
+        }
+      ],
+      "description": "Pastrami tacos, challah fried chicken sandwiches and one giant waterfront picnic are heading back to Governors Island this June."
+    },
+    {
+      "id": "e-8936544f17",
+      "title": "This Michelin-starred Indian restaurant from Chicago is opening in NYC",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.880976+00:00",
+      "end": "2026-05-26T00:50:58.880976+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/this-michelin-starred-indian-restaurant-from-chicago-is-opening-in-nyc-051326"
+        }
+      ],
+      "description": "Sujan Sarkar is opening Indienne and two other concepts in at Henry Hall in Hudson Yards this summer."
+    },
+    {
+      "id": "e-9ffc331099",
+      "title": "The Whitney is hosting a special edition of its beloved free Friday nights with the New York Liberty",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.880987+00:00",
+      "end": "2026-05-26T00:50:58.880987+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/the-whitney-is-hosting-a-special-edition-of-its-beloved-free-friday-nights-with-the-new-york-liberty-051326"
+        }
+      ],
+      "description": "Two iconic New York institutions are joining forces for a high-energy celebration of art and athletics."
+    },
+    {
+      "id": "e-7e73d0e40e",
+      "title": "Bryant Park is hosting a giant free reading party on its lawn this summer",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.880997+00:00",
+      "end": "2026-05-26T00:50:58.880997+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/bryant-park-is-hosting-a-giant-free-reading-party-on-its-lawn-this-summer-051326"
+        }
+      ],
+      "description": "The midtown park is preparing for its first-ever \"read on the lawn day,\" which naturally complements its on-site outdoor library."
+    },
+    {
+      "id": "e-6f7b2e4c0f",
+      "title": "Radio Bakery is opening its first Manhattan location on the Upper West Side next year!",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881006+00:00",
+      "end": "2026-05-26T00:50:58.881006+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/radio-bakery-is-opening-its-first-manhattan-location-on-the-upper-west-side-next-year-051326"
+        }
+      ],
+      "description": "Brooklyn\u2019s cult-favorite pastry shop, known for lines around the block and sellout focaccia sandwiches, is officially heading to Columbus Avenue in 2027."
+    },
+    {
+      "id": "e-0615a21b6c",
+      "title": "Car-free 'Soccer Streets' and block-party-style celebrations are coming to NYC",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881016+00:00",
+      "end": "2026-05-26T00:50:58.881016+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/car-free-soccer-streets-and-block-party-style-celebrations-are-coming-to-nyc-051226"
+        }
+      ],
+      "description": "Thank you, World Cup!"
+    },
+    {
+      "id": "e-6beb6a0aea",
+      "title": "Spectators are part of the show at this immersive murder mystery opera opening in Brooklyn",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881024+00:00",
+      "end": "2026-05-26T00:50:58.881024+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/spectators-are-part-of-the-show-at-this-immersive-murder-mystery-opera-opening-in-brooklyn-051226"
+        }
+      ],
+      "description": "Who doesn't enjoy a juicy murder alongside an operatic dinner?"
+    },
+    {
+      "id": "e-4998a72ccb",
+      "title": "A new thermal bathing club opened in NoHo this week and it looks so relaxing",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881038+00:00",
+      "end": "2026-05-26T00:50:58.881038+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/a-new-thermal-bathing-club-opened-in-noho-this-week-and-it-looks-so-relaxing-051226"
+        }
+      ],
+      "description": "The new 6,200-square-foot wellness club pairs giant saunas, icy plunges and social bathing rituals in the heart of downtown."
+    },
+    {
+      "id": "e-723a41231a",
+      "title": "Brooklyn Museum is opening a wild futuristic fashion exhibition next week",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881048+00:00",
+      "end": "2026-05-26T00:50:58.881048+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/brooklyn-museum-is-opening-a-wild-futuristic-fashion-exhibition-next-week-051226"
+        }
+      ],
+      "description": "The new Iris van Herpen retrospective features bioluminescent algae dresses, jellyfish-inspired couture and more than 140 surreal fashion creations."
+    },
+    {
+      "id": "e-d852cd5218",
+      "title": "EXCLUSIVE: Iconic NYC home goods store Fishs Eddy is opening a third location inside Chelsea Market",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881065+00:00",
+      "end": "2026-05-26T00:50:58.881065+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/exclusive-iconic-nyc-home-goods-store-fishs-eddy-is-opening-a-second-location-inside-chelsea-market-051126"
+        }
+      ],
+      "description": "See pictures of Fishs Eddy third NYC location, debuting inside Chelsea Market tomorrow."
+    },
+    {
+      "id": "e-46292ecfa8",
+      "title": "The 2026 Celebrate Brooklyn lineup of free concerts is here",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881076+00:00",
+      "end": "2026-05-26T00:50:58.881076+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/the-2026-celebrate-brooklyn-lineup-of-free-concerts-is-here-050826"
+        }
+      ],
+      "description": "Common, Sheila E, Lila Ik\u00e9 and Antibalas are all on the list, plus benefit concerts featuring Patti LaBelle and Sleater-Kinney."
+    },
+    {
+      "id": "e-9dccb3b5e7",
+      "title": "Free yoga in Bryant Park is back for the season! Check out the full schedule",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881084+00:00",
+      "end": "2026-05-26T00:50:58.881084+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/free-yoga-in-bryant-park-is-back-for-the-season-check-out-the-full-schedule-050826"
+        }
+      ],
+      "description": "Bryant Park\u2019s wildly popular free outdoor yoga series returns May 27 with twice-weekly classes all summer long."
+    },
+    {
+      "id": "e-e47bcb6639",
+      "title": "A new 29-room boutique hotel is opening in Montauk today",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881095+00:00",
+      "end": "2026-05-26T00:50:58.881095+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/a-new-29-room-boutique-hotel-is-opening-in-montauk-today-050826"
+        }
+      ],
+      "description": "The nostalgic new Hotel Corduroy is bringing vintage surf-club energy, fire pits and bay views to the East End just in time for summer."
+    },
+    {
+      "id": "e-1d20cd7c9d",
+      "title": "Here\u2019s the full lineup for the 2026 Forest Hills Stadium concert series",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881127+00:00",
+      "end": "2026-05-26T00:50:58.881127+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/heres-the-full-lineup-for-the-2026-forest-hills-stadium-concert-series-050626"
+        }
+      ],
+      "description": "Including Bob Dylan, Geese, Erykah Badu, Dave Matthews Band and more."
+    },
+    {
+      "id": "e-9b7ccc8795",
+      "title": "NewFest is hosting a huge free 'Heated Rivalry' watch party at Pier 17 this month",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881136+00:00",
+      "end": "2026-05-26T00:50:58.881136+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/newfest-is-hosting-a-huge-free-heated-rivalry-watch-party-at-pier-17-this-month-050626"
+        }
+      ],
+      "description": "The cottage is coming to the Seaport."
+    },
+    {
+      "id": "e-d6b18a18b5",
+      "title": "This famously exclusive, celebrity-packed nightclub is reopening 1,100 feet above Manhattan, in Hudson Yards",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881145+00:00",
+      "end": "2026-05-26T00:50:58.881145+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/this-famously-exclusive-celebrity-packed-nightclub-is-reopening-1-100-feet-above-manhattan-in-hudson-yards-050626"
+        }
+      ],
+      "description": "The legendary nightlife spot Avenue is returning this May as a sky-high cocktail lounge and party destination inside Hudson Yards\u2019 Edge complex."
+    },
+    {
+      "id": "e-9aa49780af",
+      "title": "A free mobile cat therapy pod is landing near Washington Square Park this week",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881166+00:00",
+      "end": "2026-05-26T00:50:58.881166+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/a-free-mobile-cat-therapy-pod-is-landing-near-washington-square-park-this-week-050426"
+        }
+      ],
+      "description": "Students bracing for finals can decompress with some kitty cuddles."
+    },
+    {
+      "id": "e-eda50d619a",
+      "title": "The best photos from this weekend\u2019s Five Boro Bike Tour",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881174+00:00",
+      "end": "2026-05-26T00:50:58.881174+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/the-best-photos-from-this-weekends-five-boro-bike-tour-050426"
+        }
+      ],
+      "description": "32,000 riders, five boroughs and one blissfully car-free day across NYC."
+    },
+    {
+      "id": "e-796b484df9",
+      "title": "The Met\u2019s 2026 much-anticipated spring exhibit treats fashion like fine art",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-19T00:50:58.881185+00:00",
+      "end": "2026-05-26T00:50:58.881185+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Time Out NY",
+          "url": "https://www.timeout.com/newyork/news/the-mets-2026-much-anticipated-spring-exhibit-treats-fashion-like-fine-art-050426"
+        }
+      ],
+      "description": "A major new Met exhibition pairs couture with centuries of art to explore the dressed body."
+    },
+    {
+      "id": "e-586c1bd7a3",
+      "title": "$14 MASTERWORKS AT CARNEGIE HALL \u2013 MANHATTAN CONCERT PRODUCTIONS (SPONSORED)",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "roundup",
+        "free"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-18T15:56:42+00:00",
+      "end": "2026-05-19T15:56:42+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "The Skint",
+          "url": "https://theskint.com/june-masterworks-at-carnegie-hall-manhattan-concert-productions-sponsored/"
+        }
+      ],
+      "description": "Everyone needs to see a choral masterwork at Carnegie Hall at least once in their life \u2013 renowned music, a 100+ person choir, and a full orchestra on one of the world\u2019s greatest stages. Well this is the summer to finally make it happen. Man"
+    },
+    {
+      "id": "e-b8564c6624",
+      "title": "GIVEAWAY: BEGINNER GUITAR, VIOLIN, UKULELE CLASSES WITH BANTAM STUDIOS (SPONSORED)",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "roundup",
+        "free"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-15T17:30:54+00:00",
+      "end": "2026-05-16T17:30:54+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "The Skint",
+          "url": "https://theskint.com/giveaway-beginner-guitar-violin-ukulele-classes-with-bantam-studios-sponsored/"
+        }
+      ],
+      "description": "Ever wanted to learn how to play an instrument? We\u2019re giving away a spot in one of Bantam Studios\u2019 Summer Beginner Classes for Adults in Park Slope, Brooklyn. Choose from beginner guitar, violin, or ukulele and join a welcoming community of"
+    },
+    {
+      "id": "e-e10fc73698",
+      "title": "FRI-MON, 5/15-18: SKINT WEEKEND",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "roundup",
+        "free"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-15T05:10:32+00:00",
+      "end": "2026-05-16T05:10:32+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "The Skint",
+          "url": "https://theskint.com/fri-mon-5-15-18-skint-weekend/"
+        }
+      ],
+      "description": "20+ cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise): \u25ba fri-sun: 50th annual saint george\u2019s seventh street ukrainian festival: east 7th street bet 2nd + 3rd aves (east village)"
+    },
+    {
+      "id": "e-daf10fa79a",
+      "title": "GET $40 TICKETS TO JEROME AT PLAYWRIGHTS HORIZONS (SPONSORED)",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "roundup",
+        "free"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-13T12:00:35+00:00",
+      "end": "2026-05-14T12:00:35+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "The Skint",
+          "url": "https://theskint.com/get-40-tickets-to-jerome-at-playwrights-horizons-sponsored/"
+        }
+      ],
+      "description": "From the writer and director of Wet Brain (New York Times Critic\u2019s Pick) Jerome, a ghost town in the secluded Arizona backcountry, is home to Con and Doane, an aging gay couple who\u2019ve built a quiet life far from the chaos of cities and othe"
+    },
+    {
+      "id": "e-91b64b524d",
+      "title": "SEE INDIAN PRINCESSES FOR $25! LIMITED AVAILABILITY! (SPONSORED)",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "roundup",
+        "free"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-12T12:30:25+00:00",
+      "end": "2026-05-13T12:30:25+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "The Skint",
+          "url": "https://theskint.com/see-indian-princesses-for-25-limited-availability-sponsored/"
+        }
+      ],
+      "description": "Limited $25 Tickets Just Released for INDIAN PRINCESSES thru May 17 only! Atlantic Theater Company and Rattlestick Theater are thrilled to present Eliana Theologides Rodriguez\u2018s funny, feminist Off-Broadway debut play, Indian Princesses, di"
+    },
+    {
+      "id": "e-c18e077031",
+      "title": "TUES-THURS, 5/12-14: COLLEGE NIGHT AT THE MET, DEAD IN THE PARK, ROAD TO BROADWAY, AND MORE",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "roundup",
+        "free"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-12T03:40:21+00:00",
+      "end": "2026-05-13T03:40:21+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "The Skint",
+          "url": "https://theskint.com/tues-thurs-5-12-14-college-night-at-the-met-dead-in-the-park-road-to-broadway-and-more/"
+        }
+      ],
+      "description": "tuesday thru 9/16: bryant park\u2019s outdoor reading room: bryant park\u2019s outdoor \u2018reading room\u2019 and series of free events returns for the 2026 season: books on broadway \u2013 a backstage look at broadway (select dates @ 12:30pm); quiet reading \u2013 a "
+    },
+    {
+      "id": "e-4f8e6ef8a3",
+      "title": "PROM LIKE IT\u2019S 1999 WITH NICHE NIGHT NYC (SPONSORED)",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "roundup",
+        "free"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-11T23:36:55+00:00",
+      "end": "2026-05-12T23:36:55+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "The Skint",
+          "url": "https://theskint.com/prom-like-its-1999-with-niche-night-nyc-sponsored/"
+        }
+      ],
+      "description": "Join Niche Night for Prom Like It\u2019s 1999! Live cover band! DJ! Photos! Vendors! Tarot! Candy! Nostalgia! Party like it\u2019s 1999 with all your fave throwback music from Pop Punk Troubadours and DJ Steve Reynolds of Party Like It\u2019s 1999 Dress h"
+    },
+    {
+      "id": "e-436c239d00",
+      "title": "A MOTHER\u2019S DAY SHE\u2019LL REMEMBER \u2013 25% OFF ELMO\u2019S GOT THE MOVES (SPONSORED)",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "roundup",
+        "free"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-08T22:30:32+00:00",
+      "end": "2026-05-09T22:30:32+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "The Skint",
+          "url": "https://theskint.com/a-mothers-day-shell-remember-25-off-elmos-got-the-moves-sponsored/"
+        }
+      ],
+      "description": "Live at United Palace this June! The best Mother\u2019s Day gifts are moments; the kind you remember years later, when the kids are grown and the photos make her smile all over again. It\u2019s less than ONE MONTH until Elmo\u2019s Got The Moves brings al"
+    },
+    {
+      "id": "e-6799b209f9",
+      "title": "\u201cBUSINESS BUSINESS BUSINESS\u201d \u2013 A CORPORATE SATIRE CIRCUS AT CIRCUS ACADEMY NY 5/15-17 (SPONSORED)",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "roundup",
+        "free"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-08T13:20:46+00:00",
+      "end": "2026-05-09T13:20:46+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "The Skint",
+          "url": "https://theskint.com/business-business-business-a-corporate-satire-circus-at-circus-academy-ny-5-15-17-sponsored/"
+        }
+      ],
+      "description": "Image: Emma Ling-Hwei Welcome to \u201cBUSINESS BUSINESS BUSINESS\u201d, a Circus about Business. 75 minutes of unhinged corporate satire, blending the chaos of THE WOLF OF WALL STREET with the elite artistry of CIRQUE DU SOLEIL, only at Circus Acade"
+    },
+    {
+      "id": "e-6faa178534",
+      "title": "FRI-MON, 5/8-11: SKINT WEEKEND",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "roundup",
+        "free"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-08T04:35:37+00:00",
+      "end": "2026-05-09T04:35:37+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "The Skint",
+          "url": "https://theskint.com/fri-mon-5-8-11-skint-weekend/"
+        }
+      ],
+      "description": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise): \u25ba fri 5-10pm: free gnocchi: gnocchi on 9th celebrates the opening of its new williamsburg location with free gnocchi alla vodk"
+    },
+    {
+      "id": "e-d89080c9a5",
+      "title": "Mamdani adds more free preschool slots for 3-year-olds as parents await offers",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-18T17:17:42+00:00",
+      "end": "2026-05-25T17:17:42+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Gothamist",
+          "url": "https://gothamist.com/news/mamdani-adds-more-free-preschool-slots-for-3-year-olds-as-parents-await-offers"
+        }
+      ],
+      "description": " \n  \n     Children stand on stage for a press conference on Universal Childcare at the Sugar Hill Children's Museum of Art & Storytelling on March 03, 2026 in New York City. NYC Mayor Zohran Mamdani was joined by Gov. Kathy Hochul and Kamar"
+    },
+    {
+      "id": "e-7dfd026ee1",
+      "title": "Mayor Mamdani's immigrant affairs leader: NYC faces a moment of 'urgency'",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-18T10:30:57+00:00",
+      "end": "2026-05-25T10:30:57+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Gothamist",
+          "url": "https://gothamist.com/news/mayor-mamdanis-immigrant-affairs-leader-nyc-faces-a-moment-of-urgency"
+        }
+      ],
+      "description": " \n  \n     Faiza Ali, commissioner of the New York City Mayor's Office on Immigrant Affairs, hosts community media representatives during a media roundtable on MOIA's priorities and initiatives, on March 26, 2026. \n  \n\n The Brooklyn-born dau"
+    },
+    {
+      "id": "e-4720eb8440",
+      "title": "How to get to this weekend's Mets-Yankees subway series during the LIRR strike",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-16T14:56:01+00:00",
+      "end": "2026-05-23T14:56:01+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Gothamist",
+          "url": "https://gothamist.com/news/how-to-get-to-this-weekends-mets-yankees-subway-series-during-the-lirr-strike"
+        }
+      ],
+      "description": " \n  \n     Clay Holmes suffer a fractured fibula during the opening game of the Subway Series. \n  \n\n Shuttle buses will be at [  more \u203a  ] "
+    },
+    {
+      "id": "e-8e81a308d3",
+      "title": "MTA raised alarms about Amtrak tunnel plan before this week's Penn Station meltdown",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-16T12:01:06+00:00",
+      "end": "2026-05-23T12:01:06+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Gothamist",
+          "url": "https://gothamist.com/news/mta-raised-alarms-about-amtrak-tunnel-plan-before-this-weeks-penn-station-meltdown"
+        }
+      ],
+      "description": " \n  \n     Sections of an East River tunnel owned by Amtrak showed signs of serious water damage from Hurricane Sandy before repairs began last year. \n  \n\n LIRR President Rob Free all but said \u201cI told you so\u201d to Amtrak officials during a new"
+    },
+    {
+      "id": "e-a064abaa90",
+      "title": "Neither fast nor free: MTA fare crackdown slows some buses",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-15T15:00:50+00:00",
+      "end": "2026-05-22T15:00:50+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Gothamist",
+          "url": "https://gothamist.com/news/neither-fast-nor-free-mta-fare-crackdown-slows-some-buses"
+        }
+      ],
+      "description": " \n  \n     Members of the MTA's fare enforcement EAGLE team sometimes stop buses to check if riders on board paid the fare. \n  \n\n Mayor Zohran Mamdani's promise to make the city's buses \"fast and free\" is on a collision course with the MTA's"
+    },
+    {
+      "id": "e-2b34d86280",
+      "title": "Half-marathon, Asian cultural parades, food festivals: NYC street closures this weekend",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "roundup"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "See article",
+      "start": "2026-05-15T12:00:00+00:00",
+      "end": "2026-05-22T12:00:00+00:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Gothamist",
+          "url": "https://gothamist.com/news/half-marathon-asian-cultural-parades-food-festivals-nyc-street-closures-this-weekend"
+        }
+      ],
+      "description": " \n  \n     Runners participate in a marathon. \n  \n\n Roughly a dozen big events are coming to the five boroughs as the weather warms up. [  more \u203a  ] "
+    }
+  ]
+}

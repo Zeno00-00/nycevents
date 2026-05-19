@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>NYC Events</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<meta name="theme-color" content="#0d0f12">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="NYC Events">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header id="topbar">
+  <h1 id="title">NYC Events</h1>
+  <button id="boroughToggle" class="pill" aria-label="Toggle borough">Manhattan</button>
+  <button id="settingsBtn" class="iconbtn" aria-label="Settings">⚙</button>
+</header>
+<main id="app"></main>
+<nav id="bottomtabs">
+  <a href="#/now" data-tab="now">
+    <span class="ticon">🌙</span><span>Tonight</span>
+  </a>
+  <a href="#/upcoming" data-tab="upcoming">
+    <span class="ticon">📅</span><span>Coming Up</span>
+  </a>
+  <a href="#/saved" data-tab="saved">
+    <span class="ticon">⭐</span><span>Saved</span>
+  </a>
+</nav>
+<script src="app.js"></script>
+</body>
+</html>

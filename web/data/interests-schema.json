@@ -1,0 +1,59 @@
+{
+  "sections": [
+    {
+      "id": "outabout",
+      "name": "Out & About",
+      "items": [
+        { "id": "parades",         "label": "Parades" },
+        { "id": "street-fairs",    "label": "Street fairs & block parties" },
+        { "id": "holiday-market",  "label": "Holiday markets" },
+        { "id": "fireworks",       "label": "Fireworks" },
+        { "id": "open-streets",    "label": "Open Streets" },
+        { "id": "themed-ride",     "label": "Themed rides (e.g. DGR)" },
+        { "id": "free-park-concerts","label": "Free park concerts" },
+        { "id": "food-festival",   "label": "Food festivals" },
+        { "id": "film-festival",   "label": "Film festivals" },
+        { "id": "fashion-week",    "label": "Fashion Week" },
+        { "id": "ohny",            "label": "Open House NY" }
+      ]
+    },
+    {
+      "id": "stagesound",
+      "name": "Stage & Sound",
+      "items": [
+        { "id": "g-indie",       "label": "Indie rock" },
+        { "id": "g-jazz",        "label": "Jazz" },
+        { "id": "g-classical",   "label": "Classical" },
+        { "id": "g-hiphop",      "label": "Hip-hop" },
+        { "id": "g-electronic",  "label": "Electronic" },
+        { "id": "g-folk",        "label": "Folk" },
+        { "id": "g-world",       "label": "World" },
+        { "id": "g-experimental","label": "Experimental" },
+        { "id": "comedy-clubs",  "label": "Comedy clubs" },
+        { "id": "comedy-theater","label": "Comedy theater shows" },
+        { "id": "venue-intimate","label": "Intimate venues (<500)" },
+        { "id": "venue-large",   "label": "Larger venues" }
+      ]
+    },
+    {
+      "id": "mindeye",
+      "name": "Mind & Eye",
+      "items": [
+        { "id": "m-art",     "label": "Museums: art" },
+        { "id": "m-science", "label": "Museums: science" },
+        { "id": "m-history", "label": "Museums: history" },
+        { "id": "m-design",  "label": "Museums: design" },
+        { "id": "m-photo",   "label": "Museums: photography" },
+        { "id": "t-business","label": "Talks: business & finance" },
+        { "id": "t-history", "label": "Talks: history" },
+        { "id": "t-science", "label": "Talks: science & tech" },
+        { "id": "t-politics","label": "Talks: politics" },
+        { "id": "t-lit",     "label": "Talks: literature" },
+        { "id": "t-current", "label": "Talks: current affairs" },
+        { "id": "r-fiction", "label": "Readings: fiction" },
+        { "id": "r-nonfic",  "label": "Readings: non-fiction" },
+        { "id": "r-poetry",  "label": "Readings: poetry" }
+      ]
+    }
+  ]
+}
