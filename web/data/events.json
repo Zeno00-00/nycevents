@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T11:13:01.561973-04:00",
+  "generated_at": "2026-05-20T14:05:50.134242-04:00",
   "events": [
     {
       "id": "e-79c61f6e7c",
@@ -742,246 +742,6 @@
       "description": "Deep-sea life rendered in immersive video and live specimens. Part of the museum's ongoing climate exhibition program."
     },
     {
-      "id": "e-8f8fe729c6",
-      "title": "Green Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "fidi",
-      "borough": "manhattan",
-      "venue": "Bowling Green: Subway Plaza (Cobblestone)",
-      "start": "2026-05-19T00:00:00.000-04:00",
-      "end": "2026-05-19T23:55:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Tuesday, May 19, 12:00 AM\u201311:55 PM at Bowling Green: Subway Plaza (Cobblestone)."
-    },
-    {
-      "id": "e-9a4951155a",
-      "title": "HHFM Mt. Eden Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Mount Eden Malls: Mount Eden Malls",
-      "start": "2026-05-19T07:00:00.000-04:00",
-      "end": "2026-05-19T16:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Tuesday, May 19, 7:00 AM\u20134:00 PM at Mount Eden Malls: Mount Eden Malls."
-    },
-    {
-      "id": "e-49bb811603",
-      "title": "Underhill Plaza May 2026",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "crownhts",
-      "borough": "outer",
-      "venue": "Underhill Avenue Plaza: Underhill Avenue Plaza Underhill Ave between Atlantic Ave and Pacific St",
-      "start": "2026-05-19T08:00:00.000-04:00",
-      "end": "2026-05-19T20:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Tuesday, May 19, 8:00 AM\u20138:00 PM at Underhill Avenue Plaza: Underhill Avenue Plaza Underhill Ave between Atlantic Ave and Pacific St."
-    },
-    {
-      "id": "e-4f9288c2dd",
-      "title": "RNYRR Manhattan Track and Field Series",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Macombs Dam Park: Track-01   ,Macombs Dam Park: Soccer-01 ,Macombs Dam Park: Macombs Dam Park",
-      "start": "2026-05-19T08:00:00.000-04:00",
-      "end": "2026-05-19T12:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Tuesday, May 19, 8:00 AM\u201312:00 PM at Macombs Dam Park: Track-01   ,Macombs Dam Park: Soccer-01 ,Macombs Dam Park: Macombs Dam Park."
-    },
-    {
-      "id": "e-1c119385f9",
-      "title": "Music Performances and Fitness Classes and Circus Arts",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET",
-      "start": "2026-05-19T09:00:00.000-04:00",
-      "end": "2026-05-19T20:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Tuesday, May 19, 9:00 AM\u20138:00 PM at Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET."
-    },
-    {
-      "id": "e-74813491bc",
-      "title": "Live Music and Dance Performances and Circus Arts",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street",
-      "start": "2026-05-19T09:00:00.000-04:00",
-      "end": "2026-05-19T20:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Tuesday, May 19, 9:00 AM\u20138:00 PM at Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street."
-    },
-    {
-      "id": "e-f7d1e10fe1",
-      "title": "Kid's Concert with Mike Messer",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "chelsea",
-      "borough": "manhattan",
-      "venue": "Bella Abzug Park : Block 1 (between 33rd street & 34th street)",
-      "start": "2026-05-19T10:00:00.000-04:00",
-      "end": "2026-05-19T11:30:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Tuesday, May 19, 10:00 AM\u201311:30 AM at Bella Abzug Park : Block 1 (between 33rd street & 34th street)."
-    },
-    {
-      "id": "e-43794be708",
-      "title": "TSQ LIVE: 45/46 Plaza Programming",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "chelsea",
-      "borough": "manhattan",
-      "venue": "Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE",
-      "start": "2026-05-19T12:00:00.000-04:00",
-      "end": "2026-05-19T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Tuesday, May 19, 12:00 PM\u20139:00 PM at Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE."
-    },
-    {
-      "id": "e-f79b1400a4",
-      "title": "Celebrating Birth of Malcolm X",
-      "category": "outabout",
-      "subcategory": "parades",
-      "tags": [
-        "free",
-        "outdoor",
-        "parade"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "manhattan",
-      "venue": "WEST  125 STREET between ADAM CLAYTON POWELL JR BOULEVARD and MALCOLM X BOULEVARD,  WEST  125 STREET between ST NICHOLAS AVENUE and FIFTH AVENUE,  WEST  125 STREET between ADAM CLAYTON POWELL JR BOULEVARD and MALCOLM X BOULEVARD",
-      "start": "2026-05-19T12:00:00.000-04:00",
-      "end": "2026-05-19T16:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A parade hosted by Police Department. Takes place Tuesday, May 19, 12:00 PM\u20134:00 PM at WEST  125 STREET between ADAM CLAYTON POWELL JR BOULEVARD and MALCOLM X BOULEVARD,  WEST  125 STREET between ST NICHOLAS AVENUE and FIFTH AVENUE,  WEST  125 STREET between ADAM CLAYTON POWELL JR BOULEVARD and MALCOLM X BOULEVARD."
-    },
-    {
-      "id": "e-8b0278a58b",
-      "title": "Crafting  Tuesdays at Alley Athletic: Workshop Series with Queens College",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "lic",
-      "borough": "outer",
-      "venue": "Alley Athletic Playground: Alley Athletic Playground Parking Lot",
-      "start": "2026-05-19T17:00:00.000-04:00",
-      "end": "2026-05-19T20:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Tuesday, May 19, 5:00 PM\u20138:00 PM at Alley Athletic Playground: Alley Athletic Playground Parking Lot."
-    },
-    {
       "id": "e-0a1d3e6dee",
       "title": "HHFM North Central Bronx Market",
       "category": "outabout",
@@ -1318,6 +1078,30 @@
       "description": "A special event hosted by Parks Department. Takes place Wednesday, May 20, 12:00 PM\u20135:00 PM at Kissena Park: Velodrome-Track-01."
     },
     {
+      "id": "e-be8be2a41d",
+      "title": "PPTC Al Goldstein Speed Series 5K: May 20, June 3, June 17, July 1, July 15, July 29, Aug 12, Aug 26",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Prospect Park: CONCERT GROVE PAVILION   ,Prospect Park: Park Drive - WHOLE DRIVE   ,Prospect Park: Harry's Wall",
+      "start": "2026-05-20T17:00:00.000-04:00",
+      "end": "2026-05-20T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Wednesday, May 20, 5:00 PM\u20139:00 PM at Prospect Park: CONCERT GROVE PAVILION   ,Prospect Park: Park Drive - WHOLE DRIVE   ,Prospect Park: Harry's Wall."
+    },
+    {
       "id": "e-4965b5c5d7",
       "title": "High School Fashion Show",
       "category": "outabout",
@@ -1459,6 +1243,29 @@
         }
       ],
       "description": "A special event hosted by Parks Department. Takes place Thursday, May 21, 7:00 AM\u20134:00 PM at Mount Eden Malls: Mount Eden Malls."
+    },
+    {
+      "id": "e-38737852ca",
+      "title": "SummerStage Festival - May",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Central Park: Rumsey Playfield   ,Central Park: Bandshell Plaza",
+      "start": "2026-05-21T08:00:00.000-04:00",
+      "end": "2026-05-21T23:59:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Thursday, May 21, 8:00 AM\u201311:59 PM at Central Park: Rumsey Playfield   ,Central Park: Bandshell Plaza."
     },
     {
       "id": "e-1e45ad51a7",
@@ -1898,6 +1705,30 @@
       "description": "A farmers market hosted by Street Activity Permit Office. Takes place Friday, May 22, 8:00 AM\u20133:00 PM at PELHAM PARKWAY SOUTH between WILSON AVENUE and EASTCHESTER ROAD."
     },
     {
+      "id": "e-20830d4ae1",
+      "title": "Mt. Hope Pl PS 28 Open Street Event",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "MOUNT HOPE PLACE OPEN STREET: MOUNT HOPE PLACE OPEN STREET",
+      "start": "2026-05-22T09:00:00.000-04:00",
+      "end": "2026-05-22T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Friday, May 22, 9:00 AM\u20133:00 PM at MOUNT HOPE PLACE OPEN STREET: MOUNT HOPE PLACE OPEN STREET."
+    },
+    {
       "id": "e-32f496b013",
       "title": "Music Performances and Fitness Classes and Circus Arts",
       "category": "outabout",
@@ -1944,30 +1775,6 @@
         }
       ],
       "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Friday, May 22, 9:00 AM\u20137:00 PM at WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET."
-    },
-    {
-      "id": "e-20830d4ae1",
-      "title": "Mt. Hope Pl PS 28 Open Street Event",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "MOUNT HOPE PLACE OPEN STREET: MOUNT HOPE PLACE OPEN STREET",
-      "start": "2026-05-22T09:00:00.000-04:00",
-      "end": "2026-05-22T15:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A street event hosted by Street Activity Permit Office. Takes place Friday, May 22, 9:00 AM\u20133:00 PM at MOUNT HOPE PLACE OPEN STREET: MOUNT HOPE PLACE OPEN STREET."
     },
     {
       "id": "e-7d7403fec2",
@@ -2186,1918 +1993,884 @@
       "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Friday, May 22, 5:45 PM\u20137:30 PM at Lowery Plaza: Lowery Plaza 40 Street between Queens Blvd East and Queens Blvd West."
     },
     {
-      "id": "e-ab1dd22ce4",
-      "title": "The Banksy Museum New York!",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-9c65f20930",
+      "title": "4th Annual West Harlem Summer Jazz Fest",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "theater"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Banksy Museum New York",
-      "start": "2026-05-19T14:00:00Z",
-      "end": "2026-05-19T17:00:00+00:00",
-      "price": "$$",
+      "venue": "St. Nicholas Park: West 135th Street James Baldwin Lawn   ,St. Nicholas Park: West 135th Street Plaza",
+      "start": "2026-05-22T18:00:00.000-04:00",
+      "end": "2026-05-22T19:30:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.universe.com/events/the-banksy-museum-new-york-tickets-5PKNY0?ref=ticketmaster"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Banksy Museum New York on Tuesday, May 19 at 10:00 AM. Tickets via Ticketmaster."
+      "description": "A special event hosted by Parks Department. Takes place Friday, May 22, 6:00 PM\u20137:30 PM at St. Nicholas Park: West 135th Street James Baldwin Lawn   ,St. Nicholas Park: West 135th Street Plaza."
     },
     {
-      "id": "e-3f6028dd7d",
-      "title": "Banksy Museum - Flexiticket",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-2af453d184",
+      "title": "Feast of St. Rita",
+      "category": "outabout",
+      "subcategory": "parades",
       "tags": [
-        "theater"
+        "free",
+        "outdoor",
+        "parade"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Banksy Museum New York",
-      "start": "2026-05-19T14:00:00Z",
-      "end": "2026-05-19T17:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.universe.com/events/banksy-museum-flexiticket-tickets-F7XJ8T?ref=ticketmaster"
-        }
-      ],
-      "description": "Live show at Banksy Museum New York on Tuesday, May 19 at 10:00 AM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-4124ab5291",
-      "title": "Mexodus the Musical",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Daryl Roth Theatre",
-      "start": "2026-05-19T19:00:00Z",
-      "end": "2026-05-19T22:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/mexodus-the-musical-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17J6Fw"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/mexodus-the-musical-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17J6aA"
-        }
-      ],
-      "description": "Live show at Daryl Roth Theatre on Tuesday, May 19 at 3:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-527409d6c8",
-      "title": "Mexodus",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Daryl Roth Theatre",
-      "start": "2026-05-19T19:00:00Z",
-      "end": "2026-05-19T22:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xdC8"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xdCZ"
-        }
-      ],
-      "description": "Live show at Daryl Roth Theatre on Tuesday, May 19 at 3:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-c646d9849d",
-      "title": "Vince Giordano and the Nighthawks",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-05-19T21:30:00Z",
-      "end": "2026-05-20T00:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14078404"
-        }
-      ],
-      "description": "Live show at Birdland Theater on Tuesday, May 19 at 5:30 PM. Tickets via Ticketmaster, from $25\u2013$46."
-    },
-    {
-      "id": "e-b0c11ddc87",
-      "title": "Stella Lefty: Live in New York",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "les",
-      "borough": "manhattan",
-      "venue": "Mercury Lounge",
-      "start": "2026-05-19T22:00:00Z",
-      "end": "2026-05-20T01:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/stella-lefty-live-in-new-york-new-york-new-york-05-19-2026/event/00006458A591EE87"
-        }
-      ],
-      "description": "Live show at Mercury Lounge on Tuesday, May 19 at 6:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-ef6b41b68b",
-      "title": "Draped Apes | Pocket Vinyl",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Berlin",
-      "start": "2026-05-19T22:30:00Z",
-      "end": "2026-05-20T01:30:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/draped-apes-pocket-vinyl-berlin-tickets/14823933"
-        }
-      ],
-      "description": "Live show at Berlin on Tuesday, May 19 at 6:30 PM. Tickets via Ticketmaster, from $12\u2013$12."
-    },
-    {
-      "id": "e-32b66426db",
-      "title": "Stranger Things: The First Shadow",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Marquis Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/stranger-things-the-first-shadow-new-york-new-york-05-19-2026/event/Z1r9uZrrZbpZ1Av-674"
-        }
-      ],
-      "description": "Live show at Marquis Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-373f6a1ca1",
-      "title": "Death Becomes Her",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Lunt-Fontanne Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/death-becomes-her-new-york-new-york-05-19-2026/event/Z1r9uZrrZbpZ1AvO88-"
-        }
-      ],
-      "description": "Live show at Lunt-Fontanne Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-858ce22f04",
-      "title": "The Lost Boys",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Palace Theatre New York",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/the-lost-boys-new-york-new-york-05-19-2026/event/Z1r9uZrrZbpZ1AvOACp"
-        }
-      ],
-      "description": "Live show at Palace Theatre New York on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-9c26c537f6",
-      "title": "Schmigadoon!",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Nederlander Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/schmigadoon-new-york-new-york-05-19-2026/event/Z1r9uZrrZbpZ1AvOPuf"
-        }
-      ],
-      "description": "Live show at Nederlander Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-3063dd905a",
-      "title": "Wicked (NY)",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Gershwin Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/wicked-ny-new-york-new-york-05-19-2026/event/Z1r9uZrrZbpZ1AvpKAd"
-        }
-      ],
-      "description": "Live show at Gershwin Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-9fb23a465b",
-      "title": "MJ",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Neil Simon Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/mj-new-york-new-york-05-19-2026/event/Z1r9uZrrZbpZ1Avqa_F"
-        }
-      ],
-      "description": "Live show at Neil Simon Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-ae5a0a0b2d",
-      "title": "Hamilton (NY)",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Richard Rodgers Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/hamilton-ny-new-york-new-york-05-19-2026/event/Z1r9uZrrZbpZ1Avqepo"
-        }
-      ],
-      "description": "Live show at Richard Rodgers Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-f038fb4a06",
-      "title": "The Lion King (New York, NY)",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Minskoff Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/the-lion-king-new-york-ny-new-york-new-york-05-19-2026/event/Z1r9uZrrZbpZ1Avr9Z_"
-        }
-      ],
-      "description": "Live show at Minskoff Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-b6dd2df561",
-      "title": "Beaches, A New Musical",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Majestic Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/beaches-a-new-musical-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17J6GM"
-        }
-      ],
-      "description": "Live show at Majestic Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-73fdf79f73",
-      "title": "Joe Turner's Come and Gone",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Ethel Barrymore Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/joe-turners-come-and-gone-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17J7oK"
-        }
-      ],
-      "description": "Live show at Ethel Barrymore Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-9e621cceb1",
-      "title": "The Balusters",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Samuel J Friedman Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/the-balusters-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17JAjA"
-        }
-      ],
-      "description": "Live show at Samuel J Friedman Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-66f45c1be4",
-      "title": "Buena Vista Social Club",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Gerald Schoenfeld Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/buena-vista-social-club-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17JZeo"
-        }
-      ],
-      "description": "Live show at Gerald Schoenfeld Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-91252ea156",
-      "title": "Giant",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Music Box Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/giant-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17Jd1_"
-        }
-      ],
-      "description": "Live show at Music Box Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-e3d4ade100",
-      "title": "Ragtime",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "uws",
-      "borough": "manhattan",
-      "venue": "Lincoln Center - Vivian Beaumont Theater",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/ragtime-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17JdCF"
-        }
-      ],
-      "description": "Live show at Lincoln Center - Vivian Beaumont Theater on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-2b330e6e87",
-      "title": "Proof",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Booth Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/proof-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17Jd_U"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qIQf"
-        }
-      ],
-      "description": "Live show at Booth Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-9183e32039",
-      "title": "Operation Mincemeat: A New Musical",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "John Golden Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/operation-mincemeat-a-new-musical-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17Je3b"
-        }
-      ],
-      "description": "Live show at John Golden Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-eed5a8ab3d",
-      "title": "CATS: The Jellicle Ball",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Broadhurst Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/cats-the-jellicle-ball-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17JeFa"
-        }
-      ],
-      "description": "Live show at Broadhurst Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-db2f855abf",
-      "title": "Just In Time",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Circle In The Square Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/just-in-time-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17Jk1K"
-        }
-      ],
-      "description": "Live show at Circle In The Square Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-9135431ba1",
-      "title": "The Fear of 13",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "James Earl Jones Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/the-fear-of-13-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17JkP3"
-        }
-      ],
-      "description": "Live show at James Earl Jones Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-0701c5c29f",
-      "title": "Maybe Happy Ending",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Belasco Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/maybe-happy-ending-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17Jv7U"
-        }
-      ],
-      "description": "Live show at Belasco Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-a9280f108d",
-      "title": "Chicago",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Ambassador Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/chicago-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17PMGa"
-        }
-      ],
-      "description": "Live show at Ambassador Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-bc2064aa92",
-      "title": "Chess",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Imperial Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/chess-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17PMQo"
-        }
-      ],
-      "description": "Live show at Imperial Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-d545feb8d4",
-      "title": "Little Shop Of Horrors",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Westside Theatre Upstairs",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/little-shop-of-horrors-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17PPGZ"
-        }
-      ],
-      "description": "Live show at Westside Theatre Upstairs on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-b5b09b5f50",
-      "title": "The Outsiders",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Bernard B. Jacobs Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/the-outsiders-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17PY-O"
-        }
-      ],
-      "description": "Live show at Bernard B. Jacobs Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-c31a596ff3",
-      "title": "Chess - The Musical",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Imperial Theatre - NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Mqs"
-        }
-      ],
-      "description": "Live show at Imperial Theatre - NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-e0070ff0b3",
-      "title": "The Receptionist",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Pershing Square Signature Center",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7093Z"
-        }
-      ],
-      "description": "Live show at Pershing Square Signature Center on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-d9ef002e96",
-      "title": "Bill Charlap Trio (10+ Event)",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OE7x"
-        }
-      ],
-      "description": "Live show at Birdland on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-6f4f8fcc07",
-      "title": "Beaches",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Majestic Theatre-NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OU7I"
-        }
-      ],
-      "description": "Live show at Majestic Theatre-NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-7420edda48",
-      "title": "Moulin Rouge",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Al Hirschfeld Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OVvP"
-        }
-      ],
-      "description": "Live show at Al Hirschfeld Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-f0af67c2a9",
-      "title": "Death of a Salesman",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Winter Garden Theatre - NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OpF_"
-        }
-      ],
-      "description": "Live show at Winter Garden Theatre - NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-024f8d2424",
-      "title": "MJ (NY)",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Neil Simon Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Q7O6"
-        }
-      ],
-      "description": "Live show at Neil Simon Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-d8c15ea26d",
-      "title": "Soloists of the Kronberg Academy w/ Kirill Gerstein",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Zankel Hall at Carnegie Hall",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_sbd"
-        }
-      ],
-      "description": "Live show at Zankel Hall at Carnegie Hall on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-a226eefea7",
-      "title": "Turandot",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "uws",
-      "borough": "manhattan",
-      "venue": "Metropolitan Opera House",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7bbeF"
-        }
-      ],
-      "description": "Live show at Metropolitan Opera House on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-841b00ca91",
-      "title": "Chicago - The Musical",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Ambassador Theatre-NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7bz_9"
-        }
-      ],
-      "description": "Live show at Ambassador Theatre-NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-71206c8e16",
-      "title": "The Lion King",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Minskoff Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jJvE"
-        }
-      ],
-      "description": "Live show at Minskoff Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-a57867ee63",
-      "title": "Hadestown",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Walter Kerr Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jYxf"
-        }
-      ],
-      "description": "Live show at Walter Kerr Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-a58390b227",
-      "title": "Little Shop of Horrors",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Westside Theatre Upstairs - NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7p8AN"
-        }
-      ],
-      "description": "Live show at Westside Theatre Upstairs - NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-6d5aed1c63",
-      "title": "The Outsiders",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Jacobs Theatre-NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q97J"
-        }
-      ],
-      "description": "Live show at Jacobs Theatre-NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-1fe3ac0eed",
-      "title": "Giant",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Music Box Theatre-NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qOGv"
-        }
-      ],
-      "description": "Live show at Music Box Theatre-NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-dcb68c8d4f",
-      "title": "Ragtime",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "uws",
-      "borough": "manhattan",
-      "venue": "Lincoln Center - Vivian Beaumont",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qU7v"
-        }
-      ],
-      "description": "Live show at Lincoln Center - Vivian Beaumont on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-72d4c655ec",
-      "title": "The Rocky Horror Show - ASL Interpreted",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Studio 54",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qVZF"
-        }
-      ],
-      "description": "Live show at Studio 54 on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-2ed233ca38",
-      "title": "Dog Day Afternoon",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "August Wilson Theatre-NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q_a8"
-        }
-      ],
-      "description": "Live show at August Wilson Theatre-NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-b9f89d0acc",
-      "title": "Wicked",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Gershwin Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qaGO"
-        }
-      ],
-      "description": "Live show at Gershwin Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-b7e05589a4",
-      "title": "Joe Turner's Come and Gone",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Barrymore Theatre-NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qwog"
-        }
-      ],
-      "description": "Live show at Barrymore Theatre-NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-0f0cefeddf",
-      "title": "Hamilton",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Richard Rodgers Theatre-NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qyus"
-        }
-      ],
-      "description": "Live show at Richard Rodgers Theatre-NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-edeb4cd3df",
-      "title": "Every Brilliant Thing",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Hudson Theatre -NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7r74p"
-        }
-      ],
-      "description": "Live show at Hudson Theatre -NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-15df218f8f",
-      "title": "Fallen Angels",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Todd Haimes Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7rF0k"
-        }
-      ],
-      "description": "Live show at Todd Haimes Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-6d6d5b3845",
-      "title": "Harry Potter and the Cursed Child",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Lyric Theatre - NY",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7rKZy"
-        }
-      ],
-      "description": "Live show at Lyric Theatre - NY on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-11c3527337",
-      "title": "The Book of Mormon",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Eugene O'Neill Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7r_o4"
-        }
-      ],
-      "description": "Live show at Eugene O'Neill Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-2b815afcd3",
-      "title": "& Juliet",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Stephen Sondheim Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x8jf"
-        }
-      ],
-      "description": "Live show at Stephen Sondheim Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-509262282d",
-      "title": "Drunk Shakespeare",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "The Ruby Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xA_6"
-        }
-      ],
-      "description": "Live show at The Ruby Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-b9144e4035",
-      "title": "ZHAMIRA - CURITA PARA EL CORAZ\u00d3N (MOVED FROM GRAMERCY THEATRE)",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "gramercy",
-      "borough": "manhattan",
-      "venue": "Irving Plaza Powered By Verizon 5G",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/zhamira-curita-para-el-corazon-moved-new-york-new-york-05-19-2026/event/00006465888B6FE8"
-        }
-      ],
-      "description": "Live show at Irving Plaza Powered By Verizon 5G on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-d4e85287c7",
-      "title": "Groupie, Endearments, Evil Adeline",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Night Club 101",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/groupie-endearments-evil-adeline-night-club-101-tickets/14860633"
-        }
-      ],
-      "description": "Live show at Night Club 101 on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster, from $24\u2013$24."
-    },
-    {
-      "id": "e-c536af002b",
-      "title": "Bill Charlap Trio",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Jazz Club",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/bill-charlap-trio-birdland-jazz-club-tickets/14098004"
-        }
-      ],
-      "description": "Live show at Birdland Jazz Club on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster, from $46\u2013$56."
-    },
-    {
-      "id": "e-c4d32f9a06",
-      "title": "Wendlo w/ Georgia Parker (Indie Pop Songwriter)",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Drom",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/wendlo-w-georgia-parker-indie-drom-tickets/14771593"
-        }
-      ],
-      "description": "Live show at Drom on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster, from $20\u2013$32."
-    },
-    {
-      "id": "e-7bd8191ed3",
-      "title": "Joey Ramone 2026 Birthday Bash",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Bowery Palace",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/joey-ramone-2026-birthday-bash-bowery-palace-tickets/14880423"
-        }
-      ],
-      "description": "Live show at Bowery Palace on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster, from $47\u2013$47."
-    },
-    {
-      "id": "e-292587ed35",
-      "title": "Aladdin",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "New Amsterdam Theatre",
-      "start": "2026-05-19T23:00:00Z",
-      "end": "2026-05-20T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-05-19-2026/event/0300632FAAC60FAC"
-        }
-      ],
-      "description": "Live show at New Amsterdam Theatre on Tuesday, May 19 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-3b4c393ead",
-      "title": "Phantom Of The Opera (Entry requires a valid photo ID. All guests must be 13+. Any guest under 16 must be accompanied by an adult)",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Masquerade NYC",
-      "start": "2026-05-19T23:15:00Z",
-      "end": "2026-05-20T02:15:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xaCp"
-        }
-      ],
-      "description": "Live show at Masquerade NYC on Tuesday, May 19 at 7:15 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-873178b746",
-      "title": "New Born",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Audible's Minetta Lane Theatre",
-      "start": "2026-05-19T23:30:00Z",
-      "end": "2026-05-20T02:30:00+00:00",
-      "price": "$$",
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE,  WESTWOOD AVENUE between WELLBROOK AVENUE and GRAVES STREET,  BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE,  BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE",
+      "start": "2026-05-22T19:30:00.000-04:00",
+      "end": "2026-05-22T21:30:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/new-born-new-york-new-york-05-19-2026/event/3000645AD8E7AEF7"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Audible's Minetta Lane Theatre on Tuesday, May 19 at 7:30 PM. Tickets via Ticketmaster."
+      "description": "A parade hosted by Police Department. Takes place Friday, May 22, 7:30 PM\u20139:30 PM at BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE,  WESTWOOD AVENUE between WELLBROOK AVENUE and GRAVES STREET,  BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE,  BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE."
     },
     {
-      "id": "e-da10e21752",
-      "title": "Friends! The Musical Parody (New York)",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-634540bca9",
+      "title": "Down to Earth Chelsea Farmers Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "theater"
+        "free",
+        "outdoor",
+        "food"
       ],
-      "neighborhood": "midtownE",
+      "neighborhood": "chelsea",
       "borough": "manhattan",
-      "venue": "The Theater Center",
-      "start": "2026-05-19T23:30:00Z",
-      "end": "2026-05-20T02:30:00+00:00",
-      "price": "$$",
+      "venue": "WEST   23 STREET between 8 AVENUE and 9 AVENUE",
+      "start": "2026-05-23T06:00:00.000-04:00",
+      "end": "2026-05-23T18:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/friends-the-musical-parody-new-york-new-york-new-york-05-19-2026/event/3000646ABBE752D5"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at The Theater Center on Tuesday, May 19 at 7:30 PM. Tickets via Ticketmaster."
+      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Saturday, May 23, 6:00 AM\u20136:00 PM at WEST   23 STREET between 8 AVENUE and 9 AVENUE."
     },
     {
-      "id": "e-874fbaa44c",
-      "title": "Two Strangers (Carry a Cake Across New York)",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-11421b5046",
+      "title": "Inwood Greenmarket Saturday",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "theater"
+        "free",
+        "outdoor",
+        "food"
       ],
-      "neighborhood": "midtownE",
+      "neighborhood": "eastvillage",
       "borough": "manhattan",
-      "venue": "Longacre Theatre",
-      "start": "2026-05-19T23:30:00Z",
-      "end": "2026-05-20T02:30:00+00:00",
-      "price": "$$",
+      "venue": "ISHAM STREET between SEAMAN AVENUE and COOPER STREET",
+      "start": "2026-05-23T06:00:00.000-04:00",
+      "end": "2026-05-23T17:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/two-strangers-carry-a-cake-across-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17JZ4I"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Longacre Theatre on Tuesday, May 19 at 7:30 PM. Tickets via Ticketmaster."
+      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Saturday, May 23, 6:00 AM\u20135:00 PM at ISHAM STREET between SEAMAN AVENUE and COOPER STREET."
     },
     {
-      "id": "e-d92d7032fa",
-      "title": "Oh, Mary!",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-9eb531e7b5",
+      "title": "NYRR Open Run at Morningside Park",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "theater"
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Lyceum Theatre",
-      "start": "2026-05-19T23:30:00Z",
-      "end": "2026-05-20T02:30:00+00:00",
-      "price": "$$",
+      "venue": "Morningside Park: Lower Path 114th-116th",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T11:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/oh-mary-new-york-new-york-05-19-2026/event/Z1r9uZruZqGZ17JZqA"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Lyceum Theatre on Tuesday, May 19 at 7:30 PM. Tickets via Ticketmaster."
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 8:00 AM\u201311:00 AM at Morningside Park: Lower Path 114th-116th."
     },
     {
-      "id": "e-32bc6ffd8c",
-      "title": "Titanique (NY)",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-ffbf36630f",
+      "title": "NYRR Open Run at Inwood Hill Park",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "theater"
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "St. James Theatre",
-      "start": "2026-05-19T23:30:00Z",
-      "end": "2026-05-20T02:30:00+00:00",
-      "price": "$$",
+      "venue": "Inwood Hill Park: Inwood Hill Trails",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T11:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7O--t"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at St. James Theatre on Tuesday, May 19 at 7:30 PM. Tickets via Ticketmaster."
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 8:00 AM\u201311:00 AM at Inwood Hill Park: Inwood Hill Trails."
     },
     {
-      "id": "e-129c23afa8",
-      "title": "New York City Ballet Contemporary Choreography II",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-260f740f00",
+      "title": "82 Street Greenmarket Saturday",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "theater"
+        "free",
+        "outdoor",
+        "food"
       ],
-      "neighborhood": "midtownE",
+      "neighborhood": "ues",
       "borough": "manhattan",
-      "venue": "David H. Koch Theater",
-      "start": "2026-05-19T23:30:00Z",
-      "end": "2026-05-20T02:30:00+00:00",
-      "price": "$$",
+      "venue": "EAST   82 STREET between 1 AVENUE and YORK AVENUE",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T17:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_wqf"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at David H. Koch Theater on Tuesday, May 19 at 7:30 PM. Tickets via Ticketmaster."
+      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Saturday, May 23, 8:00 AM\u20135:00 PM at EAST   82 STREET between 1 AVENUE and YORK AVENUE."
     },
     {
-      "id": "e-0dc4f2f7dc",
-      "title": "Perfect Crime",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-e4d3eac92e",
+      "title": "NYRR Open Run at St Marys Park",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "theater"
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "The Theater Center",
-      "start": "2026-05-20T00:00:00Z",
-      "end": "2026-05-20T03:00:00+00:00",
-      "price": "$$",
+      "venue": "St. Mary's Park: St Mary's Playground East",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T11:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/perfect-crime-new-york-new-york-05-19-2026/event/3000646ABB2751FA"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at The Theater Center on Tuesday, May 19 at 8:00 PM. Tickets via Ticketmaster."
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 8:00 AM\u201311:00 AM at St. Mary's Park: St Mary's Playground East."
     },
     {
-      "id": "e-2bb0abede1",
-      "title": "Live Weekly Bluegrass with  Allison Kelly",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-178bfd2a2a",
+      "title": "NYRR Open Run at Canarsie Park",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "music"
+        "outdoor"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Lucinda's",
-      "start": "2026-05-20T00:00:00Z",
-      "end": "2026-05-20T03:00:00+00:00",
-      "price": "$",
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Canarsie Park: Oval Path",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T11:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/live-weekly-bluegrass-with-lucindas-tickets/13950404"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Lucinda's on Tuesday, May 19 at 8:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 8:00 AM\u201311:00 AM at Canarsie Park: Oval Path."
     },
     {
-      "id": "e-c5dfe49d82",
-      "title": "Lee Ritenour",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-43e7a286eb",
+      "title": "Pompeii Flea Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-jazz"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "westvillage",
       "borough": "manhattan",
-      "venue": "Blue Note Jazz Club",
-      "start": "2026-05-20T00:00:00Z",
-      "end": "2026-05-20T03:00:00+00:00",
-      "price": "$$",
+      "venue": "BLEECKER STREET between LEROY STREET and CARMINE STREET",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T20:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/lee-ritenour-blue-note-jazz-club-tickets/14788503"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/lee-ritenour-blue-note-jazz-club-tickets/14788463"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Blue Note Jazz Club on Tuesday, May 19 at 10:30 PM. Tickets via Ticketmaster, from $38\u2013$55."
+      "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Saturday, May 23, 8:00 AM\u20138:00 PM at BLEECKER STREET between LEROY STREET and CARMINE STREET."
     },
     {
-      "id": "e-870af6350f",
-      "title": "Phantom Of The Opera (Entry requires a valid photo ID. All guests must be 13+. Any guest under 16 must be accompanied by an adult)",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-13d17ba061",
+      "title": "Farmers Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "theater"
+        "free",
+        "outdoor",
+        "food"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "Richard Tucker Square: Richard Tucker Square",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 8:00 AM\u20138:00 PM at Richard Tucker Square: Richard Tucker Square."
+    },
+    {
+      "id": "e-7e4d6f4e50",
+      "title": "NYRR Open Run at Crocheron Park",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Crocheron Park: Crocheron Park",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T11:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 8:00 AM\u201311:00 AM at Crocheron Park: Crocheron Park."
+    },
+    {
+      "id": "e-43a94cc5ea",
+      "title": "NYRR Open Run at Soundview Park",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Masquerade NYC",
-      "start": "2026-05-20T00:15:00Z",
-      "end": "2026-05-20T03:15:00+00:00",
-      "price": "$$",
+      "venue": "Soundview Park: Soundview Park",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T11:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xaC9"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xaCb"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Masquerade NYC on Wednesday, May 20 at 7:15 PM. Tickets via Ticketmaster."
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 8:00 AM\u201311:00 AM at Soundview Park: Soundview Park."
     },
     {
-      "id": "e-e7232cf702",
-      "title": "Vince Giordano and the Nighthawks",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-e8227556e6",
+      "title": "NYRR Open Run at Highland Park",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "g-indie"
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Highland Park: Reservoir Path",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T11:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 8:00 AM\u201311:00 AM at Highland Park: Reservoir Path."
+    },
+    {
+      "id": "e-172af2ff38",
+      "title": "Old Cathedral Outdoor Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "PRINCE STREET between MULBERRY STREET and MOTT STREET",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Saturday, May 23, 8:00 AM\u20138:00 PM at PRINCE STREET between MULBERRY STREET and MOTT STREET."
+    },
+    {
+      "id": "e-1575dd9ba4",
+      "title": "NYRR Open Run at Astoria Park",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Astoria Park: Great Lawn 02 Ditmars Blvd",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T11:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 8:00 AM\u201311:00 AM at Astoria Park: Great Lawn 02 Ditmars Blvd."
+    },
+    {
+      "id": "e-7bd207ba66",
+      "title": "NYRR Open Run at Baisley Pond Park",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Baisley Pond Park: Large Lawn Area Zone 04",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T11:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 8:00 AM\u201311:00 AM at Baisley Pond Park: Large Lawn Area Zone 04."
+    },
+    {
+      "id": "e-e28f695d80",
+      "title": "NYRR Open Run at Shore Road Park",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Shore Road Park: 79th St Lawn",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T11:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 8:00 AM\u201311:00 AM at Shore Road Park: 79th St Lawn."
+    },
+    {
+      "id": "e-4f9d893be3",
+      "title": "RiseBoro Farmers Markets at Maria Hernandez Park",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor",
+        "food"
+      ],
+      "neighborhood": "bushwick",
+      "borough": "outer",
+      "venue": "KNICKERBOCKER AVENUE between STARR STREET and SUYDAM STREET",
+      "start": "2026-05-23T08:00:00.000-04:00",
+      "end": "2026-05-23T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Saturday, May 23, 8:00 AM\u20133:00 PM at KNICKERBOCKER AVENUE between STARR STREET and SUYDAM STREET."
+    },
+    {
+      "id": "e-fee965e6f4",
+      "title": "Methodist Flea market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "35 AVENUE between 82 STREET and 81 STREET",
+      "start": "2026-05-23T09:00:00.000-04:00",
+      "end": "2026-05-23T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Saturday, May 23, 9:00 AM\u20135:00 PM at 35 AVENUE between 82 STREET and 81 STREET."
+    },
+    {
+      "id": "e-2e1a46998c",
+      "title": "St. Anthony Flea Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET",
+      "start": "2026-05-23T09:00:00.000-04:00",
+      "end": "2026-05-23T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Saturday, May 23, 9:00 AM\u20137:00 PM at WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET."
+    },
+    {
+      "id": "e-14d9b21b22",
+      "title": "Columbus Circle Food Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-05-20T00:30:00Z",
-      "end": "2026-05-20T03:30:00+00:00",
-      "price": "$$",
+      "venue": "Central Park: Merchants' Gate",
+      "start": "2026-05-23T09:30:00.000-04:00",
+      "end": "2026-05-23T21:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14084974"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland Theater on Tuesday, May 19 at 8:30 PM. Tickets via Ticketmaster, from $25\u2013$46."
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 9:30 AM\u20139:00 PM at Central Park: Merchants' Gate."
     },
     {
-      "id": "e-82a6c654f1",
-      "title": "Pageant",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-b596268567",
+      "title": "Bleecker St Fair",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "g-indie"
+        "festival"
       ],
-      "neighborhood": "les",
+      "neighborhood": "westvillage",
       "borough": "manhattan",
-      "venue": "Mercury Lounge",
-      "start": "2026-05-20T01:00:00Z",
-      "end": "2026-05-20T04:00:00+00:00",
-      "price": "$$",
+      "venue": "BLEECKER STREET between 7 AVENUE SOUTH and 8 AVENUE",
+      "start": "2026-05-23T10:00:00.000-04:00",
+      "end": "2026-05-23T18:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/pageant-new-york-new-york-05-19-2026/event/0000646CB873C8F9"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Mercury Lounge on Tuesday, May 19 at 9:00 PM. Tickets via Ticketmaster."
+      "description": "A street festival hosted by Street Activity Permit Office. Takes place Saturday, May 23, 10:00 AM\u20136:00 PM at BLEECKER STREET between 7 AVENUE SOUTH and 8 AVENUE."
     },
     {
-      "id": "e-d830915ea5",
-      "title": "Bill Charlap Trio (10+ Event)",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-af56ac0ac2",
+      "title": "Yoga Series Saturdays",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "music"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "midtownE",
+      "neighborhood": "chelsea",
       "borough": "manhattan",
-      "venue": "Birdland",
-      "start": "2026-05-20T01:30:00Z",
-      "end": "2026-05-20T04:30:00+00:00",
-      "price": "$$",
+      "venue": "Bella Abzug Park : Block 2 (between 34th street & 35th street)",
+      "start": "2026-05-23T10:00:00.000-04:00",
+      "end": "2026-05-23T11:30:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OE7U"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OE7N"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 10:00 AM\u201311:30 AM at Bella Abzug Park : Block 2 (between 34th street & 35th street)."
     },
     {
-      "id": "e-298aa3278e",
-      "title": "Alouette Batteau | Violet Stanza | My Friend Matthew",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-022af03181",
+      "title": "Woodside Spring Fair",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "g-indie"
+        "festival"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Berlin",
-      "start": "2026-05-20T01:30:00Z",
-      "end": "2026-05-20T04:30:00+00:00",
-      "price": "$",
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "WOODSIDE AVENUE between ROOSEVELT AVENUE and 65 PLACE,  61 STREET between ROOSEVELT AVENUE and WOODSIDE AVENUE",
+      "start": "2026-05-23T10:00:00.000-04:00",
+      "end": "2026-05-23T18:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/alouette-batteau-violet-stanza-berlin-tickets/14852313"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Berlin on Tuesday, May 19 at 9:30 PM. Tickets via Ticketmaster, from $12\u2013$12."
+      "description": "A street festival hosted by Street Activity Permit Office. Takes place Saturday, May 23, 10:00 AM\u20136:00 PM at WOODSIDE AVENUE between ROOSEVELT AVENUE and 65 PLACE,  61 STREET between ROOSEVELT AVENUE and WOODSIDE AVENUE."
     },
     {
-      "id": "e-de34216afa",
-      "title": "Bill Charlap Trio",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-f0d17986f3",
+      "title": "Avenue of Americas Springfest",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "g-jazz"
+        "festival"
       ],
-      "neighborhood": "midtownE",
+      "neighborhood": "midtownW",
       "borough": "manhattan",
-      "venue": "Birdland Jazz Club",
-      "start": "2026-05-20T01:30:00Z",
-      "end": "2026-05-20T04:30:00+00:00",
-      "price": "$$",
+      "venue": "6 AVENUE between WEST   42 STREET and WEST   55 STREET",
+      "start": "2026-05-23T10:00:00.000-04:00",
+      "end": "2026-05-23T18:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/bill-charlap-trio-birdland-jazz-club-tickets/14098034"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/bill-charlap-trio-birdland-jazz-club-tickets/14098054"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland Jazz Club on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster, from $46\u2013$56."
+      "description": "A street festival hosted by Street Activity Permit Office. Takes place Saturday, May 23, 10:00 AM\u20136:00 PM at 6 AVENUE between WEST   42 STREET and WEST   55 STREET."
     },
     {
-      "id": "e-8022605ba4",
-      "title": "Starling, Total Wife, Crate",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-46c311c322",
+      "title": "Holiday Crafts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "music"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Night Club 101",
-      "start": "2026-05-20T02:00:00Z",
-      "end": "2026-05-20T05:00:00+00:00",
-      "price": "$",
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "Kensington Plaza: Kensington Plaza CHURCH AVENUE between BEVERLY ROAD and MCDONALD AVENUE",
+      "start": "2026-05-23T11:00:00.000-04:00",
+      "end": "2026-05-23T18:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/starling-total-wife-crate-night-club-101-tickets/14828053"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Night Club 101 on Tuesday, May 19 at 10:00 PM. Tickets via Ticketmaster, from $22\u2013$22."
+      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Saturday, May 23, 11:00 AM\u20136:00 PM at Kensington Plaza: Kensington Plaza CHURCH AVENUE between BEVERLY ROAD and MCDONALD AVENUE."
     },
     {
-      "id": "e-68dc4da612",
-      "title": "The Banksy Museum New York!",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-4e9dc63f30",
+      "title": "St. Patrick's Cathedral Motorcycle Blessing",
+      "category": "outabout",
+      "subcategory": "parades",
       "tags": [
-        "theater"
+        "free",
+        "outdoor",
+        "parade"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Banksy Museum New York",
-      "start": "2026-05-20T14:00:00Z",
-      "end": "2026-05-20T17:00:00+00:00",
-      "price": "$$",
+      "neighborhood": "ues",
+      "borough": "outer",
+      "venue": "OUTERBRIDGE CROSSING between SOUTH BRIDGE STREET and WEST SHORE EXPRESSWAY, Verrazano-Narrows Bridge : Verrazano-Narrows Bridge  , WEST SHORE EXPRESSWAY between OUTERBRIDGE CROSSING and STATEN IS EXPRESSWAY EB ET    8,  STATEN ISLAND EXPWY between WEST SHORE EXPWY and VERRAZZANO NARROWS BRIDGE,  GOWANUS EXPRESSWAY between VERRAZANO BRIDGE and BQE, Brooklyn Bridge: Brooklyn Bridge Westbound Rd 1  between Park Row (S) and BQE EB, Exit 28B,  BQE between GOWANUS EXPWY and BROOKLYN BRIDGE,  FDR between BROOKLYN BRIDGE and EAST   42 STREET,  EAST   42 STREET between 1 AVENUE and MADISON AVENUE,  MADISON AVENUE between EAST   42 STREET and EAST   51 STREET,  EAST   51 STREET between MADISON AVENUE and 5 AVENUE,  EAST   50 STREET between 5 AVENUE and MADISON AVENUE,  EAST   50 STREET between 5 AVENUE and MADISON AVENUE,  MADISON AVENUE between EAST   50 STREET and EAST   51 STREET,  EAST   51 STREET between MADISON AVENUE and 5 AVENUE,  EAST   51 STREET between MADISON AVENUE and 5 AVENUE",
+      "start": "2026-05-23T11:30:00.000-04:00",
+      "end": "2026-05-23T15:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.universe.com/events/the-banksy-museum-new-york-tickets-5PKNY0?ref=ticketmaster"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Banksy Museum New York on Wednesday, May 20 at 10:00 AM. Tickets via Ticketmaster."
+      "description": "A parade hosted by Police Department. Takes place Saturday, May 23, 11:30 AM\u20133:00 PM at OUTERBRIDGE CROSSING between SOUTH BRIDGE STREET and WEST SHORE EXPRESSWAY, Verrazano-Narrows Bridge : Verrazano-Narrows Bridge  , WEST SHORE EXPRESSWAY between OUTERBRIDGE CROSSING and STATEN IS EXPRESSWAY EB ET    8,  STATEN ISLAND EXPWY between WEST SHORE EXPWY and VERRAZZANO NARROWS BRIDGE,  GOWANUS EXPRESSWAY between VERRAZANO BRIDGE and BQE, Brooklyn Bridge: Brooklyn Bridge Westbound Rd 1  between Park Row (S) and BQE EB, Exit 28B,  BQE between GOWANUS EXPWY and BROOKLYN BRIDGE,  FDR between BROOKLYN BRIDGE and EAST   42 STREET,  EAST   42 STREET between 1 AVENUE and MADISON AVENUE,  MADISON AVENUE between EAST   42 STREET and EAST   51 STREET,  EAST   51 STREET between MADISON AVENUE and 5 AVENUE,  EAST   50 STREET between 5 AVENUE and MADISON AVENUE,  EAST   50 STREET between 5 AVENUE and MADISON AVENUE,  MADISON AVENUE between EAST   50 STREET and EAST   51 STREET,  EAST   51 STREET between MADISON AVENUE and 5 AVENUE,  EAST   51 STREET between MADISON AVENUE and 5 AVENUE."
+    },
+    {
+      "id": "e-5be0a7d385",
+      "title": "Vanderbilt Open Street May 2026",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "dumbo",
+      "borough": "outer",
+      "venue": "VANDERBILT AVENUE between ATLANTIC AVENUE and PARK PLACE",
+      "start": "2026-05-23T12:00:00.000-04:00",
+      "end": "2026-05-23T22:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Saturday, May 23, 12:00 PM\u201310:00 PM at VANDERBILT AVENUE between ATLANTIC AVENUE and PARK PLACE."
+    },
+    {
+      "id": "e-acd1e16a35",
+      "title": "31st Ave Open Street - May 2026 Programming",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "41 AVENUE OPEN STREET: 41 AVENUE OPEN STREET",
+      "start": "2026-05-23T12:00:00.000-04:00",
+      "end": "2026-05-23T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Saturday, May 23, 12:00 PM\u20138:00 PM at 41 AVENUE OPEN STREET: 41 AVENUE OPEN STREET."
+    },
+    {
+      "id": "e-6f1d0347f5",
+      "title": "Lower Eastside Festival of the Arts",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "manhattan",
+      "venue": "EAST   10 STREET between FIRST AVENUE and SECOND AVENUE",
+      "start": "2026-05-23T12:00:00.000-04:00",
+      "end": "2026-05-23T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A single block festival hosted by Street Activity Permit Office. Takes place Saturday, May 23, 12:00 PM\u20135:00 PM at EAST   10 STREET between FIRST AVENUE and SECOND AVENUE."
+    },
+    {
+      "id": "e-97f25a3a50",
+      "title": "BAM DanceAfrica Bazaar",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "dumbo",
+      "borough": "outer",
+      "venue": "LAFAYETTE AVENUE between FLATBUSH AVENUE and FULTON STREET,  ASHLAND PLACE between HANSON PLACE and FULTON STREET",
+      "start": "2026-05-23T12:00:00.000-04:00",
+      "end": "2026-05-25T22:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street festival hosted by Street Activity Permit Office. Takes place May 23 \u2013 May 25 at LAFAYETTE AVENUE between FLATBUSH AVENUE and FULTON STREET,  ASHLAND PLACE between HANSON PLACE and FULTON STREET."
+    },
+    {
+      "id": "e-f1e6cb2c6c",
+      "title": "Kaleidoscope Performance",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Seth Low Playground: Bealin Square",
+      "start": "2026-05-23T13:00:00.000-04:00",
+      "end": "2026-05-23T14:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 1:00 PM\u20132:00 PM at Seth Low Playground: Bealin Square."
+    },
+    {
+      "id": "e-739a17916a",
+      "title": "Block party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "parkslope",
+      "borough": "outer",
+      "venue": "12 STREET between 7 AVENUE and 6 AVENUE",
+      "start": "2026-05-23T13:00:00.000-04:00",
+      "end": "2026-05-23T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, May 23, 1:00 PM\u20139:00 PM at 12 STREET between 7 AVENUE and 6 AVENUE."
+    },
+    {
+      "id": "e-098eb9445b",
+      "title": "resource and health fair (50)",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Highland Park: Highland Park-Lower Highland Playground",
+      "start": "2026-05-23T13:00:00.000-04:00",
+      "end": "2026-05-23T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 1:00 PM\u20137:00 PM at Highland Park: Highland Park-Lower Highland Playground."
+    },
+    {
+      "id": "e-0871dacab6",
+      "title": "Urban Hope - NYC Celebration",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   42 STREET and WEST   43 STREET,  WEST   43 STREET between BROADWAY and 6 AVENUE",
+      "start": "2026-05-23T14:00:00.000-04:00",
+      "end": "2026-05-23T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Saturday, May 23, 2:00 PM\u20138:00 PM at Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   42 STREET and WEST   43 STREET,  WEST   43 STREET between BROADWAY and 6 AVENUE."
+    },
+    {
+      "id": "e-186a6302b7",
+      "title": "Shakespeare Performance  -  Julius Caesar",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "parkslope",
+      "borough": "outer",
+      "venue": "Carroll Park: Park House Plaza",
+      "start": "2026-05-23T17:00:00.000-04:00",
+      "end": "2026-05-23T22:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, May 23, 5:00 PM\u201310:00 PM at Carroll Park: Park House Plaza."
     },
     {
       "id": "e-abfb19c8b9",
@@ -4121,6 +2894,29 @@
         }
       ],
       "description": "Live show at Banksy Museum New York on Wednesday, May 20 at 10:00 AM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-68dc4da612",
+      "title": "The Banksy Museum New York!",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Banksy Museum New York",
+      "start": "2026-05-20T15:00:00Z",
+      "end": "2026-05-20T18:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.universe.com/events/the-banksy-museum-new-york-tickets-5PKNY0?ref=ticketmaster"
+        }
+      ],
+      "description": "Live show at Banksy Museum New York on Wednesday, May 20 at 11:00 AM. Tickets via Ticketmaster."
     },
     {
       "id": "e-3c4bed4c1e",
@@ -4175,87 +2971,6 @@
         }
       ],
       "description": "Live show at Winter Garden Theatre on Wednesday, May 20 at 1:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-b80cc9438c",
-      "title": "Death of a Salesman",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Winter Garden Theatre - NY",
-      "start": "2026-05-20T17:00:00Z",
-      "end": "2026-05-20T20:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Opab"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OpFO"
-        }
-      ],
-      "description": "Live show at Winter Garden Theatre - NY on Wednesday, May 20 at 1:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-7c55782274",
-      "title": "The Lion King",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Minskoff Theatre",
-      "start": "2026-05-20T17:00:00Z",
-      "end": "2026-05-20T20:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jJ7e"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jJek"
-        }
-      ],
-      "description": "Live show at Minskoff Theatre on Wednesday, May 20 at 1:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-59737a4a30",
-      "title": "Dog Day Afternoon",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "August Wilson Theatre-NY",
-      "start": "2026-05-20T17:00:00Z",
-      "end": "2026-05-20T20:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q_ao"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q_a3"
-        }
-      ],
-      "description": "Live show at August Wilson Theatre-NY on Wednesday, May 20 at 1:00 PM. Tickets via Ticketmaster."
     },
     {
       "id": "e-af171e9b09",
@@ -4743,260 +3458,6 @@
       "description": "Live show at Bernard B. Jacobs Theatre on Wednesday, May 20 at 2:00 PM. Tickets via Ticketmaster."
     },
     {
-      "id": "e-27f7431219",
-      "title": "Chess - The Musical",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Imperial Theatre - NY",
-      "start": "2026-05-20T18:00:00Z",
-      "end": "2026-05-20T21:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Mqw"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-MqS"
-        }
-      ],
-      "description": "Live show at Imperial Theatre - NY on Wednesday, May 20 at 2:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-0a9569dead",
-      "title": "The Receptionist",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Pershing Square Signature Center",
-      "start": "2026-05-20T18:00:00Z",
-      "end": "2026-05-20T21:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7093e"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7093v"
-        }
-      ],
-      "description": "Live show at Pershing Square Signature Center on Wednesday, May 20 at 2:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-8a5ce312e4",
-      "title": "Beaches",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Majestic Theatre-NY",
-      "start": "2026-05-20T18:00:00Z",
-      "end": "2026-05-20T21:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OU7Y"
-        }
-      ],
-      "description": "Live show at Majestic Theatre-NY on Wednesday, May 20 at 2:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-23d337a5a2",
-      "title": "The Outsiders",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Jacobs Theatre-NY",
-      "start": "2026-05-20T18:00:00Z",
-      "end": "2026-05-20T21:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q97E"
-        }
-      ],
-      "description": "Live show at Jacobs Theatre-NY on Wednesday, May 20 at 2:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-21229d9d28",
-      "title": "Giant",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Music Box Theatre-NY",
-      "start": "2026-05-20T18:00:00Z",
-      "end": "2026-05-20T21:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qOGd"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qOGe"
-        }
-      ],
-      "description": "Live show at Music Box Theatre-NY on Wednesday, May 20 at 2:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-21a6951984",
-      "title": "Ragtime",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "uws",
-      "borough": "manhattan",
-      "venue": "Lincoln Center - Vivian Beaumont",
-      "start": "2026-05-20T18:00:00Z",
-      "end": "2026-05-20T21:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qUAJ"
-        }
-      ],
-      "description": "Live show at Lincoln Center - Vivian Beaumont on Wednesday, May 20 at 2:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-e6ce655046",
-      "title": "Wicked",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Gershwin Theatre",
-      "start": "2026-05-20T18:00:00Z",
-      "end": "2026-05-20T21:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qaGE"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qaGJ"
-        }
-      ],
-      "description": "Live show at Gershwin Theatre on Wednesday, May 20 at 2:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-56d686f63f",
-      "title": "Joe Turner's Come and Gone",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Barrymore Theatre-NY",
-      "start": "2026-05-20T18:00:00Z",
-      "end": "2026-05-20T21:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qwoM"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qwoU"
-        }
-      ],
-      "description": "Live show at Barrymore Theatre-NY on Wednesday, May 20 at 2:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-1af70a3792",
-      "title": "Every Brilliant Thing",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Hudson Theatre -NY",
-      "start": "2026-05-20T18:00:00Z",
-      "end": "2026-05-20T21:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7r7f8"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7raP6"
-        }
-      ],
-      "description": "Live show at Hudson Theatre -NY on Wednesday, May 20 at 2:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-e966053ddc",
-      "title": "& Juliet",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "theater"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Stephen Sondheim Theatre",
-      "start": "2026-05-20T18:00:00Z",
-      "end": "2026-05-20T21:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x8jp"
-        }
-      ],
-      "description": "Live show at Stephen Sondheim Theatre on Wednesday, May 20 at 2:00 PM. Tickets via Ticketmaster."
-    },
-    {
       "id": "e-90ce4aea99",
       "title": "The Rocky Horror Show",
       "category": "stagesound",
@@ -5469,6 +3930,29 @@
       "description": "Live show at Broadway Theatre on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
     },
     {
+      "id": "e-0a9569dead",
+      "title": "The Receptionist",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Pershing Square Signature Center",
+      "start": "2026-05-20T23:00:00Z",
+      "end": "2026-05-21T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7093v"
+        }
+      ],
+      "description": "Live show at Pershing Square Signature Center on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
       "id": "e-95bc76ffea",
       "title": "Six: The Musical",
       "category": "stagesound",
@@ -5490,6 +3974,29 @@
         }
       ],
       "description": "Live show at Lena Horne Theatre on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-d830915ea5",
+      "title": "Bill Charlap Trio (10+ Event)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland",
+      "start": "2026-05-20T23:00:00Z",
+      "end": "2026-05-21T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OE7N"
+        }
+      ],
+      "description": "Live show at Birdland on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
     },
     {
       "id": "e-43e5dcf036",
@@ -5538,6 +4045,29 @@
       "description": "Live show at Al Hirschfeld Theatre on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
     },
     {
+      "id": "e-b80cc9438c",
+      "title": "Death of a Salesman",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Winter Garden Theatre - NY",
+      "start": "2026-05-20T23:00:00Z",
+      "end": "2026-05-21T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OpFO"
+        }
+      ],
+      "description": "Live show at Winter Garden Theatre - NY on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
       "id": "e-667c584a92",
       "title": "MJ (NY)",
       "category": "stagesound",
@@ -5584,6 +4114,29 @@
       "description": "Live show at Metropolitan Opera House on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
     },
     {
+      "id": "e-7c55782274",
+      "title": "The Lion King",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Minskoff Theatre",
+      "start": "2026-05-20T23:00:00Z",
+      "end": "2026-05-21T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jJek"
+        }
+      ],
+      "description": "Live show at Minskoff Theatre on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
       "id": "e-e960ac32d3",
       "title": "Hadestown",
       "category": "stagesound",
@@ -5628,6 +4181,75 @@
         }
       ],
       "description": "Live show at Westside Theatre Upstairs - NY on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-59737a4a30",
+      "title": "Dog Day Afternoon",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "August Wilson Theatre-NY",
+      "start": "2026-05-20T23:00:00Z",
+      "end": "2026-05-21T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q_a3"
+        }
+      ],
+      "description": "Live show at August Wilson Theatre-NY on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-e6ce655046",
+      "title": "Wicked",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Gershwin Theatre",
+      "start": "2026-05-20T23:00:00Z",
+      "end": "2026-05-21T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qaGJ"
+        }
+      ],
+      "description": "Live show at Gershwin Theatre on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-56d686f63f",
+      "title": "Joe Turner's Come and Gone",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Barrymore Theatre-NY",
+      "start": "2026-05-20T23:00:00Z",
+      "end": "2026-05-21T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qwoU"
+        }
+      ],
+      "description": "Live show at Barrymore Theatre-NY on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
     },
     {
       "id": "e-24d92dba7b",
@@ -5722,6 +4344,29 @@
       "description": "Live show at Eugene O'Neill Theatre on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
     },
     {
+      "id": "e-1af70a3792",
+      "title": "Every Brilliant Thing",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Hudson Theatre -NY",
+      "start": "2026-05-20T23:00:00Z",
+      "end": "2026-05-21T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7raP6"
+        }
+      ],
+      "description": "Live show at Hudson Theatre -NY on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
       "id": "e-bbf5cc9893",
       "title": "Drunk Shakespeare",
       "category": "stagesound",
@@ -5791,6 +4436,29 @@
       "description": "Live show at Night Club 101 on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster, from $25\u2013$25."
     },
     {
+      "id": "e-de34216afa",
+      "title": "Bill Charlap Trio",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Jazz Club",
+      "start": "2026-05-20T23:00:00Z",
+      "end": "2026-05-21T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/bill-charlap-trio-birdland-jazz-club-tickets/14098054"
+        }
+      ],
+      "description": "Live show at Birdland Jazz Club on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster, from $46\u2013$56."
+    },
+    {
       "id": "e-b5960763e4",
       "title": "Burnout Paradise",
       "category": "stagesound",
@@ -5812,6 +4480,29 @@
         }
       ],
       "description": "Live show at Astor Place Theatre on Wednesday, May 20 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-870af6350f",
+      "title": "Phantom Of The Opera (Entry requires a valid photo ID. All guests must be 13+. Any guest under 16 must be accompanied by an adult)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Masquerade NYC",
+      "start": "2026-05-20T23:15:00Z",
+      "end": "2026-05-21T02:15:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xaCb"
+        }
+      ],
+      "description": "Live show at Masquerade NYC on Wednesday, May 20 at 7:15 PM. Tickets via Ticketmaster."
     },
     {
       "id": "e-80990b9c17",
@@ -5929,6 +4620,29 @@
       "description": "Live show at Daryl Roth Theatre on Wednesday, May 20 at 7:30 PM. Tickets via Ticketmaster."
     },
     {
+      "id": "e-27f7431219",
+      "title": "Chess - The Musical",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Imperial Theatre - NY",
+      "start": "2026-05-20T23:30:00Z",
+      "end": "2026-05-21T02:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-MqS"
+        }
+      ],
+      "description": "Live show at Imperial Theatre - NY on Wednesday, May 20 at 7:30 PM. Tickets via Ticketmaster."
+    },
+    {
       "id": "e-5a9d8baaa6",
       "title": "Celebrity Autobiography",
       "category": "stagesound",
@@ -5973,6 +4687,29 @@
         }
       ],
       "description": "Live show at David H. Koch Theater on Wednesday, May 20 at 7:30 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-21229d9d28",
+      "title": "Giant",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Music Box Theatre-NY",
+      "start": "2026-05-20T23:30:00Z",
+      "end": "2026-05-21T02:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qOGe"
+        }
+      ],
+      "description": "Live show at Music Box Theatre-NY on Wednesday, May 20 at 7:30 PM. Tickets via Ticketmaster."
     },
     {
       "id": "e-c075a74927",
@@ -8585,8 +7322,8 @@
       "description": "Live show at Birdland on Thursday, May 21 at 9:30 PM. Tickets via Ticketmaster."
     },
     {
-      "id": "e-a29f0adc69",
-      "title": "Dylan Isabella | Ruby Deena",
+      "id": "e-ef5d408bd2",
+      "title": "Dylan Isabella | Ruby Deena | Lucas De Min",
       "category": "stagesound",
       "subcategory": "concerts",
       "tags": [
@@ -10635,7 +9372,7 @@
           "url": "https://www.ticketweb.com/event/flight-by-nothing-prizilla-berlin-tickets/14852293"
         }
       ],
-      "description": "Live show at Berlin on Friday, May 22 at 8:00 PM. Tickets via Ticketmaster, from $12\u2013$12."
+      "description": "Live show at Berlin on Friday, May 22 at 8:00 PM. Tickets via Ticketmaster, from $19\u2013$19."
     },
     {
       "id": "e-9787567458",
@@ -10909,29 +9646,6 @@
         }
       ],
       "description": "Live show at Birdland Theater on Saturday, May 23 at 7:00 PM. Tickets via Ticketmaster, from $35\u2013$46."
-    },
-    {
-      "id": "e-2faff85846",
-      "title": "All The Feels - R&B Fest",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-hiphop"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Sony Hall",
-      "start": "2026-05-23T02:30:00Z",
-      "end": "2026-05-23T05:30:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/all-the-feels-sony-hall-tickets/14114904"
-        }
-      ],
-      "description": "Live show at Sony Hall on Friday, May 22 at 10:30 PM. Tickets via Ticketmaster, from $20\u2013$20."
     },
     {
       "id": "e-02c49b3f6d",
@@ -12587,6 +11301,29 @@
       "description": "Live show at Daryl Roth Theatre on Saturday, May 23 at 3:00 PM. Tickets via Ticketmaster."
     },
     {
+      "id": "e-232ffa3170",
+      "title": "Will Wright",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Lucinda's",
+      "start": "2026-05-23T19:00:00Z",
+      "end": "2026-05-23T22:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/will-wright-lucindas-tickets/14932753"
+        }
+      ],
+      "description": "Live show at Lucinda's on Saturday, May 23 at 3:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
       "id": "e-33c3022282",
       "title": "Burnout Paradise",
       "category": "stagesound",
@@ -12868,7 +11605,7 @@
           "url": "https://www.ticketweb.com/event/faster-things-allman-sony-hall-tickets/14777623"
         }
       ],
-      "description": "Live show at Sony Hall on Saturday, May 23 at 7:00 PM. Tickets via Ticketmaster, from $41\u2013$64."
+      "description": "Live show at Sony Hall on Saturday, May 23 at 7:00 PM. Tickets via Ticketmaster, from $29\u2013$64."
     },
     {
       "id": "e-7153da901a",
@@ -12917,8 +11654,8 @@
       "description": "Live show at David Geffen Hall on Saturday, May 23 at 7:30 PM. Tickets via Ticketmaster."
     },
     {
-      "id": "e-aaa7373a11",
-      "title": "Hyd",
+      "id": "e-a2a03a1635",
+      "title": "Hyd, Warpstr",
       "category": "stagesound",
       "subcategory": "concerts",
       "tags": [
@@ -12934,7 +11671,7 @@
       "sources": [
         {
           "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/hyd-night-club-101-tickets/14760413"
+          "url": "https://www.ticketweb.com/event/hyd-warpstr-night-club-101-tickets/14760413"
         }
       ],
       "description": "Live show at Night Club 101 on Saturday, May 23 at 7:30 PM. Tickets via Ticketmaster, from $27\u2013$27."
@@ -15989,6 +14726,29 @@
       "description": "Live show at Banksy Museum New York on Monday, May 25 at 10:00 AM. Tickets via Ticketmaster."
     },
     {
+      "id": "e-f872c74243",
+      "title": "Lucinda's Memorial Day Extravaganza with Half Step, Patton Mcghee, Michael Karson,",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Lucinda's",
+      "start": "2026-05-25T20:00:00Z",
+      "end": "2026-05-25T23:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/lucindas-memorial-day-extravaganza-with-lucindas-tickets/14932763"
+        }
+      ],
+      "description": "Live show at Lucinda's on Monday, May 25 at 4:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
       "id": "e-bfcbef08f3",
       "title": "Vince Giordano and the Nighthawks",
       "category": "stagesound",
@@ -16598,6 +15358,10 @@
         {
           "name": "Ticketmaster",
           "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xdCK"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xdC7"
         }
       ],
       "description": "Live show at Daryl Roth Theatre on Tuesday, May 26 at 3:00 PM. Tickets via Ticketmaster."
@@ -17939,6 +16703,1880 @@
         }
       ],
       "description": "Live show at St. James Theatre on Tuesday, May 26 at 7:30 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-e044434d40",
+      "title": "New York City Ballet Eclectic NYCB II",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "David H. Koch Theater",
+      "start": "2026-05-26T23:30:00Z",
+      "end": "2026-05-27T02:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_wq_"
+        }
+      ],
+      "description": "Live show at David H. Koch Theater on Tuesday, May 26 at 7:30 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-8f3105f8f7",
+      "title": "NYC Live and Dangerous Play the Music of Thin Lizzy",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Berlin",
+      "start": "2026-05-26T23:30:00Z",
+      "end": "2026-05-27T02:30:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/nyc-live-and-dangerous-play-berlin-tickets/14832973"
+        }
+      ],
+      "description": "Live show at Berlin on Tuesday, May 26 at 7:30 PM. Tickets via Ticketmaster, from $12\u2013$12."
+    },
+    {
+      "id": "e-27787eb42d",
+      "title": "Perfect Crime",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "The Theater Center",
+      "start": "2026-05-27T00:00:00Z",
+      "end": "2026-05-27T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/perfect-crime-new-york-new-york-05-26-2026/event/3000646ABB4D5221"
+        }
+      ],
+      "description": "Live show at The Theater Center on Tuesday, May 26 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-176e3f92c3",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Lucinda's",
+      "start": "2026-05-27T00:00:00Z",
+      "end": "2026-05-27T03:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/live-weekly-bluegrass-with-lucindas-tickets/13950444"
+        }
+      ],
+      "description": "Live show at Lucinda's on Tuesday, May 26 at 8:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
+      "id": "e-cd3d1cba37",
+      "title": "The Terrace Martin Residency!",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-hiphop"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "Blue Note Jazz Club",
+      "start": "2026-05-27T00:00:00Z",
+      "end": "2026-05-27T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/the-terrace-martin-residency-blue-note-jazz-club-tickets/14186524"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/the-terrace-martin-residency-blue-note-jazz-club-tickets/14186634"
+        }
+      ],
+      "description": "Live show at Blue Note Jazz Club on Tuesday, May 26 at 10:30 PM. Tickets via Ticketmaster, from $49\u2013$55."
+    },
+    {
+      "id": "e-9a5fc63ce5",
+      "title": "Phantom Of The Opera (Entry requires a valid photo ID. All guests must be 13+. Any guest under 16 must be accompanied by an adult)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Masquerade NYC",
+      "start": "2026-05-27T00:15:00Z",
+      "end": "2026-05-27T03:15:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xa8o"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xa83"
+        }
+      ],
+      "description": "Live show at Masquerade NYC on Wednesday, May 27 at 7:15 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-5f0a0e8235",
+      "title": "Vince Giordano and the Nighthawks",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Theater",
+      "start": "2026-05-27T00:30:00Z",
+      "end": "2026-05-27T03:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14085004"
+        }
+      ],
+      "description": "Live show at Birdland Theater on Tuesday, May 26 at 8:30 PM. Tickets via Ticketmaster, from $25\u2013$46."
+    },
+    {
+      "id": "e-673dc5d3f4",
+      "title": "Leo Middea",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "les",
+      "borough": "manhattan",
+      "venue": "Mercury Lounge",
+      "start": "2026-05-27T01:00:00Z",
+      "end": "2026-05-27T04:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/leo-middea-new-york-new-york-05-26-2026/event/000064499EDD528B"
+        }
+      ],
+      "description": "Live show at Mercury Lounge on Tuesday, May 26 at 9:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-5af358d8cf",
+      "title": "Gil Evans Project directed by Ryan Truesdell",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Jazz Club",
+      "start": "2026-05-27T01:30:00Z",
+      "end": "2026-05-27T04:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/gil-evans-project-directed-by-birdland-jazz-club-tickets/14757973"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/gil-evans-project-directed-by-birdland-jazz-club-tickets/14758013"
+        }
+      ],
+      "description": "Live show at Birdland Jazz Club on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster, from $46\u2013$56."
+    },
+    {
+      "id": "e-15836f44ac",
+      "title": "ROREY, Drucker",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-05-27T02:00:00Z",
+      "end": "2026-05-27T05:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/rorey-drucker-night-club-101-tickets/14906413"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Tuesday, May 26 at 10:00 PM. Tickets via Ticketmaster, from $22\u2013$22."
+    },
+    {
+      "id": "e-f4579ca197",
+      "title": "The Banksy Museum New York!",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Banksy Museum New York",
+      "start": "2026-05-27T14:00:00Z",
+      "end": "2026-05-27T17:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.universe.com/events/the-banksy-museum-new-york-tickets-5PKNY0?ref=ticketmaster"
+        }
+      ],
+      "description": "Live show at Banksy Museum New York on Wednesday, May 27 at 10:00 AM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-00b61bb34c",
+      "title": "Banksy Museum - Flexiticket",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Banksy Museum New York",
+      "start": "2026-05-27T14:00:00Z",
+      "end": "2026-05-27T17:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.universe.com/events/banksy-museum-flexiticket-tickets-F7XJ8T?ref=ticketmaster"
+        }
+      ],
+      "description": "Live show at Banksy Museum New York on Wednesday, May 27 at 10:00 AM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-b24ed70f13",
+      "title": "MJ",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Neil Simon Theatre",
+      "start": "2026-05-27T17:00:00Z",
+      "end": "2026-05-27T20:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/mj-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1AvqajZ"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/mj-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1Avqa_S"
+        }
+      ],
+      "description": "Live show at Neil Simon Theatre on Wednesday, May 27 at 1:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-e27d5c3ee7",
+      "title": "Hamilton (NY)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Richard Rodgers Theatre",
+      "start": "2026-05-27T17:00:00Z",
+      "end": "2026-05-27T20:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/hamilton-ny-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1Avqdeb"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/hamilton-ny-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1Avqe_e"
+        }
+      ],
+      "description": "Live show at Richard Rodgers Theatre on Wednesday, May 27 at 1:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-4eda10c52b",
+      "title": "Arthur Miller's Death of a Salesman",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Winter Garden Theatre",
+      "start": "2026-05-27T17:00:00Z",
+      "end": "2026-05-27T20:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/arthur-millers-death-of-a-salesman-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JA7_"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/arthur-millers-death-of-a-salesman-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JA7t"
+        }
+      ],
+      "description": "Live show at Winter Garden Theatre on Wednesday, May 27 at 1:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-2316fb30b1",
+      "title": "Death of a Salesman",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Winter Garden Theatre - NY",
+      "start": "2026-05-27T17:00:00Z",
+      "end": "2026-05-27T20:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Opa-"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OpF0"
+        }
+      ],
+      "description": "Live show at Winter Garden Theatre - NY on Wednesday, May 27 at 1:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-a10b7c9e64",
+      "title": "MJ (NY)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Neil Simon Theatre",
+      "start": "2026-05-27T17:00:00Z",
+      "end": "2026-05-27T20:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Q7OA"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Q7-f"
+        }
+      ],
+      "description": "Live show at Neil Simon Theatre on Wednesday, May 27 at 1:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-41b5d98c0f",
+      "title": "Dog Day Afternoon",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "August Wilson Theatre-NY",
+      "start": "2026-05-27T17:00:00Z",
+      "end": "2026-05-27T20:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q_a_"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q_aO"
+        }
+      ],
+      "description": "Live show at August Wilson Theatre-NY on Wednesday, May 27 at 1:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-8ae394eb04",
+      "title": "Hamilton",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Richard Rodgers Theatre-NY",
+      "start": "2026-05-27T17:00:00Z",
+      "end": "2026-05-27T20:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qy3K"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qy4_"
+        }
+      ],
+      "description": "Live show at Richard Rodgers Theatre-NY on Wednesday, May 27 at 1:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-62e1f5d7cf",
+      "title": "Harry Potter and the Cursed Child",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Lyric Theatre - NY",
+      "start": "2026-05-27T17:00:00Z",
+      "end": "2026-05-27T20:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7rKvF"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7rKva"
+        }
+      ],
+      "description": "Live show at Lyric Theatre - NY on Wednesday, May 27 at 1:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-0740894d22",
+      "title": "Pied-\u00e0-Terre",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "The Theater Center",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/piedaterre-new-york-new-york-05-27-2026/event/30006488C15C65D5"
+        }
+      ],
+      "description": "Live show at The Theater Center on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-0f62117020",
+      "title": "New Born",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Audible's Minetta Lane Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/new-born-new-york-new-york-05-27-2026/event/3000645AD8EFAF0C"
+        }
+      ],
+      "description": "Live show at Audible's Minetta Lane Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-8a7aa37fcb",
+      "title": "Death Becomes Her",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Lunt-Fontanne Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/death-becomes-her-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1AvO8op"
+        }
+      ],
+      "description": "Live show at Lunt-Fontanne Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-ebf5c3b989",
+      "title": "The Lost Boys",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Palace Theatre New York",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-lost-boys-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1AvOA8S"
+        }
+      ],
+      "description": "Live show at Palace Theatre New York on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-5e6881e143",
+      "title": "Schmigadoon!",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Nederlander Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/schmigadoon-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1AvOPuM"
+        }
+      ],
+      "description": "Live show at Nederlander Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-c0076d05ab",
+      "title": "Wicked (NY)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Gershwin Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/wicked-ny-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1AvpKAw"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/wicked-ny-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1AvpKk8"
+        }
+      ],
+      "description": "Live show at Gershwin Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-d44b69ccd8",
+      "title": "Beaches, A New Musical",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Majestic Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/beaches-a-new-musical-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17J6uO"
+        }
+      ],
+      "description": "Live show at Majestic Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-4d5e173114",
+      "title": "Joe Turner's Come and Gone",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Ethel Barrymore Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/joe-turners-come-and-gone-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17J7ot"
+        }
+      ],
+      "description": "Live show at Ethel Barrymore Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-c889aab338",
+      "title": "Buena Vista Social Club",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Gerald Schoenfeld Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/buena-vista-social-club-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JAFg"
+        }
+      ],
+      "description": "Live show at Gerald Schoenfeld Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-1b3640bc80",
+      "title": "The Balusters",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Samuel J Friedman Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-balusters-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JAjf"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-balusters-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JAjx"
+        }
+      ],
+      "description": "Live show at Samuel J Friedman Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-825f685cd1",
+      "title": "Two Strangers (Carry a Cake Across New York)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Longacre Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/two-strangers-carry-a-cake-across-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JZp6"
+        }
+      ],
+      "description": "Live show at Longacre Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-ecfd47e86b",
+      "title": "Gotta Dance!",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Stage 42",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/gotta-dance-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JbCa"
+        }
+      ],
+      "description": "Live show at Stage 42 on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-f98da31f7d",
+      "title": "Ragtime",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "Lincoln Center - Vivian Beaumont Theater",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/ragtime-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17Jd84"
+        }
+      ],
+      "description": "Live show at Lincoln Center - Vivian Beaumont Theater on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-96bb7ff18d",
+      "title": "Giant",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Music Box Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/giant-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JdGd"
+        }
+      ],
+      "description": "Live show at Music Box Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-53a0a21d7e",
+      "title": "Proof",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Booth Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/proof-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JdQ6"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qIjd"
+        }
+      ],
+      "description": "Live show at Booth Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-77b49ffd49",
+      "title": "CATS: The Jellicle Ball",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Broadhurst Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/cats-the-jellicle-ball-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JeFb"
+        }
+      ],
+      "description": "Live show at Broadhurst Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-dd1ebdf0f8",
+      "title": "Operation Mincemeat: A New Musical",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "John Golden Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/operation-mincemeat-a-new-musical-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17Jefo"
+        }
+      ],
+      "description": "Live show at John Golden Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-e8de309900",
+      "title": "Just In Time",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Circle In The Square Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/just-in-time-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JkGk"
+        }
+      ],
+      "description": "Live show at Circle In The Square Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-d4c13f8129",
+      "title": "The Fear of 13",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "James Earl Jones Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-fear-of-13-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JkPx"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-fear-of-13-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JkPs"
+        }
+      ],
+      "description": "Live show at James Earl Jones Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-454c0db3ca",
+      "title": "Maybe Happy Ending",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Belasco Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/maybe-happy-ending-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JvAa"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/maybe-happy-ending-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JvAf"
+        }
+      ],
+      "description": "Live show at Belasco Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-6bee585061",
+      "title": "Chess",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Imperial Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/chess-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17PMjb"
+        }
+      ],
+      "description": "Live show at Imperial Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-00a8f9779c",
+      "title": "The Outsiders",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Bernard B. Jacobs Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-outsiders-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17PY-t"
+        }
+      ],
+      "description": "Live show at Bernard B. Jacobs Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-e07d20a845",
+      "title": "Chess - The Musical",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Imperial Theatre - NY",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-MrZ"
+        }
+      ],
+      "description": "Live show at Imperial Theatre - NY on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-81bf2c639c",
+      "title": "Moulin Rouge",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Al Hirschfeld Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-a_-"
+        }
+      ],
+      "description": "Live show at Al Hirschfeld Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-45e240ebb2",
+      "title": "Beaches",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Majestic Theatre-NY",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OU7z"
+        }
+      ],
+      "description": "Live show at Majestic Theatre-NY on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-024959bc3a",
+      "title": "Hadestown",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Walter Kerr Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jY_s"
+        }
+      ],
+      "description": "Live show at Walter Kerr Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-4c1f6d1e94",
+      "title": "The Outsiders",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Jacobs Theatre-NY",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q97g"
+        }
+      ],
+      "description": "Live show at Jacobs Theatre-NY on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-ea73c8a6fa",
+      "title": "Giant",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Music Box Theatre-NY",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qOG3"
+        }
+      ],
+      "description": "Live show at Music Box Theatre-NY on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-74aab2d457",
+      "title": "Ragtime",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "Lincoln Center - Vivian Beaumont",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qUAV"
+        }
+      ],
+      "description": "Live show at Lincoln Center - Vivian Beaumont on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-886267d0a6",
+      "title": "Joe Turner's Come and Gone",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Barrymore Theatre-NY",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qw3A"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qw37"
+        }
+      ],
+      "description": "Live show at Barrymore Theatre-NY on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-d3fee02175",
+      "title": "Fallen Angels",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Todd Haimes Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7rF0M"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7rF0z"
+        }
+      ],
+      "description": "Live show at Todd Haimes Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-cdc90812fe",
+      "title": "& Juliet",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Stephen Sondheim Theatre",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x8jw"
+        }
+      ],
+      "description": "Live show at Stephen Sondheim Theatre on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-ed0e713cf8",
+      "title": "Every Brilliant Thing",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Hudson Theatre -NY",
+      "start": "2026-05-27T18:00:00Z",
+      "end": "2026-05-27T21:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xdra"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xdr8"
+        }
+      ],
+      "description": "Live show at Hudson Theatre -NY on Wednesday, May 27 at 2:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-cade264668",
+      "title": "Oh, Mary!",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Lyceum Theatre",
+      "start": "2026-05-27T19:00:00Z",
+      "end": "2026-05-27T22:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/oh-mary-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JZxA"
+        }
+      ],
+      "description": "Live show at Lyceum Theatre on Wednesday, May 27 at 3:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-17bc35e09e",
+      "title": "David Ostwald's Louis Armstrong Eternity Band",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Theater",
+      "start": "2026-05-27T21:30:00Z",
+      "end": "2026-05-28T00:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/david-ostwalds-louis-armstrong-eternity-birdland-theater-tickets/14078274"
+        }
+      ],
+      "description": "Live show at Birdland Theater on Wednesday, May 27 at 5:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
+    },
+    {
+      "id": "e-e9eb49c710",
+      "title": "Alex Lambert",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "les",
+      "borough": "manhattan",
+      "venue": "Mercury Lounge",
+      "start": "2026-05-27T22:00:00Z",
+      "end": "2026-05-28T01:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/alex-lambert-new-york-new-york-05-27-2026/event/00006450A84C70D1"
+        }
+      ],
+      "description": "Live show at Mercury Lounge on Wednesday, May 27 at 6:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-70ea5c8e58",
+      "title": "Citizen Soldier: Secret Songs Tour II",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "gramercy",
+      "borough": "manhattan",
+      "venue": "Gramercy Theatre",
+      "start": "2026-05-27T22:00:00Z",
+      "end": "2026-05-28T01:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/citizen-soldier-secret-songs-tour-ii-new-york-new-york-05-27-2026/event/00006430D60E2364"
+        }
+      ],
+      "description": "Live show at Gramercy Theatre on Wednesday, May 27 at 6:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-597e8e4110",
+      "title": "Colin Hallahan | Sophia Griswold | Jessica Woodlee",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Berlin",
+      "start": "2026-05-27T22:30:00Z",
+      "end": "2026-05-28T01:30:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/colin-hallahan-sophia-griswold-berlin-tickets/14904753"
+        }
+      ],
+      "description": "Live show at Berlin on Wednesday, May 27 at 6:30 PM. Tickets via Ticketmaster, from $12\u2013$12."
+    },
+    {
+      "id": "e-d1b1ebd76e",
+      "title": "After Dark: A Burlesque Experience",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Joanne Trattoria",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.universe.com/events/after-dark-a-burlesque-experience-tickets-0SXYLT?ref=ticketmaster"
+        }
+      ],
+      "description": "Live show at Joanne Trattoria on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-44a26d8385",
+      "title": "Stranger Things: The First Shadow",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Marquis Theatre",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/stranger-things-the-first-shadow-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1Av-6Ad"
+        }
+      ],
+      "description": "Live show at Marquis Theatre on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-07fbc4749a",
+      "title": "Six (New York, NY)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Lena Horne Theatre",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/six-new-york-ny-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1AvO-e9"
+        }
+      ],
+      "description": "Live show at Lena Horne Theatre on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-4a19bb6a3f",
+      "title": "The Lion King (New York, NY)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Minskoff Theatre",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-lion-king-new-york-ny-new-york-new-york-05-27-2026/event/Z1r9uZrrZbpZ1Avr9ZN"
+        }
+      ],
+      "description": "Live show at Minskoff Theatre on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-ed3471a0cb",
+      "title": "Heathers: The Musical",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "New World Stages - Stage 1",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/heathers-the-musical-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17J7je"
+        }
+      ],
+      "description": "Live show at New World Stages - Stage 1 on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-93f0e38801",
+      "title": "The 25th Annual Putnam County Spelling Bee",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "New World Stages - Stage 3",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-25th-annual-putnam-county-spelling-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JZZN"
+        }
+      ],
+      "description": "Live show at New World Stages - Stage 3 on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-70e652287b",
+      "title": "The Play That Goes Wrong",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "New World Stages - Stage 4",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-play-that-goes-wrong-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17JvCZ"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QePS"
+        }
+      ],
+      "description": "Live show at New World Stages - Stage 4 on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-2844fad020",
+      "title": "Little Shop Of Horrors",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Westside Theatre Upstairs",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/little-shop-of-horrors-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17PPGE"
+        }
+      ],
+      "description": "Live show at Westside Theatre Upstairs on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-010543f339",
+      "title": "The Great Gatsby",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Broadway Theatre",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-great-gatsby-new-york-new-york-05-27-2026/event/Z1r9uZruZqGZ17Psqv"
+        }
+      ],
+      "description": "Live show at Broadway Theatre on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-57efd0c861",
+      "title": "The Great Gatsby",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Broadway Theatre-New York",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-z4p"
+        }
+      ],
+      "description": "Live show at Broadway Theatre-New York on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-5fa940ec7d",
+      "title": "Six: The Musical",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Lena Horne Theatre",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A709Jb"
+        }
+      ],
+      "description": "Live show at Lena Horne Theatre on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-9f5572e2f5",
+      "title": "The Lion King",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Minskoff Theatre",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jJ7_"
+        }
+      ],
+      "description": "Live show at Minskoff Theatre on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-201c5a6d57",
+      "title": "Little Shop of Horrors",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Westside Theatre Upstairs - NY",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7p8AI"
+        }
+      ],
+      "description": "Live show at Westside Theatre Upstairs - NY on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-1c22ccf499",
+      "title": "The Rocky Horror Show",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Studio 54",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qVZ9"
+        }
+      ],
+      "description": "Live show at Studio 54 on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-007b1367c5",
+      "title": "The Book of Mormon",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Eugene O'Neill Theatre",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7r_o0"
+        }
+      ],
+      "description": "Live show at Eugene O'Neill Theatre on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-dfda9778d7",
+      "title": "Drunk Shakespeare",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "The Ruby Theatre",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xA_-"
+        }
+      ],
+      "description": "Live show at The Ruby Theatre on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-2b8b9862ec",
+      "title": "The Tumblers, Kai Weinkauf",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/the-tumblers-kai-weinkauf-night-club-101-tickets/14824653"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster, from $24\u2013$24."
+    },
+    {
+      "id": "e-4ba137afc2",
+      "title": "The Gil Evans Project",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Jazz Club",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/the-gil-evans-project-birdland-jazz-club-tickets/14746073"
+        }
+      ],
+      "description": "Live show at Birdland Jazz Club on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
+      "id": "e-449ddc0b6e",
+      "title": "Aladdin",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "theater"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "New Amsterdam Theatre",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-05-27-2026/event/0300632FAAC71026"
+        }
+      ],
+      "description": "Live show at New Amsterdam Theatre on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-d94e3fe103",
+      "title": "East Side Dance Company Presents: Dancing Through The Decades",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Town Hall",
+      "start": "2026-05-27T23:00:00Z",
+      "end": "2026-05-28T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/east-side-dance-company-presents-dancing-new-york-new-york-05-27-2026/event/030064A4C5541279"
+        }
+      ],
+      "description": "Live show at Town Hall on Wednesday, May 27 at 7:00 PM. Tickets via Ticketmaster."
     }
   ]
 }
