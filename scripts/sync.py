@@ -569,7 +569,9 @@ def fetch_ticketmaster() -> Iterable[Event]:
     for page in range(5):
         params = [
             ("apikey", key),
-            ("marketId", "345"),                       # NYC market
+            ("city", "New York"),
+            ("stateCode", "NY"),
+            ("countryCode", "US"),
             ("classificationName", "Music"),
             ("classificationName", "Arts & Theatre"),
             ("classificationName", "Comedy"),
