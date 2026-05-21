@@ -6,6 +6,13 @@ on:
     paths:
       - "web/**"
       - ".github/workflows/pages.yml"
+  workflow_run:
+    # Re-deploy whenever the daily sync finishes — its commits don't fire
+    # the `push` trigger above (GitHub blocks GITHUB_TOKEN commits from
+    # triggering other workflows, to prevent loops).
+    workflows: ["Daily Sync"]
+    types: [completed]
+    branches: [main]
   workflow_dispatch: {}
 
 permissions:
