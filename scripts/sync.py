@@ -522,8 +522,35 @@ def _tm_price_bucket(prng: dict | None) -> str:
     if avg <= 75: return "$$"
     return "$$$"
 
+# Broadway / off-Broadway theaters — drop any event at these venues outright.
+BROADWAY_VENUES = {
+    # Major Broadway houses
+    "al hirschfeld", "ambassador theatre", "august wilson theatre", "belasco theatre",
+    "bernard b. jacobs", "booth theatre", "broadhurst theatre", "broadway theatre",
+    "brooks atkinson", "circle in the square", "cort theatre", "ethel barrymore",
+    "eugene o'neill", "gerald schoenfeld", "gershwin theatre", "helen hayes theatre",
+    "hudson theatre", "imperial theatre", "james earl jones", "john golden",
+    "lena horne", "longacre theatre", "lyceum theatre", "lyric theatre",
+    "majestic theatre", "marquis theatre", "minskoff theatre", "music box theatre",
+    "nederlander theatre", "neil simon theatre", "new amsterdam theatre",
+    "palace theatre", "richard rodgers", "samuel j. friedman", "shubert theatre",
+    "st. james theatre", "stephen sondheim", "studio 54", "todd haimes",
+    "vivian beaumont", "walter kerr", "winter garden",
+    # Off-Broadway / theater companies
+    "atlantic theater", "barrow street theatre", "lucille lortel", "minetta lane",
+    "new york theatre workshop", "new world stages", "playwrights horizons",
+    "second stage", "signature theatre",
+    # Lincoln Center theater spaces (LCT) — also Broadway
+    "mitzi e. newhouse",
+}
+
+def _is_broadway_venue(venue_name: str) -> bool:
+    v = (venue_name or "").lower()
+    return any(b in v for b in BROADWAY_VENUES)
+
 def _tm_classify(classifications: list) -> tuple[str, str, list[str]]:
-    """Map Ticketmaster classifications to (category, subcategory, tags)."""
+    """Map Ticketmaster classifications to (category, subcategory, tags).
+    Returns ('DROP', ...) for events to filter out (Broadway, opera, ballet, etc.)."""
     if not classifications: return "stagesound", "concerts", ["music"]
     c = classifications[0] or {}
     seg = ((c.get("segment") or {}).get("name") or "").lower()
@@ -539,8 +566,10 @@ def _tm_classify(classifications: list) -> tuple[str, str, list[str]]:
         tag = next((t for k, t in tag_map.items() if k in genre), "music")
         return "stagesound", "concerts", [tag]
     if seg == "arts & theatre":
-        if "comedy" in genre: return "stagesound", "comedy-clubs", ["comedy"]
-        return "stagesound", "concerts", ["theater"]
+        # Keep comedy; drop Broadway/off-Broadway/theater/opera/ballet/dance/musicals.
+        if "comedy" in genre:
+            return "stagesound", "comedy-clubs", ["comedy"]
+        return "DROP", "", []
     if seg == "comedy" or "comedy" in genre:
         return "stagesound", "comedy-theater", ["comedy"]
     return "stagesound", "concerts", ["music"]
@@ -620,6 +649,9 @@ def fetch_ticketmaster() -> Iterable[Event]:
             venues = ((r.get("_embedded") or {}).get("venues") or [])
             v = venues[0] if venues else {}
             venue_name = (v.get("name") or "Unknown venue").strip()
+            # Skip Broadway / off-Broadway theaters entirely
+            if _is_broadway_venue(venue_name):
+                continue
             v_city = ((v.get("city") or {}).get("name") or "").lower()
             v_state = ((v.get("state") or {}).get("stateCode") or "").upper()
             # Restrict to NYC (TM "marketId=345" already does this loosely, but double-check)
@@ -641,6 +673,8 @@ def fetch_ticketmaster() -> Iterable[Event]:
                 continue
 
             category, sub, tags = _tm_classify(r.get("classifications") or [])
+            if category == "DROP":
+                continue
             prng_list = r.get("priceRanges") or []
             price = _tm_price_bucket(prng_list[0] if prng_list else None)
 
