@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T13:18:10.603400-04:00",
+  "generated_at": "2026-05-23T08:09:14.659227-04:00",
   "events": [
     {
       "id": "e-79c61f6e7c",
@@ -742,490 +742,6 @@
       "description": "Deep-sea life rendered in immersive video and live specimens. Part of the museum's ongoing climate exhibition program."
     },
     {
-      "id": "e-989a9f03d1",
-      "title": "HHFM Harlem Hospital Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "manhattan",
-      "venue": "LENOX AVENUE between WEST  136 STREET and WEST  137 STREET",
-      "start": "2026-05-22T08:00:00.000-04:00",
-      "end": "2026-05-22T15:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Friday, May 22, 8:00 AM\u20133:00 PM at LENOX AVENUE between WEST  136 STREET and WEST  137 STREET."
-    },
-    {
-      "id": "e-40ed70ad5a",
-      "title": "97 Street Greenmarket Friday",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "uws",
-      "borough": "manhattan",
-      "venue": "WEST   97 STREET between COLUMBUS AVENUE and AMSTERDAM AVENUE",
-      "start": "2026-05-22T08:00:00.000-04:00",
-      "end": "2026-05-22T17:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Friday, May 22, 8:00 AM\u20135:00 PM at WEST   97 STREET between COLUMBUS AVENUE and AMSTERDAM AVENUE."
-    },
-    {
-      "id": "e-4b0160b266",
-      "title": "Old Cathedral Outdoor Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "westvillage",
-      "borough": "manhattan",
-      "venue": "PRINCE STREET between MULBERRY STREET and MOTT STREET",
-      "start": "2026-05-22T08:00:00.000-04:00",
-      "end": "2026-05-22T20:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Friday, May 22, 8:00 AM\u20138:00 PM at PRINCE STREET between MULBERRY STREET and MOTT STREET."
-    },
-    {
-      "id": "e-36ca89d7eb",
-      "title": "HHFM Metropolitan Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "manhattan",
-      "venue": "SECOND AVENUE between EAST   97 STREET and EAST   99 STREET",
-      "start": "2026-05-22T08:00:00.000-04:00",
-      "end": "2026-05-22T15:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Friday, May 22, 8:00 AM\u20133:00 PM at SECOND AVENUE between EAST   97 STREET and EAST   99 STREET."
-    },
-    {
-      "id": "e-6ebd408594",
-      "title": "HHFM Jacobi Hospital Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "PELHAM PARKWAY SOUTH between WILSON AVENUE and EASTCHESTER ROAD",
-      "start": "2026-05-22T08:00:00.000-04:00",
-      "end": "2026-05-22T15:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Friday, May 22, 8:00 AM\u20133:00 PM at PELHAM PARKWAY SOUTH between WILSON AVENUE and EASTCHESTER ROAD."
-    },
-    {
-      "id": "e-20830d4ae1",
-      "title": "Mt. Hope Pl PS 28 Open Street Event",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "MOUNT HOPE PLACE OPEN STREET: MOUNT HOPE PLACE OPEN STREET",
-      "start": "2026-05-22T09:00:00.000-04:00",
-      "end": "2026-05-22T15:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A street event hosted by Street Activity Permit Office. Takes place Friday, May 22, 9:00 AM\u20133:00 PM at MOUNT HOPE PLACE OPEN STREET: MOUNT HOPE PLACE OPEN STREET."
-    },
-    {
-      "id": "e-32f496b013",
-      "title": "Music Performances and Fitness Classes and Circus Arts",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET",
-      "start": "2026-05-22T09:00:00.000-04:00",
-      "end": "2026-05-22T20:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Friday, May 22, 9:00 AM\u20138:00 PM at Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET."
-    },
-    {
-      "id": "e-25239ac2bf",
-      "title": "St. Anthony Flea Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "westvillage",
-      "borough": "manhattan",
-      "venue": "WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET",
-      "start": "2026-05-22T09:00:00.000-04:00",
-      "end": "2026-05-22T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Friday, May 22, 9:00 AM\u20137:00 PM at WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET."
-    },
-    {
-      "id": "e-7d7403fec2",
-      "title": "Live Music and Dance Performances and Circus Arts",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street",
-      "start": "2026-05-22T09:00:00.000-04:00",
-      "end": "2026-05-22T20:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Friday, May 22, 9:00 AM\u20138:00 PM at Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street."
-    },
-    {
-      "id": "e-a285398865",
-      "title": "Columbus Circle Food Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Central Park: Merchants' Gate",
-      "start": "2026-05-22T09:30:00.000-04:00",
-      "end": "2026-05-22T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Friday, May 22, 9:30 AM\u20139:00 PM at Central Park: Merchants' Gate."
-    },
-    {
-      "id": "e-3919d00c12",
-      "title": "CHIPS Distribution",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "Kensington Plaza: Kensington Plaza CHURCH AVENUE between BEVERLY ROAD and MCDONALD AVENUE",
-      "start": "2026-05-22T10:00:00.000-04:00",
-      "end": "2026-05-22T13:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Friday, May 22, 10:00 AM\u20131:00 PM at Kensington Plaza: Kensington Plaza CHURCH AVENUE between BEVERLY ROAD and MCDONALD AVENUE."
-    },
-    {
-      "id": "e-319589c224",
-      "title": "DSW SHOEMERGENCY ACTIVATION AT SAPO UNTION SQUARE PARK",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "gramercy",
-      "borough": "manhattan",
-      "venue": "Union Square Plaza: 17/18 Broadway University Place between E 17 st and E 18th st,  EAST   18 STREET between BROADWAY and PARK AVENUE SOUTH",
-      "start": "2026-05-22T10:00:00.000-04:00",
-      "end": "2026-05-22T16:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Friday, May 22, 10:00 AM\u20134:00 PM at Union Square Plaza: 17/18 Broadway University Place between E 17 st and E 18th st,  EAST   18 STREET between BROADWAY and PARK AVENUE SOUTH."
-    },
-    {
-      "id": "e-a2634e5455",
-      "title": "The Dalton School Spring Fair",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "ues",
-      "borough": "manhattan",
-      "venue": "EAST   91 STREET between MADISON AVENUE and PARK AVENUE",
-      "start": "2026-05-22T11:30:00.000-04:00",
-      "end": "2026-05-22T14:30:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A street event hosted by Street Activity Permit Office. Takes place Friday, May 22, 11:30 AM\u20132:30 PM at EAST   91 STREET between MADISON AVENUE and PARK AVENUE."
-    },
-    {
-      "id": "e-f080ff2d05",
-      "title": "TSQ LIVE: 45/46 Plaza Programming",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "chelsea",
-      "borough": "manhattan",
-      "venue": "Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE",
-      "start": "2026-05-22T12:00:00.000-04:00",
-      "end": "2026-05-22T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Friday, May 22, 12:00 PM\u20139:00 PM at Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE."
-    },
-    {
-      "id": "e-ac607e60e2",
-      "title": "International Day of Biodiversity Bilingual Walk",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "lic",
-      "borough": "outer",
-      "venue": "Forest Park: Strack Pond",
-      "start": "2026-05-22T16:00:00.000-04:00",
-      "end": "2026-05-22T17:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Friday, May 22, 4:00 PM\u20135:00 PM at Forest Park: Strack Pond."
-    },
-    {
-      "id": "e-fa7549a3f7",
-      "title": "Shakespeare Performance  -  Julius Caesar",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "parkslope",
-      "borough": "outer",
-      "venue": "Carroll Park: Park House Plaza",
-      "start": "2026-05-22T17:00:00.000-04:00",
-      "end": "2026-05-22T22:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Friday, May 22, 5:00 PM\u201310:00 PM at Carroll Park: Park House Plaza."
-    },
-    {
-      "id": "e-7f4aef46e7",
-      "title": "AAPI Heritage Night",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "lic",
-      "borough": "outer",
-      "venue": "Lowery Plaza: Lowery Plaza 40 Street between Queens Blvd East and Queens Blvd West",
-      "start": "2026-05-22T17:45:00.000-04:00",
-      "end": "2026-05-22T19:30:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Friday, May 22, 5:45 PM\u20137:30 PM at Lowery Plaza: Lowery Plaza 40 Street between Queens Blvd East and Queens Blvd West."
-    },
-    {
-      "id": "e-7b5969b96e",
-      "title": "2026 Knicks Run Club Event: - May 22, 2026",
-      "category": "outabout",
-      "subcategory": "festival",
-      "tags": [
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Randall's Island Park: Flagpole Plaza and Lawns",
-      "start": "2026-05-22T18:00:00.000-04:00",
-      "end": "2026-05-22T22:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Friday, May 22, 6:00 PM\u201310:00 PM at Randall's Island Park: Flagpole Plaza and Lawns."
-    },
-    {
-      "id": "e-9c65f20930",
-      "title": "4th Annual West Harlem Summer Jazz Fest",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "St. Nicholas Park: West 135th Street James Baldwin Lawn   ,St. Nicholas Park: West 135th Street Plaza",
-      "start": "2026-05-22T18:00:00.000-04:00",
-      "end": "2026-05-22T19:30:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Friday, May 22, 6:00 PM\u20137:30 PM at St. Nicholas Park: West 135th Street James Baldwin Lawn   ,St. Nicholas Park: West 135th Street Plaza."
-    },
-    {
-      "id": "e-2af453d184",
-      "title": "Feast of St. Rita",
-      "category": "outabout",
-      "subcategory": "parades",
-      "tags": [
-        "free",
-        "outdoor",
-        "parade"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE,  WESTWOOD AVENUE between WELLBROOK AVENUE and GRAVES STREET,  BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE,  BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE",
-      "start": "2026-05-22T19:30:00.000-04:00",
-      "end": "2026-05-22T21:30:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A parade hosted by Police Department. Takes place Friday, May 22, 7:30 PM\u20139:30 PM at BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE,  WESTWOOD AVENUE between WELLBROOK AVENUE and GRAVES STREET,  BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE,  BRADLEY AVENUE between HOLDEN BOULEVARD and WESTWOOD AVENUE."
-    },
-    {
       "id": "e-634540bca9",
       "title": "Down to Earth Chelsea Farmers Market",
       "category": "outabout",
@@ -1866,30 +1382,6 @@
       "description": "A parade hosted by Police Department. Takes place Saturday, May 23, 11:30 AM\u20133:00 PM at OUTERBRIDGE CROSSING between SOUTH BRIDGE STREET and WEST SHORE EXPRESSWAY, Verrazano-Narrows Bridge : Verrazano-Narrows Bridge  , WEST SHORE EXPRESSWAY between OUTERBRIDGE CROSSING and STATEN IS EXPRESSWAY EB ET    8,  STATEN ISLAND EXPWY between WEST SHORE EXPWY and VERRAZZANO NARROWS BRIDGE,  GOWANUS EXPRESSWAY between VERRAZANO BRIDGE and BQE, Brooklyn Bridge: Brooklyn Bridge Westbound Rd 1  between Park Row (S) and BQE EB, Exit 28B,  BQE between GOWANUS EXPWY and BROOKLYN BRIDGE,  FDR between BROOKLYN BRIDGE and EAST   42 STREET,  EAST   42 STREET between 1 AVENUE and MADISON AVENUE,  MADISON AVENUE between EAST   42 STREET and EAST   51 STREET,  EAST   51 STREET between MADISON AVENUE and 5 AVENUE,  EAST   50 STREET between 5 AVENUE and MADISON AVENUE,  EAST   50 STREET between 5 AVENUE and MADISON AVENUE,  MADISON AVENUE between EAST   50 STREET and EAST   51 STREET,  EAST   51 STREET between MADISON AVENUE and 5 AVENUE,  EAST   51 STREET between MADISON AVENUE and 5 AVENUE."
     },
     {
-      "id": "e-b0075986f3",
-      "title": "La Nueva Yo - Dominicans Mothers Day Celebration",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Quisqueya Plaza: Quisqueya Plaza Dyckman Street between Broadway and Seaman Avenue",
-      "start": "2026-05-23T12:00:00.000-04:00",
-      "end": "2026-05-23T18:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Saturday, May 23, 12:00 PM\u20136:00 PM at Quisqueya Plaza: Quisqueya Plaza Dyckman Street between Broadway and Seaman Avenue."
-    },
-    {
       "id": "e-5be0a7d385",
       "title": "Vanderbilt Open Street May 2026",
       "category": "outabout",
@@ -2152,6 +1644,29 @@
         }
       ],
       "description": "A farmers market hosted by Street Activity Permit Office. Takes place Sunday, May 24, 6:00 AM\u20136:00 PM at 4 STREET between 5 AVENUE and DEAD END."
+    },
+    {
+      "id": "e-5d2d0bbb85",
+      "title": "NYRR Open Run at Marine Park",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Marine Park: Oval Walking/Running Path (Outer)",
+      "start": "2026-05-24T08:00:00.000-04:00",
+      "end": "2026-05-24T11:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, May 24, 8:00 AM\u201311:00 AM at Marine Park: Oval Walking/Running Path (Outer)."
     },
     {
       "id": "e-25292e1fad",
@@ -2635,6 +2150,30 @@
         }
       ],
       "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Sunday, May 24, 12:00 PM\u20138:00 PM at 41 AVENUE OPEN STREET: 41 AVENUE OPEN STREET."
+    },
+    {
+      "id": "e-2d443b44f3",
+      "title": "New York City Revival 2026",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   42 STREET and WEST   43 STREET",
+      "start": "2026-05-24T13:00:00.000-04:00",
+      "end": "2026-05-24T21:15:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Sunday, May 24, 1:00 PM\u20139:15 PM at Times Square: 42/43 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   42 STREET and WEST   43 STREET."
     },
     {
       "id": "e-6f107401b3",
@@ -3662,507 +3201,291 @@
       "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Tuesday, May 26, 12:00 PM\u20139:00 PM at Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE."
     },
     {
-      "id": "e-c09c3b0a34",
-      "title": "Birdland Big Band",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-1924a5b21e",
+      "title": "Annaul Chand Raat bazaar",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "g-jazz"
+        "festival"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "CONEY ISLAND AVENUE between GLENWOOD ROAD and AVENUE H",
+      "start": "2026-05-26T15:00:00.000-04:00",
+      "end": "2026-05-26T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A single block festival hosted by Street Activity Permit Office. Takes place Tuesday, May 26, 3:00 PM\u20136:00 PM at CONEY ISLAND AVENUE between GLENWOOD ROAD and AVENUE H."
+    },
+    {
+      "id": "e-a5020663fb",
+      "title": "Crafting  Tuesdays at Alley Athletic: Workshop Series with Queens College",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Alley Athletic Playground: Alley Athletic Playground Parking Lot",
+      "start": "2026-05-26T17:00:00.000-04:00",
+      "end": "2026-05-26T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Tuesday, May 26, 5:00 PM\u20138:00 PM at Alley Athletic Playground: Alley Athletic Playground Parking Lot."
+    },
+    {
+      "id": "e-640d3ab662",
+      "title": "Eid Festival",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "NEWKIRK AVENUE between RUGBY ROAD and MARLBOROUGH ROAD",
+      "start": "2026-05-27T07:00:00.000-04:00",
+      "end": "2026-05-27T13:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Wednesday, May 27, 7:00 AM\u20131:00 PM at NEWKIRK AVENUE between RUGBY ROAD and MARLBOROUGH ROAD."
+    },
+    {
+      "id": "e-cac1d1e603",
+      "title": "HHFM North Central Bronx Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Birdland Jazz Club",
-      "start": "2026-05-22T21:30:00Z",
-      "end": "2026-05-23T00:30:00+00:00",
-      "price": "$",
+      "venue": "Mosholu Parkway: Mosholu Parkway-Kossuth Playground Event Area",
+      "start": "2026-05-27T07:00:00.000-04:00",
+      "end": "2026-05-27T16:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/birdland-big-band-birdland-jazz-club-tickets/14074704"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland Jazz Club on Friday, May 22 at 5:30 PM. Tickets via Ticketmaster, from $0\u2013$0."
+      "description": "A special event hosted by Parks Department. Takes place Wednesday, May 27, 7:00 AM\u20134:00 PM at Mosholu Parkway: Mosholu Parkway-Kossuth Playground Event Area."
     },
     {
-      "id": "e-45d1515c02",
-      "title": "Bleachers",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-9a232734eb",
+      "title": "HHFM Hunts Point Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Rough Trade Below",
-      "start": "2026-05-22T22:00:00Z",
-      "end": "2026-05-23T01:00:00+00:00",
-      "price": "$$",
+      "venue": "Monsignor Raul Del Valle Square: Whole Park",
+      "start": "2026-05-27T07:00:00.000-04:00",
+      "end": "2026-05-27T16:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70p13"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Rough Trade Below on Friday, May 22 at 6:00 PM. Tickets via Ticketmaster."
+      "description": "A special event hosted by Parks Department. Takes place Wednesday, May 27, 7:00 AM\u20134:00 PM at Monsignor Raul Del Valle Square: Whole Park."
     },
     {
-      "id": "e-efe593d630",
-      "title": "Belle & Sebastian",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-e17d389755",
+      "title": "HHFM Hunts Point Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "fidi",
-      "borough": "manhattan",
-      "venue": "The Rooftop at Pier 17",
-      "start": "2026-05-22T23:00:00Z",
-      "end": "2026-05-23T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.axs.com/nz/events/1091811/belle-sebastian-tickets"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZuf"
-        }
-      ],
-      "description": "Live show at The Rooftop at Pier 17 on Friday, May 22 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-1207702d17",
-      "title": "Mint Field, Iceblynk, Shearing",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
+        "free",
+        "outdoor",
+        "food"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Night Club 101",
-      "start": "2026-05-22T23:00:00Z",
-      "end": "2026-05-23T02:00:00+00:00",
-      "price": "$",
+      "venue": "EAST  163 STREET between BRUCKNER BOULEVARD and SOUTHERN BOULEVARD",
+      "start": "2026-05-27T08:00:00.000-04:00",
+      "end": "2026-05-27T15:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/mint-field-iceblynk-shearing-night-club-101-tickets/14171474"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Night Club 101 on Friday, May 22 at 7:00 PM. Tickets via Ticketmaster, from $25\u2013$25."
+      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Wednesday, May 27, 8:00 AM\u20133:00 PM at EAST  163 STREET between BRUCKNER BOULEVARD and SOUTHERN BOULEVARD."
     },
     {
-      "id": "e-92441aaa5a",
-      "title": "NAPALM DEATH CONCERT CRUISE",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-7c20cde247",
+      "title": "Music Performances and Fitness Classes and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "The Liberty Belle - Rocks Off Concert Cruise",
-      "start": "2026-05-22T23:00:00Z",
-      "end": "2026-05-23T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/napalm-death-concert-cruise-the-liberty-belle-tickets/14705123"
-        }
-      ],
-      "description": "Live show at The Liberty Belle - Rocks Off Concert Cruise on Friday, May 22 at 7:00 PM. Tickets via Ticketmaster, from $54\u2013$54."
-    },
-    {
-      "id": "e-0ef0a2492e",
-      "title": "Robin McKelle",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-05-22T23:00:00Z",
-      "end": "2026-05-23T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/robin-mckelle-birdland-theater-tickets/14745983"
-        }
-      ],
-      "description": "Live show at Birdland Theater on Friday, May 22 at 7:00 PM. Tickets via Ticketmaster, from $35\u2013$46."
-    },
-    {
-      "id": "e-ea65ef3f5c",
-      "title": "Sound On: Nathalie Joachim",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-classical"
-      ],
-      "neighborhood": "uws",
-      "borough": "manhattan",
-      "venue": "David Geffen Hall",
-      "start": "2026-05-22T23:30:00Z",
-      "end": "2026-05-23T02:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_dZ7"
-        }
-      ],
-      "description": "Live show at David Geffen Hall on Friday, May 22 at 7:30 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-05fb0f3bc1",
-      "title": "Buckethead",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Sony Hall",
-      "start": "2026-05-22T23:30:00Z",
-      "end": "2026-05-23T02:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/buckethead-sony-hall-tickets/14124034"
-        }
-      ],
-      "description": "Live show at Sony Hall on Friday, May 22 at 7:30 PM. Tickets via Ticketmaster, from $57\u2013$57."
-    },
-    {
-      "id": "e-f34d1c46ac",
-      "title": "Harry Connick Jr",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownW",
       "borough": "manhattan",
-      "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
-      "start": "2026-05-23T00:00:00Z",
-      "end": "2026-05-23T03:00:00+00:00",
-      "price": "$$",
+      "venue": "Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET",
+      "start": "2026-05-27T08:00:00.000-04:00",
+      "end": "2026-05-27T21:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_YJd"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Stern Auditorium / Perelman Stage at Carnegie Hall on Friday, May 22 at 8:00 PM. Tickets via Ticketmaster."
+      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, May 27, 8:00 AM\u20139:00 PM at Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET."
     },
     {
-      "id": "e-7302af8ad4",
-      "title": "Frankie Cosmos: 10 Years of Next Thing",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-5eabfe0aef",
+      "title": "Live Music and Dance Performances and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "les",
+      "neighborhood": "midtownW",
       "borough": "manhattan",
-      "venue": "Bowery Ballroom",
-      "start": "2026-05-23T00:00:00Z",
-      "end": "2026-05-23T03:00:00+00:00",
-      "price": "$$",
+      "venue": "Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street",
+      "start": "2026-05-27T08:00:00.000-04:00",
+      "end": "2026-05-27T21:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/frankie-cosmos-10-years-of-next-new-york-new-york-05-22-2026/event/00006442FAE6CAB9"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Bowery Ballroom on Friday, May 22 at 8:00 PM. Tickets via Ticketmaster."
+      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, May 27, 8:00 AM\u20139:00 PM at Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street."
     },
     {
-      "id": "e-f0a0a430a4",
-      "title": "Kenny Garrett",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-8bc4a5e4e0",
+      "title": "Bro Sis Green Youth Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "westvillage",
-      "borough": "manhattan",
-      "venue": "Blue Note Jazz Club",
-      "start": "2026-05-23T00:00:00Z",
-      "end": "2026-05-23T03:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/kenny-garrett-blue-note-jazz-club-tickets/13979494"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/kenny-garrett-blue-note-jazz-club-tickets/13979444"
-        }
-      ],
-      "description": "Live show at Blue Note Jazz Club on Friday, May 22 at 10:30 PM. Tickets via Ticketmaster, from $38\u2013$55."
-    },
-    {
-      "id": "e-d35cda0fad",
-      "title": "Flight By Nothing | Prizilla | Echo Plum",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Berlin",
-      "start": "2026-05-23T00:00:00Z",
-      "end": "2026-05-23T03:00:00+00:00",
-      "price": "$",
+      "venue": "Johnny Hartman Square: Johnny Hartman Square",
+      "start": "2026-05-27T09:00:00.000-04:00",
+      "end": "2026-05-27T19:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/flight-by-nothing-prizilla-berlin-tickets/14852293"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Berlin on Friday, May 22 at 8:00 PM. Tickets via Ticketmaster, from $19\u2013$19."
+      "description": "A special event hosted by Parks Department. Takes place Wednesday, May 27, 9:00 AM\u20137:00 PM at Johnny Hartman Square: Johnny Hartman Square."
     },
     {
-      "id": "e-9787567458",
-      "title": "Matt Kelley & The Big Reveal | David Bays | Sam Behr",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-b947192342",
+      "title": "Immigrant Culture Month at Avenue C Plaza",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Bowery Palace",
-      "start": "2026-05-23T00:00:00Z",
-      "end": "2026-05-23T03:00:00+00:00",
-      "price": "$",
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE",
+      "start": "2026-05-27T09:00:00.000-04:00",
+      "end": "2026-05-27T23:30:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/matt-kelley-the-big-bowery-palace-tickets/14882733"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Bowery Palace on Friday, May 22 at 8:00 PM. Tickets via Ticketmaster, from $12\u2013$12."
+      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Wednesday, May 27, 9:00 AM\u201311:30 PM at Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE."
     },
     {
-      "id": "e-e9d1301ccf",
-      "title": "Bill Charlap Trio (10+ Event)",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-366e3921f2",
+      "title": "MIB Eid Health Fair",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "music"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "midtownE",
+      "neighborhood": "eastvillage",
       "borough": "manhattan",
-      "venue": "Birdland",
-      "start": "2026-05-23T00:30:00Z",
-      "end": "2026-05-23T03:30:00+00:00",
-      "price": "$$",
+      "venue": "WEST  113 STREET between ST NICHOLAS AVENUE and ADAM CLAYTON POWELL JR BOULEVARD",
+      "start": "2026-05-27T10:00:00.000-04:00",
+      "end": "2026-05-27T16:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OE7I"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OE7z"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland on Friday, May 22 at 10:30 PM. Tickets via Ticketmaster."
+      "description": "A health fair hosted by Street Activity Permit Office. Takes place Wednesday, May 27, 10:00 AM\u20134:00 PM at WEST  113 STREET between ST NICHOLAS AVENUE and ADAM CLAYTON POWELL JR BOULEVARD."
     },
     {
-      "id": "e-cb231f1c04",
-      "title": "Stan Society x Livies HQ: SOUR PROM (18+)",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-021c443410",
+      "title": "Dumbo After Hours Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "music"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "gramercy",
-      "borough": "manhattan",
-      "venue": "Irving Plaza Powered By Verizon 5G",
-      "start": "2026-05-23T00:30:00Z",
-      "end": "2026-05-23T03:30:00+00:00",
-      "price": "$$",
+      "neighborhood": "dumbo",
+      "borough": "outer",
+      "venue": "Pearl Street Plaza: Archway (Pearl Street Plaza) water street between Anchorage Pl and adams st",
+      "start": "2026-05-27T11:00:00.000-04:00",
+      "end": "2026-05-27T22:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/stan-society-x-livies-hq-sour-new-york-new-york-05-22-2026/event/000064A14911E83F"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Irving Plaza Powered By Verizon 5G on Friday, May 22 at 8:30 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-e2176c67c7",
-      "title": "Bill Charlap Trio",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Jazz Club",
-      "start": "2026-05-23T00:30:00Z",
-      "end": "2026-05-23T03:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/bill-charlap-trio-birdland-jazz-club-tickets/14098044"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/bill-charlap-trio-birdland-jazz-club-tickets/14098024"
-        }
-      ],
-      "description": "Live show at Birdland Jazz Club on Friday, May 22 at 10:30 PM. Tickets via Ticketmaster, from $46\u2013$56."
-    },
-    {
-      "id": "e-e7c69f2f2e",
-      "title": "Telescreens",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "les",
-      "borough": "manhattan",
-      "venue": "Mercury Lounge",
-      "start": "2026-05-23T01:00:00Z",
-      "end": "2026-05-23T04:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/telescreens-new-york-new-york-05-22-2026/event/000064AB9ECFAF61"
-        }
-      ],
-      "description": "Live show at Mercury Lounge on Friday, May 22 at 9:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-9f79a70dd4",
-      "title": "Monic",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "les",
-      "borough": "manhattan",
-      "venue": "Mercury Lounge",
-      "start": "2026-05-23T01:00:00Z",
-      "end": "2026-05-23T04:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/monic-new-york-new-york-05-22-2026/event/00006487CA0CEE60"
-        }
-      ],
-      "description": "Live show at Mercury Lounge on Friday, May 22 at 9:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-44bccc9778",
-      "title": "Hades66 - EL SEI66EIS USA TOUR",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-hiphop"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "HK Hall",
-      "start": "2026-05-23T01:00:00Z",
-      "end": "2026-05-23T04:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/hades66-el-sei66eis-usa-tour-new-york-new-york-05-22-2026/event/0000646DCCA91090"
-        }
-      ],
-      "description": "Live show at HK Hall on Friday, May 22 at 9:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-2bd1f4f6fd",
-      "title": "Robin McKelle",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-05-23T01:30:00Z",
-      "end": "2026-05-23T04:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/robin-mckelle-birdland-theater-tickets/14746033"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/robin-mckelle-birdland-theater-tickets/14746023"
-        }
-      ],
-      "description": "Live show at Birdland Theater on Saturday, May 23 at 7:00 PM. Tickets via Ticketmaster, from $35\u2013$46."
-    },
-    {
-      "id": "e-02c49b3f6d",
-      "title": "Lauren Auder, Richard Orofino",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Night Club 101",
-      "start": "2026-05-23T02:30:00Z",
-      "end": "2026-05-23T05:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/lauren-auder-richard-orofino-night-club-101-tickets/14834123"
-        }
-      ],
-      "description": "Live show at Night Club 101 on Friday, May 22 at 10:30 PM. Tickets via Ticketmaster, from $27\u2013$27."
+      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, May 27, 11:00 AM\u201310:00 PM at Pearl Street Plaza: Archway (Pearl Street Plaza) water street between Anchorage Pl and adams st."
     },
     {
       "id": "e-5fd19d853d",
@@ -4330,6 +3653,29 @@
       "description": "Live show at Sony Hall on Saturday, May 23 at 7:00 PM. Tickets via Ticketmaster, from $29\u2013$64."
     },
     {
+      "id": "e-2bd1f4f6fd",
+      "title": "Robin McKelle",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Theater",
+      "start": "2026-05-23T23:00:00Z",
+      "end": "2026-05-24T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/robin-mckelle-birdland-theater-tickets/14746023"
+        }
+      ],
+      "description": "Live show at Birdland Theater on Saturday, May 23 at 7:00 PM. Tickets via Ticketmaster, from $35\u2013$46."
+    },
+    {
       "id": "e-9b52d7ed74",
       "title": "Janowski Conducts Mendelssohns Scottish",
       "category": "stagesound",
@@ -4488,7 +3834,7 @@
       "venue": "Birdland Jazz Club",
       "start": "2026-05-24T00:30:00Z",
       "end": "2026-05-24T03:30:00+00:00",
-      "price": "$$",
+      "price": "$",
       "tentpole": false,
       "sources": [
         {
@@ -6623,6 +5969,428 @@
         }
       ],
       "description": "Live show at Madison Square Garden on Friday, May 29 at 7:30 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-20d84f92f8",
+      "title": "Sheku Kanneh Mason Plays Elgar",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-classical"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "David Geffen Hall",
+      "start": "2026-05-29T23:30:00Z",
+      "end": "2026-05-30T02:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_dZF"
+        }
+      ],
+      "description": "Live show at David Geffen Hall on Friday, May 29 at 7:30 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-902b3806dc",
+      "title": "Cooking Class, The Sheer Currents",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-05-29T23:30:00Z",
+      "end": "2026-05-30T02:30:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/cooking-class-the-sheer-currents-night-club-101-tickets/14917593"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Friday, May 29 at 7:30 PM. Tickets via Ticketmaster, from $24\u2013$24."
+    },
+    {
+      "id": "e-e517a54364",
+      "title": "An Evening With Lucinda Williams and Her Band",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "Beacon Theatre",
+      "start": "2026-05-30T00:00:00Z",
+      "end": "2026-05-30T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/an-evening-with-lucinda-williams-and-new-york-new-york-05-29-2026/event/3B00646DD28C5852"
+        }
+      ],
+      "description": "Live show at Beacon Theatre on Friday, May 29 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-f26fa8a995",
+      "title": "Philadelphia Orchestra",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+      "start": "2026-05-30T00:00:00Z",
+      "end": "2026-05-30T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_YJk"
+        }
+      ],
+      "description": "Live show at Stern Auditorium / Perelman Stage at Carnegie Hall on Friday, May 29 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-dccbe44976",
+      "title": "The Brokes: The Strokes Experience (Is This It 25th anniversary tour)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "les",
+      "borough": "manhattan",
+      "venue": "Bowery Ballroom",
+      "start": "2026-05-30T00:00:00Z",
+      "end": "2026-05-30T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-brokes-the-strokes-experience-is-new-york-new-york-05-29-2026/event/00006444B38B9CF4"
+        }
+      ],
+      "description": "Live show at Bowery Ballroom on Friday, May 29 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-f02d4da1b9",
+      "title": "The Vacants | The Orange Blossoms",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Berlin",
+      "start": "2026-05-30T00:00:00Z",
+      "end": "2026-05-30T03:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/the-vacants-the-orange-berlin-tickets/14868223"
+        }
+      ],
+      "description": "Live show at Berlin on Friday, May 29 at 8:00 PM. Tickets via Ticketmaster, from $12\u2013$12."
+    },
+    {
+      "id": "e-21c66a68a5",
+      "title": "Downing",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Bowery Palace",
+      "start": "2026-05-30T00:00:00Z",
+      "end": "2026-05-30T03:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/downing-bowery-palace-tickets/14874613"
+        }
+      ],
+      "description": "Live show at Bowery Palace on Friday, May 29 at 8:00 PM. Tickets via Ticketmaster, from $25\u2013$25."
+    },
+    {
+      "id": "e-5f96453075",
+      "title": "Stella Blue\u2019s Band (Grateful Dead tribute)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Hill Country Live",
+      "start": "2026-05-30T00:00:00Z",
+      "end": "2026-05-30T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/stella-blues-band-grateful-dead-hill-country-live-tickets/14812703"
+        }
+      ],
+      "description": "Live show at Hill Country Live on Friday, May 29 at 8:00 PM. Tickets via Ticketmaster, from $27\u2013$27."
+    },
+    {
+      "id": "e-80f65c1347",
+      "title": "The Terrace Martin Residency!",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-hiphop"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "Blue Note Jazz Club",
+      "start": "2026-05-30T00:00:00Z",
+      "end": "2026-05-30T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/the-terrace-martin-residency-blue-note-jazz-club-tickets/14186724"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/the-terrace-martin-residency-blue-note-jazz-club-tickets/14186744"
+        }
+      ],
+      "description": "Live show at Blue Note Jazz Club on Friday, May 29 at 10:30 PM. Tickets via Ticketmaster, from $55\u2013$66."
+    },
+    {
+      "id": "e-886a211ea7",
+      "title": "Back to the Garden 1969 - The Woodstock Experience",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-folk"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Sony Hall",
+      "start": "2026-05-30T00:00:00Z",
+      "end": "2026-05-30T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/back-to-the-garden-1969-sony-hall-tickets/14798743"
+        }
+      ],
+      "description": "Live show at Sony Hall on Friday, May 29 at 8:00 PM. Tickets via Ticketmaster, from $52\u2013$70."
+    },
+    {
+      "id": "e-1796af98c1",
+      "title": "Gil Evans Project directed by Ryan Truesdell",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Jazz Club",
+      "start": "2026-05-30T00:30:00Z",
+      "end": "2026-05-30T03:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/gil-evans-project-directed-by-birdland-jazz-club-tickets/14758033"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/gil-evans-project-directed-by-birdland-jazz-club-tickets/14757983"
+        }
+      ],
+      "description": "Live show at Birdland Jazz Club on Friday, May 29 at 10:30 PM. Tickets via Ticketmaster, from $46\u2013$56."
+    },
+    {
+      "id": "e-a770756fac",
+      "title": "Dillstradamus (16+ Event)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-electronic"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Terminal 5",
+      "start": "2026-05-30T01:00:00Z",
+      "end": "2026-05-30T04:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Zok"
+        }
+      ],
+      "description": "Live show at Terminal 5 on Friday, May 29 at 9:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-5d0e1f2345",
+      "title": "Emo Nite (18 and Over)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "manhattan",
+      "venue": "Webster Hall",
+      "start": "2026-05-30T01:00:00Z",
+      "end": "2026-05-30T04:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-g-_"
+        }
+      ],
+      "description": "Live show at Webster Hall on Friday, May 29 at 9:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-46d62fb4f5",
+      "title": "Next Level: KPop Rave",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "les",
+      "borough": "manhattan",
+      "venue": "Mercury Lounge",
+      "start": "2026-05-30T01:00:00Z",
+      "end": "2026-05-30T04:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/next-level-kpop-rave-new-york-new-york-05-29-2026/event/00006498CB6F6202"
+        }
+      ],
+      "description": "Live show at Mercury Lounge on Friday, May 29 at 9:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-ce74ed00e8",
+      "title": "Allison Miller's Boom Tic Boom",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Theater",
+      "start": "2026-05-30T01:30:00Z",
+      "end": "2026-05-30T04:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/allison-millers-boom-tic-boom-birdland-theater-tickets/14166234"
+        }
+      ],
+      "description": "Live show at Birdland Theater on Friday, May 29 at 9:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
+    },
+    {
+      "id": "e-cf98801ff5",
+      "title": "Tokyo Machine (16 and Over)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-electronic"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Racket NYC",
+      "start": "2026-05-30T02:00:00Z",
+      "end": "2026-05-30T05:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qobb"
+        }
+      ],
+      "description": "Live show at Racket NYC on Friday, May 29 at 10:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-90548bb0dc",
+      "title": "Callahan & Witscher, Sunburned Hand Of The Man, The Conformists, Pregnancy",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-05-30T02:30:00Z",
+      "end": "2026-05-30T05:30:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/callahan-witscher-sunburned-hand-night-club-101-tickets/14837023"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Friday, May 29 at 10:30 PM. Tickets via Ticketmaster, from $24\u2013$24."
+    },
+    {
+      "id": "e-f99ea77890",
+      "title": "John Violinist",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-hiphop"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "Blue Note Jazz Club",
+      "start": "2026-05-30T17:30:00Z",
+      "end": "2026-05-30T20:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/john-violinist-blue-note-jazz-club-tickets/14068424"
+        }
+      ],
+      "description": "Live show at Blue Note Jazz Club on Saturday, May 30 at 1:30 PM. Tickets via Ticketmaster, from $32\u2013$32."
     }
   ]
 }
