@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T09:07:20.722994-04:00",
+  "generated_at": "2026-06-30T07:45:03.342890-04:00",
   "events": [
     {
       "id": "e-79c61f6e7c",
@@ -740,222 +740,6 @@
         }
       ],
       "description": "Deep-sea life rendered in immersive video and live specimens. Part of the museum's ongoing climate exhibition program."
-    },
-    {
-      "id": "e-7d8a5af920",
-      "title": "Tienda de Pueblo",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "34 AVENUE between 77 STREET and 78 STREET",
-      "start": "2026-06-29T07:00:00.000-04:00",
-      "end": "2026-06-29T12:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Monday, Jun 29, 7:00 AM\u201312:00 PM at 34 AVENUE between 77 STREET and 78 STREET."
-    },
-    {
-      "id": "e-6ac8de3b65",
-      "title": "World Cup Activation",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse",
-      "start": "2026-06-29T08:00:00.000-04:00",
-      "end": "2026-06-29T20:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Monday, Jun 29, 8:00 AM\u20138:00 PM at Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse."
-    },
-    {
-      "id": "e-2e3eb2ce97",
-      "title": "Music Performances and Fitness Classes and Circus Arts",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET",
-      "start": "2026-06-29T08:00:00.000-04:00",
-      "end": "2026-06-29T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Monday, Jun 29, 8:00 AM\u20139:00 PM at Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET."
-    },
-    {
-      "id": "e-b74a033d7c",
-      "title": "Live Music and Dance Performances and Circus Arts",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street",
-      "start": "2026-06-29T08:00:00.000-04:00",
-      "end": "2026-06-29T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Monday, Jun 29, 8:00 AM\u20139:00 PM at Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street."
-    },
-    {
-      "id": "e-542362f537",
-      "title": "Immigrant Culture Month at Avenue C Plaza Extension - June",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE",
-      "start": "2026-06-29T09:00:00.000-04:00",
-      "end": "2026-06-29T18:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Monday, Jun 29, 9:00 AM\u20136:00 PM at Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE."
-    },
-    {
-      "id": "e-134f98ed91",
-      "title": "Block Party",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "29 AVENUE between FRANCIS LEWIS BOULEVARD and UTOPIA PARKWAY",
-      "start": "2026-06-29T13:00:00.000-04:00",
-      "end": "2026-06-29T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A block party hosted by Street Activity Permit Office. Takes place Monday, Jun 29, 1:00 PM\u20137:00 PM at 29 AVENUE between FRANCIS LEWIS BOULEVARD and UTOPIA PARKWAY."
-    },
-    {
-      "id": "e-5c8e34d9e9",
-      "title": "Chelsea Piers Fitness Series",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "dumbo",
-      "borough": "outer",
-      "venue": "Fort Greene Park: Monument Plaza",
-      "start": "2026-06-29T17:30:00.000-04:00",
-      "end": "2026-06-29T19:30:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Monday, Jun 29, 5:30 PM\u20137:30 PM at Fort Greene Park: Monument Plaza."
-    },
-    {
-      "id": "e-1e7e96bb14",
-      "title": "Yoga Series Weekdays",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "chelsea",
-      "borough": "manhattan",
-      "venue": "Bella Abzug Park : Block 2 (between 34th street & 35th street)",
-      "start": "2026-06-29T17:30:00.000-04:00",
-      "end": "2026-06-29T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Monday, Jun 29, 5:30 PM\u20137:00 PM at Bella Abzug Park : Block 2 (between 34th street & 35th street)."
-    },
-    {
-      "id": "e-7adbeb78b4",
-      "title": "4th Annual West Harlem Summer Jazz Fest",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Jackie Robinson Park: Bandshell",
-      "start": "2026-06-29T18:00:00.000-04:00",
-      "end": "2026-06-29T19:30:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Monday, Jun 29, 6:00 PM\u20137:30 PM at Jackie Robinson Park: Bandshell."
     },
     {
       "id": "e-bd1915dab8",
@@ -3547,246 +3331,227 @@
       "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Sunday, Jul 5, 8:00 AM\u20138:00 PM at Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse."
     },
     {
-      "id": "e-5b0a014936",
-      "title": "NoFun FestPass",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-5159670dc7",
+      "title": "Bronx Park East Farmers Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor",
+        "food"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Berlin",
-      "start": "2026-06-01T23:00:00Z",
-      "end": "2026-06-02T02:00:00+00:00",
-      "price": "$",
+      "venue": "Bronx Park: Brady Avenue Entrance",
+      "start": "2026-07-05T08:00:00.000-04:00",
+      "end": "2026-07-05T17:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/nofun-festpass-berlin-tickets/14940623"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Berlin on Monday, Jun 1 at 7:00 PM. Tickets via Ticketmaster, from $24\u2013$24."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Jul 5, 8:00 AM\u20135:00 PM at Bronx Park: Brady Avenue Entrance."
     },
     {
-      "id": "e-48280d3f79",
-      "title": "Vince Giordano and the Nighthawks",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-6e32d5a984",
+      "title": "Old Cathedral Outdoor Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-06-29T21:30:00Z",
-      "end": "2026-06-30T00:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14166994"
-        }
-      ],
-      "description": "Live show at Birdland Theater on Monday, Jun 29 at 5:30 PM. Tickets via Ticketmaster, from $25\u2013$46."
-    },
-    {
-      "id": "e-6f08d59787",
-      "title": "Suki Waterhouse Presents: Loveland Live at Mercury Lounge",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "les",
-      "borough": "manhattan",
-      "venue": "Mercury Lounge",
-      "start": "2026-06-29T23:00:00Z",
-      "end": "2026-06-30T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/suki-waterhouse-presents-loveland-live-at-new-york-new-york-06-29-2026/event/000064D0A099C83F"
-        }
-      ],
-      "description": "Live show at Mercury Lounge on Monday, Jun 29 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-018f142aaf",
-      "title": "An Evening with Ben Rector and the New York Philharmonic",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "uws",
-      "borough": "manhattan",
-      "venue": "David Geffen Hall",
-      "start": "2026-06-29T23:30:00Z",
-      "end": "2026-06-30T02:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pe40"
-        }
-      ],
-      "description": "Live show at David Geffen Hall on Monday, Jun 29 at 7:30 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-3dd50fb82a",
-      "title": "NoFun Fest Week 5",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Berlin",
-      "start": "2026-06-30T00:00:00Z",
-      "end": "2026-06-30T03:00:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/nofun-fest-week-5-berlin-tickets/14935063"
-        }
-      ],
-      "description": "Live show at Berlin on Monday, Jun 29 at 8:00 PM. Tickets via Ticketmaster, from $7\u2013$7."
-    },
-    {
-      "id": "e-0d1cb8616e",
-      "title": "LiveYou | Dressup | Moderate Rock | Von Stearns",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Bowery Palace",
-      "start": "2026-06-30T00:00:00Z",
-      "end": "2026-06-30T03:00:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/liveyou-dressup-moderate-bowery-palace-tickets/14979803"
-        }
-      ],
-      "description": "Live show at Bowery Palace on Monday, Jun 29 at 8:00 PM. Tickets via Ticketmaster, from $12\u2013$12."
-    },
-    {
-      "id": "e-28d2a29fff",
-      "title": "Ibrahim Maalouf",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Sony Hall",
-      "start": "2026-06-30T00:00:00Z",
-      "end": "2026-06-30T03:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/ibrahim-maalouf-sony-hall-tickets/14009244"
-        }
-      ],
-      "description": "Live show at Sony Hall on Monday, Jun 29 at 8:00 PM. Tickets via Ticketmaster, from $58\u2013$58."
-    },
-    {
-      "id": "e-5ab1f871b9",
-      "title": "Marcus Gilmore \u2014 Journey to the New",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "westvillage",
       "borough": "manhattan",
-      "venue": "Blue Note Jazz Club",
-      "start": "2026-06-30T00:00:00Z",
-      "end": "2026-06-30T03:00:00+00:00",
-      "price": "$$",
+      "venue": "PRINCE STREET between MULBERRY STREET and MOTT STREET",
+      "start": "2026-07-05T08:00:00.000-04:00",
+      "end": "2026-07-05T20:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/marcus-gilmore-journey-to-blue-note-jazz-club-tickets/14073654"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/marcus-gilmore-journey-to-blue-note-jazz-club-tickets/14073684"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Blue Note Jazz Club on Monday, Jun 29 at 10:30 PM. Tickets via Ticketmaster, from $38\u2013$55."
+      "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Sunday, Jul 5, 8:00 AM\u20138:00 PM at PRINCE STREET between MULBERRY STREET and MOTT STREET."
     },
     {
-      "id": "e-f3ebe79a26",
-      "title": "Vince Giordano and the Nighthawks",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-2eec51eb9c",
+      "title": "Carroll Gardens Greenmarket Sunday",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor",
+        "food"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-06-30T00:30:00Z",
-      "end": "2026-06-30T03:30:00+00:00",
-      "price": "$$",
+      "neighborhood": "parkslope",
+      "borough": "outer",
+      "venue": "CARROLL STREET between SMITH STREET and COURT STREET",
+      "start": "2026-07-05T08:00:00.000-04:00",
+      "end": "2026-07-05T17:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14167004"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14167024"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland Theater on Tuesday, Jun 30 at 5:30 PM. Tickets via Ticketmaster, from $25\u2013$46."
+      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Sunday, Jul 5, 8:00 AM\u20135:00 PM at CARROLL STREET between SMITH STREET and COURT STREET."
     },
     {
-      "id": "e-b092885ff3",
-      "title": "rocknite.ny",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-15f0d06781",
+      "title": "Cortelyou Greenmarket Sunday",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor",
+        "food"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Night Club 101",
-      "start": "2026-06-30T01:30:00Z",
-      "end": "2026-06-30T04:30:00+00:00",
-      "price": "$",
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "CORTELYOU ROAD between RUGBY ROAD and ARGYLE ROAD",
+      "start": "2026-07-05T08:00:00.000-04:00",
+      "end": "2026-07-05T17:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/rockniteny-night-club-101-tickets/14204064"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Night Club 101 on Monday, Jun 29 at 9:30 PM. Tickets via Ticketmaster, from $15\u2013$15."
+      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Sunday, Jul 5, 8:00 AM\u20135:00 PM at CORTELYOU ROAD between RUGBY ROAD and ARGYLE ROAD."
     },
     {
-      "id": "e-806d26203f",
-      "title": "Jim Caruso's Cast Party",
+      "id": "e-410c45a06f",
+      "title": "St. Anthony Flea Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET",
+      "start": "2026-07-05T09:00:00.000-04:00",
+      "end": "2026-07-05T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Sunday, Jul 5, 9:00 AM\u20137:00 PM at WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET."
+    },
+    {
+      "id": "e-6a641ac6d0",
+      "title": "RiseBoro Farmers Markets at Irving Square Park",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor",
+        "food"
+      ],
+      "neighborhood": "bushwick",
+      "borough": "outer",
+      "venue": "KNICKERBOCKER AVENUE between STARR STREET and SUYDAM STREET,  KNICKERBOCKER AVENUE between WEIRFIELD STREET and HALSEY STREET",
+      "start": "2026-07-05T09:00:00.000-04:00",
+      "end": "2026-07-05T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Sunday, Jul 5, 9:00 AM\u20133:00 PM at KNICKERBOCKER AVENUE between STARR STREET and SUYDAM STREET,  KNICKERBOCKER AVENUE between WEIRFIELD STREET and HALSEY STREET."
+    },
+    {
+      "id": "e-ac7f3e8ed5",
+      "title": "Congo Square Vendor's Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Prospect Park: Drummer's Grove Market Place",
+      "start": "2026-07-05T11:00:00.000-04:00",
+      "end": "2026-07-05T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Jul 5, 11:00 AM\u20138:00 PM at Prospect Park: Drummer's Grove Market Place."
+    },
+    {
+      "id": "e-809d5ddfbe",
+      "title": "Gleane Street Open Street",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "GLEANE STREET Open Street 2026: GLEANE STREET Open Street 2026",
+      "start": "2026-07-05T11:30:00.000-04:00",
+      "end": "2026-07-05T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Sunday, Jul 5, 11:30 AM\u20139:00 PM at GLEANE STREET Open Street 2026: GLEANE STREET Open Street 2026."
+    },
+    {
+      "id": "e-8004964f57",
+      "title": "Rockaway Beach House Music festival",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Beach 17 Playground (O'Donohue Park): Beach 17th Street Performance Space",
+      "start": "2026-07-05T16:00:00.000-04:00",
+      "end": "2026-07-05T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Jul 5, 4:00 PM\u20138:00 PM at Beach 17 Playground (O'Donohue Park): Beach 17th Street Performance Space."
+    },
+    {
+      "id": "e-7af874a399",
+      "title": "Staten Island Philharmonic Concert",
       "category": "stagesound",
       "subcategory": "concerts",
       "tags": [
@@ -3794,18 +3559,18 @@
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Birdland Jazz Club",
-      "start": "2026-06-30T01:30:00Z",
-      "end": "2026-06-30T04:30:00+00:00",
-      "price": "$$",
+      "venue": "Conference House Park: Conference House Park",
+      "start": "2026-07-05T16:00:00.000-04:00",
+      "end": "2026-07-05T18:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/jim-carusos-cast-party-birdland-jazz-club-tickets/14750413"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland Jazz Club on Monday, Jun 29 at 9:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Jul 5, 4:00 PM\u20136:00 PM at Conference House Park: Conference House Park."
     },
     {
       "id": "e-751e8925ed",
@@ -3829,6 +3594,29 @@
         }
       ],
       "description": "Live show at Rough Trade Below on Tuesday, Jun 30 at 5:30 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-f3ebe79a26",
+      "title": "Vince Giordano and the Nighthawks",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Theater",
+      "start": "2026-06-30T21:30:00Z",
+      "end": "2026-07-01T00:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14167024"
+        }
+      ],
+      "description": "Live show at Birdland Theater on Tuesday, Jun 30 at 5:30 PM. Tickets via Ticketmaster, from $25\u2013$46."
     },
     {
       "id": "e-aac35eb26c",
@@ -4697,8 +4485,8 @@
       "neighborhood": "midtownE",
       "borough": "manhattan",
       "venue": "Capital One City Parks Foundation SummerStage",
-      "start": "2026-07-03T21:30:00Z",
-      "end": "2026-07-04T00:30:00+00:00",
+      "start": "2026-07-03T21:00:00Z",
+      "end": "2026-07-04T00:00:00+00:00",
       "price": "$$",
       "tentpole": false,
       "sources": [
@@ -4707,7 +4495,7 @@
           "url": "https://www.ticketmaster.com/odd-mob-new-york-new-york-07-03-2026/event/00006436DE90D883"
         }
       ],
-      "description": "Live show at Capital One City Parks Foundation SummerStage on Friday, Jul 3 at 5:30 PM. Tickets via Ticketmaster."
+      "description": "Live show at Capital One City Parks Foundation SummerStage on Friday, Jul 3 at 5:00 PM. Tickets via Ticketmaster."
     },
     {
       "id": "e-98f8e46994",
@@ -5143,10 +4931,6 @@
         {
           "name": "Ticketmaster",
           "url": "https://www.ticketweb.com/event/mamma-mia-bottomless-brunch-at-ellens-stardust-theater-tickets/14910493"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/mamma-mia-bottomless-brunch-at-ellens-stardust-theater-tickets/14910503"
         }
       ],
       "description": "Live show at Ellen's Stardust Theater on Sunday, Jul 5 at 10:30 AM. Tickets via Ticketmaster, from $70\u2013$104."
@@ -6824,9 +6608,13 @@
         {
           "name": "Ticketmaster",
           "url": "https://www.ticketweb.com/event/pasquale-grasso-quartet-birdland-theater-tickets/14928023"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/pasquale-grasso-quartet-birdland-theater-tickets/14928013"
         }
       ],
-      "description": "Live show at Birdland Theater on Friday, Jul 10 at 9:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
+      "description": "Live show at Birdland Theater on Saturday, Jul 11 at 7:00 PM. Tickets via Ticketmaster, from $35\u2013$46."
     },
     {
       "id": "e-0bff73f3d2",
@@ -6873,6 +6661,144 @@
         }
       ],
       "description": "Live show at Night Club 101 on Friday, Jul 10 at 11:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
+      "id": "e-78ffd65710",
+      "title": "Danny Tobias Quartet",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Jazz Club",
+      "start": "2026-07-11T21:30:00Z",
+      "end": "2026-07-12T00:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/danny-tobias-quartet-birdland-jazz-club-tickets/14787673"
+        }
+      ],
+      "description": "Live show at Birdland Jazz Club on Saturday, Jul 11 at 5:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
+    },
+    {
+      "id": "e-9892a4dd07",
+      "title": "Father of Peace",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "les",
+      "borough": "manhattan",
+      "venue": "Mercury Lounge",
+      "start": "2026-07-11T22:00:00Z",
+      "end": "2026-07-12T01:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/father-of-peace-new-york-new-york-07-11-2026/event/000064A4AE980CF6"
+        }
+      ],
+      "description": "Live show at Mercury Lounge on Saturday, Jul 11 at 6:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-3f3f4f8ce2",
+      "title": "Anaka",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "gramercy",
+      "borough": "manhattan",
+      "venue": "Gramercy Theatre",
+      "start": "2026-07-11T22:00:00Z",
+      "end": "2026-07-12T01:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/anaka-new-york-new-york-07-11-2026/event/00006494D53BF49A"
+        }
+      ],
+      "description": "Live show at Gramercy Theatre on Saturday, Jul 11 at 6:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-4dface1c97",
+      "title": "The Strike",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "gramercy",
+      "borough": "manhattan",
+      "venue": "Irving Plaza Powered By Verizon 5G",
+      "start": "2026-07-11T23:00:00Z",
+      "end": "2026-07-12T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-strike-new-york-new-york-07-11-2026/event/0000646BC8CFE0C5"
+        }
+      ],
+      "description": "Live show at Irving Plaza Powered By Verizon 5G on Saturday, Jul 11 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-728bc0205f",
+      "title": "Finger Foods, Retail Drugs, Star's Revenge",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-07-11T23:00:00Z",
+      "end": "2026-07-12T02:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/finger-foods-retail-drugs-stars-night-club-101-tickets/14909313"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Saturday, Jul 11 at 7:00 PM. Tickets via Ticketmaster, from $20\u2013$20."
+    },
+    {
+      "id": "e-6a9f321e1a",
+      "title": "Lionel Richie and Earth, Wind & Fire - Sing a Song All Night Long",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Madison Square Garden",
+      "start": "2026-07-11T23:30:00Z",
+      "end": "2026-07-12T02:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire-new-york-new-york-07-11-2026/event/3B006431AC222FEC"
+        }
+      ],
+      "description": "Live show at Madison Square Garden on Saturday, Jul 11 at 7:30 PM. Tickets via Ticketmaster."
     }
   ]
 }
