@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T06:50:18.048889-04:00",
+  "generated_at": "2026-07-16T07:00:39.455619-04:00",
   "events": [
     {
       "id": "e-79c61f6e7c",
@@ -742,750 +742,6 @@
       "description": "Deep-sea life rendered in immersive video and live specimens. Part of the museum's ongoing climate exhibition program."
     },
     {
-      "id": "e-6273c46cc2",
-      "title": "GrowNYC @ Washington Market Park",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "fidi",
-      "borough": "manhattan",
-      "venue": "Washington Market Park: Washington Market Park",
-      "start": "2026-07-15T06:00:00.000-04:00",
-      "end": "2026-07-15T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 6:00 AM\u20137:00 PM at Washington Market Park: Washington Market Park."
-    },
-    {
-      "id": "e-0cd0046be9",
-      "title": "HHFM Hunts Point Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Monsignor Raul Del Valle Square: Whole Park",
-      "start": "2026-07-15T07:00:00.000-04:00",
-      "end": "2026-07-15T16:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 7:00 AM\u20134:00 PM at Monsignor Raul Del Valle Square: Whole Park."
-    },
-    {
-      "id": "e-49a976ab6c",
-      "title": "HHFM North Central Bronx Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Mosholu Parkway: Mosholu Parkway-Kossuth Playground Event Area",
-      "start": "2026-07-15T07:00:00.000-04:00",
-      "end": "2026-07-15T16:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 7:00 AM\u20134:00 PM at Mosholu Parkway: Mosholu Parkway-Kossuth Playground Event Area."
-    },
-    {
-      "id": "e-34db931ea5",
-      "title": "Live Music and Dance Performances and Circus Arts",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street",
-      "start": "2026-07-15T08:00:00.000-04:00",
-      "end": "2026-07-15T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 8:00 AM\u20139:00 PM at Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street."
-    },
-    {
-      "id": "e-fa7388de5e",
-      "title": "Music Performances and Fitness Classes and Circus Arts",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET",
-      "start": "2026-07-15T08:00:00.000-04:00",
-      "end": "2026-07-15T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 8:00 AM\u20139:00 PM at Herald Square Plaza: 35/36 Broadway  BROADWAY between WEST   35 STREET and WEST   36 STREET."
-    },
-    {
-      "id": "e-e863263c7b",
-      "title": "HHFM Kings County Hospital Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "CLARKSON AVENUE between EAST   37 STREET and EAST   38 STREET",
-      "start": "2026-07-15T08:00:00.000-04:00",
-      "end": "2026-07-15T15:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 8:00 AM\u20133:00 PM at CLARKSON AVENUE between EAST   37 STREET and EAST   38 STREET."
-    },
-    {
-      "id": "e-f8e6d24ad3",
-      "title": "Mount Sinai Greenmarket Wednesday",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "ues",
-      "borough": "manhattan",
-      "venue": "MADISON AVENUE between EAST   98 STREET and EAST   99 STREET",
-      "start": "2026-07-15T08:00:00.000-04:00",
-      "end": "2026-07-15T17:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 8:00 AM\u20135:00 PM at MADISON AVENUE between EAST   98 STREET and EAST   99 STREET."
-    },
-    {
-      "id": "e-15475d80b8",
-      "title": "World Cup Activation",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse",
-      "start": "2026-07-15T08:00:00.000-04:00",
-      "end": "2026-07-15T20:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 8:00 AM\u20138:00 PM at Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse."
-    },
-    {
-      "id": "e-85f2a62590",
-      "title": "HHFM Hunts Point Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "SOUTHERN BOULEVARD between BARRETTO STREET and TIFFANY STREET",
-      "start": "2026-07-15T08:00:00.000-04:00",
-      "end": "2026-07-15T15:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 8:00 AM\u20133:00 PM at SOUTHERN BOULEVARD between BARRETTO STREET and TIFFANY STREET."
-    },
-    {
-      "id": "e-66eeb94f56",
-      "title": "SummerStage Festival - July",
-      "category": "outabout",
-      "subcategory": "festival",
-      "tags": [
-        "festival"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Central Park: Rumsey Playfield   ,Central Park: Bandshell Plaza",
-      "start": "2026-07-15T08:00:00.000-04:00",
-      "end": "2026-07-15T23:59:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 8:00 AM\u201311:59 PM at Central Park: Rumsey Playfield   ,Central Park: Bandshell Plaza."
-    },
-    {
-      "id": "e-58a450b8ec",
-      "title": "Bro Sis Green Youth Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Johnny Hartman Square: Johnny Hartman Square",
-      "start": "2026-07-15T09:00:00.000-04:00",
-      "end": "2026-07-15T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 9:00 AM\u20137:00 PM at Johnny Hartman Square: Johnny Hartman Square."
-    },
-    {
-      "id": "e-c66fabc4d0",
-      "title": "Immigrant Culture Month at Avenue C Plaza Extension - July",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE",
-      "start": "2026-07-15T09:00:00.000-04:00",
-      "end": "2026-07-15T18:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 9:00 AM\u20136:00 PM at Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE."
-    },
-    {
-      "id": "e-3db9060b96",
-      "title": "WSP Food Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "westvillage",
-      "borough": "manhattan",
-      "venue": "Washington Square Park: Wash Sq West Sidewalks",
-      "start": "2026-07-15T09:00:00.000-04:00",
-      "end": "2026-07-15T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 9:00 AM\u20139:00 PM at Washington Square Park: Wash Sq West Sidewalks."
-    },
-    {
-      "id": "e-b4a23dbe4b",
-      "title": "NYP Youth Market - Broadway",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "BROADWAY between DYCKMAN STREET and CUMMING STREET",
-      "start": "2026-07-15T09:00:00.000-04:00",
-      "end": "2026-07-15T14:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 9:00 AM\u20132:00 PM at BROADWAY between DYCKMAN STREET and CUMMING STREET."
-    },
-    {
-      "id": "e-7d2beb57a3",
-      "title": "New Settlement Open Streets",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "ROCKWOOD STREET Open Street 2026: ROCKWOOD STREET Open Street 2026",
-      "start": "2026-07-15T11:00:00.000-04:00",
-      "end": "2026-07-15T17:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 11:00 AM\u20135:00 PM at ROCKWOOD STREET Open Street 2026: ROCKWOOD STREET Open Street 2026."
-    },
-    {
-      "id": "e-eaabc07a31",
-      "title": "Free Summer Concert Series",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "uws",
-      "borough": "manhattan",
-      "venue": "Dante Park: Dante Park",
-      "start": "2026-07-15T11:00:00.000-04:00",
-      "end": "2026-07-15T15:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 11:00 AM\u20133:00 PM at Dante Park: Dante Park."
-    },
-    {
-      "id": "e-b323683869",
-      "title": "PERSHING SQUARE SUMMER SOUNDS CONCERT SERIES 2026",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Pershing Square Plaza: West Park ave between E 42nd street and E 41st street",
-      "start": "2026-07-15T11:30:00.000-04:00",
-      "end": "2026-07-15T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 11:30 AM\u20137:00 PM at Pershing Square Plaza: West Park ave between E 42nd street and E 41st street."
-    },
-    {
-      "id": "e-1096b9ed37",
-      "title": "CUIMC Employee appreciation Ice Cream Social",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Haven Plaza: Haven Plaza Haven Ave between W 169th street and Fort Washington Ave",
-      "start": "2026-07-15T11:30:00.000-04:00",
-      "end": "2026-07-15T14:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 11:30 AM\u20132:00 PM at Haven Plaza: Haven Plaza Haven Ave between W 169th street and Fort Washington Ave."
-    },
-    {
-      "id": "e-bc5a933115",
-      "title": "TSQ LIVE: 45/46 Plaza Programming",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "chelsea",
-      "borough": "manhattan",
-      "venue": "Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE",
-      "start": "2026-07-15T12:00:00.000-04:00",
-      "end": "2026-07-15T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 12:00 PM\u20139:00 PM at Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE."
-    },
-    {
-      "id": "e-f5b1142b18",
-      "title": "Open Street Recess for NYCPS Summer Rising Students",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "EAST  179 STREET between MAPES AVENUE and PROSPECT AVENUE",
-      "start": "2026-07-15T12:00:00.000-04:00",
-      "end": "2026-07-15T16:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A street event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 12:00 PM\u20134:00 PM at EAST  179 STREET between MAPES AVENUE and PROSPECT AVENUE."
-    },
-    {
-      "id": "e-d6f016afeb",
-      "title": "East 125th Street Farmstand",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "ues",
-      "borough": "manhattan",
-      "venue": "EAST  125 STREET between PARK AVENUE and LEXINGTON AVENUE",
-      "start": "2026-07-15T12:00:00.000-04:00",
-      "end": "2026-07-15T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 12:00 PM\u20137:00 PM at EAST  125 STREET between PARK AVENUE and LEXINGTON AVENUE."
-    },
-    {
-      "id": "e-58f852eb62",
-      "title": "FIFA26 NYC DOT World Cup Watch Party - Corona Plaza",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "Corona Plaza: Corona Plaza Roosevelt Avenue between National Street and 104 Street",
-      "start": "2026-07-15T13:30:00.000-04:00",
-      "end": "2026-07-15T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 1:30 PM\u20137:00 PM at Corona Plaza: Corona Plaza Roosevelt Avenue between National Street and 104 Street."
-    },
-    {
-      "id": "e-8ce80608ec",
-      "title": "FIFA26 NYC DOT World Cup Watch Party",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "Duane Joseph-Parkside Plaza: Duane Joseph-Parkside Plaza PARKSIDE AVENUE between OCEAN AVENUE and PARKSIDE COURT,  PARKSIDE AVENUE between OCEAN AVENUE and PARKSIDE COURT",
-      "start": "2026-07-15T14:00:00.000-04:00",
-      "end": "2026-07-15T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 2:00 PM\u20137:00 PM at Duane Joseph-Parkside Plaza: Duane Joseph-Parkside Plaza PARKSIDE AVENUE between OCEAN AVENUE and PARKSIDE COURT,  PARKSIDE AVENUE between OCEAN AVENUE and PARKSIDE COURT."
-    },
-    {
-      "id": "e-b09bfb415e",
-      "title": "World Cup Watch Party",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse",
-      "start": "2026-07-15T14:00:00.000-04:00",
-      "end": "2026-07-15T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Jul 15, 2:00 PM\u20137:00 PM at Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse."
-    },
-    {
-      "id": "e-d3ff492d98",
-      "title": "VC Nature Walk",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Van Cortlandt Park: Friends' Compost Site",
-      "start": "2026-07-15T14:00:00.000-04:00",
-      "end": "2026-07-15T15:30:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 2:00 PM\u20133:30 PM at Van Cortlandt Park: Friends' Compost Site."
-    },
-    {
-      "id": "e-50fe21f897",
-      "title": "Worth Square Food Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Worth Square: Triangle",
-      "start": "2026-07-15T15:01:00.000-04:00",
-      "end": "2026-07-15T15:02:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 3:01 PM\u20133:02 PM at Worth Square: Triangle."
-    },
-    {
-      "id": "e-2cb7ff94c3",
-      "title": "New Wave Pier Food Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "gramercy",
-      "borough": "manhattan",
-      "venue": "East River Esplanade 36th-38th: 36th-38th St",
-      "start": "2026-07-15T15:06:00.000-04:00",
-      "end": "2026-07-15T15:06:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 3:06 PM\u20133:06 PM at East River Esplanade 36th-38th: 36th-38th St."
-    },
-    {
-      "id": "e-43caa3d96e",
-      "title": "NYC Great Tree 5K Run: Bronx Edition",
-      "category": "outabout",
-      "subcategory": "festival",
-      "tags": [
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Van Cortlandt Park: Cross Country Parade Ground East Side 2",
-      "start": "2026-07-15T16:00:00.000-04:00",
-      "end": "2026-07-15T18:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 4:00 PM\u20136:00 PM at Van Cortlandt Park: Cross Country Parade Ground East Side 2."
-    },
-    {
-      "id": "e-ea1d9a7d22",
-      "title": "Summer Concert Series",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "williamsburg",
-      "borough": "outer",
-      "venue": "Marine Park: Field House North Lawn",
-      "start": "2026-07-15T17:00:00.000-04:00",
-      "end": "2026-07-15T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 5:00 PM\u20139:00 PM at Marine Park: Field House North Lawn."
-    },
-    {
-      "id": "e-40c2af443f",
-      "title": "PPTC Al Goldstein Speed Series 5K: May 20, June 3, June 17, July 1, July 15, July 29, Aug 12, Aug 26",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "williamsburg",
-      "borough": "outer",
-      "venue": "Prospect Park: CONCERT GROVE PAVILION   ,Prospect Park: Park Drive - WHOLE DRIVE   ,Prospect Park: Harry's Wall",
-      "start": "2026-07-15T17:00:00.000-04:00",
-      "end": "2026-07-15T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 5:00 PM\u20139:00 PM at Prospect Park: CONCERT GROVE PAVILION   ,Prospect Park: Park Drive - WHOLE DRIVE   ,Prospect Park: Harry's Wall."
-    },
-    {
-      "id": "e-ef988ea5dc",
-      "title": "Yoga Series Weekdays",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "chelsea",
-      "borough": "manhattan",
-      "venue": "Bella Abzug Park : Block 2 (between 34th street & 35th street)",
-      "start": "2026-07-15T17:30:00.000-04:00",
-      "end": "2026-07-15T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Jul 15, 5:30 PM\u20137:00 PM at Bella Abzug Park : Block 2 (between 34th street & 35th street)."
-    },
-    {
       "id": "e-8a201c34b4",
       "title": "Green Market",
       "category": "outabout",
@@ -1995,6 +1251,29 @@
       "description": "A special event hosted by Parks Department. Takes place Thursday, Jul 16, 9:30 AM\u20139:00 PM at Central Park: Merchants' Gate."
     },
     {
+      "id": "e-dd1198ce16",
+      "title": "FULTON MALL / METRO TECH SUMMER FAIR",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "dumbo",
+      "borough": "outer",
+      "venue": "LAWRENCE STREET between FULTON STREET and WILLOUGHBY STREET",
+      "start": "2026-07-16T10:00:00.000-04:00",
+      "end": "2026-07-16T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A single block festival hosted by Street Activity Permit Office. Takes place Thursday, Jul 16, 10:00 AM\u20136:00 PM at LAWRENCE STREET between FULTON STREET and WILLOUGHBY STREET."
+    },
+    {
       "id": "e-a53b685006",
       "title": "PERSHING SQUARE SUMMER SOUNDS CONCERT SERIES 2026",
       "category": "stagesound",
@@ -2040,6 +1319,30 @@
         }
       ],
       "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Thursday, Jul 16, 12:00 PM\u20139:00 PM at Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE."
+    },
+    {
+      "id": "e-04124bc01d",
+      "title": "Bronx Defenders Community Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "EAST  160 STREET between COURTLANDT AVENUE and MELROSE AVENUE",
+      "start": "2026-07-16T12:00:00.000-04:00",
+      "end": "2026-07-16T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Thursday, Jul 16, 12:00 PM\u20134:00 PM at EAST  160 STREET between COURTLANDT AVENUE and MELROSE AVENUE."
     },
     {
       "id": "e-1f0d3866e0",
@@ -2231,6 +1534,29 @@
         }
       ],
       "description": "A special event hosted by Parks Department. Takes place Thursday, Jul 16, 6:00 PM\u20138:00 PM at Forest Park: Forest Park Drive (Race)."
+    },
+    {
+      "id": "e-9e728d7244",
+      "title": "Summer Concert Series",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Forest Park: Bandshell and Seating",
+      "start": "2026-07-16T19:30:00.000-04:00",
+      "end": "2026-07-16T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Thursday, Jul 16, 7:30 PM\u20139:00 PM at Forest Park: Bandshell and Seating."
     },
     {
       "id": "e-a5e458cdde",
@@ -2839,6 +2165,29 @@
       "description": "A special event hosted by Parks Department. Takes place Friday, Jul 17, 3:06 PM\u20133:06 PM at East River Esplanade 36th-38th: 36th-38th St."
     },
     {
+      "id": "e-11459e6142",
+      "title": "Uptown Night Market",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "manhattan",
+      "venue": "12 AVENUE between WEST  133 STREET and WEST  135 STREET",
+      "start": "2026-07-17T16:00:00.000-04:00",
+      "end": "2026-07-17T22:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A single block festival hosted by Street Activity Permit Office. Takes place Friday, Jul 17, 4:00 PM\u201310:00 PM at 12 AVENUE between WEST  133 STREET and WEST  135 STREET."
+    },
+    {
       "id": "e-176850f485",
       "title": "GTC Festival Part 2",
       "category": "outabout",
@@ -3151,6 +2500,31 @@
       "description": "A special event hosted by Parks Department. Takes place Saturday, Jul 18, 8:00 AM\u201311:00 AM at Highland Park: Reservoir Path."
     },
     {
+      "id": "e-e5b12bb6f6",
+      "title": "4th Avenue Sunset Park Greenmarket Saturday",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor",
+        "food"
+      ],
+      "neighborhood": "redhook",
+      "borough": "outer",
+      "venue": "60 STREET between 3 AVENUE and 4 AVENUE",
+      "start": "2026-07-18T08:00:00.000-04:00",
+      "end": "2026-07-18T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 8:00 AM\u20135:00 PM at 60 STREET between 3 AVENUE and 4 AVENUE."
+    },
+    {
       "id": "e-7fac8a2434",
       "title": "Uptown Good Food Farmers Market",
       "category": "outabout",
@@ -3223,31 +2597,6 @@
         }
       ],
       "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 8:00 AM\u20138:00 PM at BLEECKER STREET between LEROY STREET and CARMINE STREET."
-    },
-    {
-      "id": "e-e5b12bb6f6",
-      "title": "4th Avenue Sunset Park Greenmarket Saturday",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "redhook",
-      "borough": "outer",
-      "venue": "60 STREET between 3 AVENUE and 4 AVENUE",
-      "start": "2026-07-18T08:00:00.000-04:00",
-      "end": "2026-07-18T17:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 8:00 AM\u20135:00 PM at 60 STREET between 3 AVENUE and 4 AVENUE."
     },
     {
       "id": "e-45f0e9454a",
@@ -3369,6 +2718,29 @@
       "description": "A farmers market hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 8:00 AM\u20133:00 PM at LENOX AVENUE between WEST  117 STREET and WEST  118 STREET."
     },
     {
+      "id": "e-0e7513d728",
+      "title": "SummerStage Festival - July",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Central Park: Rumsey Playfield   ,Central Park: Bandshell Plaza",
+      "start": "2026-07-18T08:00:00.000-04:00",
+      "end": "2026-07-18T23:59:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, Jul 18, 8:00 AM\u201311:59 PM at Central Park: Rumsey Playfield   ,Central Park: Bandshell Plaza."
+    },
+    {
       "id": "e-a9509d7e75",
       "title": "NYRR Open Run at Baisley Pond Park",
       "category": "outabout",
@@ -3440,29 +2812,6 @@
         }
       ],
       "description": "A farmers market hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 8:00 AM\u20135:00 PM at EAST   82 STREET between 1 AVENUE and YORK AVENUE."
-    },
-    {
-      "id": "e-0e7513d728",
-      "title": "SummerStage Festival - July",
-      "category": "outabout",
-      "subcategory": "festival",
-      "tags": [
-        "festival"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Central Park: Rumsey Playfield   ,Central Park: Bandshell Plaza",
-      "start": "2026-07-18T08:00:00.000-04:00",
-      "end": "2026-07-18T23:59:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Saturday, Jul 18, 8:00 AM\u201311:59 PM at Central Park: Rumsey Playfield   ,Central Park: Bandshell Plaza."
     },
     {
       "id": "e-f1d19922e1",
@@ -3653,30 +3002,6 @@
       "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 9:00 AM\u20137:00 PM at WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET."
     },
     {
-      "id": "e-1feaf3040e",
-      "title": "Columbus Circle Food Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Central Park: Merchants' Gate",
-      "start": "2026-07-18T09:30:00.000-04:00",
-      "end": "2026-07-18T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Saturday, Jul 18, 9:30 AM\u20139:00 PM at Central Park: Merchants' Gate."
-    },
-    {
       "id": "e-aac963d734",
       "title": "Van Cortlandt Nature Group Walk",
       "category": "outabout",
@@ -3699,6 +3024,30 @@
         }
       ],
       "description": "A special event hosted by Parks Department. Takes place Saturday, Jul 18, 9:30 AM\u201311:00 AM at Van Cortlandt Park: Nature Center Garden."
+    },
+    {
+      "id": "e-1feaf3040e",
+      "title": "Columbus Circle Food Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Central Park: Merchants' Gate",
+      "start": "2026-07-18T09:30:00.000-04:00",
+      "end": "2026-07-18T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, Jul 18, 9:30 AM\u20139:00 PM at Central Park: Merchants' Gate."
     },
     {
       "id": "e-73866ab516",
@@ -3725,6 +3074,30 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 10:00 AM\u20135:30 PM at MONTGOMERY STREET between NOSTRAND AVENUE and ROGERS AVENUE."
     },
     {
+      "id": "e-f768877eb9",
+      "title": "Stanhope st Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "bushwick",
+      "borough": "outer",
+      "venue": "STANHOPE STREET between CENTRAL AVENUE and MYRTLE AVENUE",
+      "start": "2026-07-18T10:00:00.000-04:00",
+      "end": "2026-07-18T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 10:00 AM\u20137:00 PM at STANHOPE STREET between CENTRAL AVENUE and MYRTLE AVENUE."
+    },
+    {
       "id": "e-669c5246c0",
       "title": "Chess Lecture Simul Series with Beginners Workshops",
       "category": "outabout",
@@ -3747,6 +3120,52 @@
         }
       ],
       "description": "A special event hosted by Parks Department. Takes place Saturday, Jul 18, 10:00 AM\u20133:00 PM at Central Park: Chess and Checkers."
+    },
+    {
+      "id": "e-643e4da498",
+      "title": "Bleecker Street Fair",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "BLEECKER STREET between 6 AVENUE and 7 AVENUE SOUTH,  CARMINE STREET between 6 AVENUE and BEDFORD STREET",
+      "start": "2026-07-18T10:00:00.000-04:00",
+      "end": "2026-07-18T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street festival hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 10:00 AM\u20136:00 PM at BLEECKER STREET between 6 AVENUE and 7 AVENUE SOUTH,  CARMINE STREET between 6 AVENUE and BEDFORD STREET."
+    },
+    {
+      "id": "e-5950893e6f",
+      "title": "St. Catherine of Genoa Festival",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "WEST  153 STREET between BROADWAY and AMSTERDAM AVENUE",
+      "start": "2026-07-18T10:00:00.000-04:00",
+      "end": "2026-07-18T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 10:00 AM\u20135:00 PM at WEST  153 STREET between BROADWAY and AMSTERDAM AVENUE."
     },
     {
       "id": "e-dcbaa04827",
@@ -3773,6 +3192,29 @@
       "description": "A special event hosted by Parks Department. Takes place Saturday, Jul 18, 10:00 AM\u201311:30 AM at Bella Abzug Park : Block 2 (between 34th street & 35th street)."
     },
     {
+      "id": "e-002c6e1d5e",
+      "title": "TIMES SQUARE SUMMER FAIR",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "7 AVENUE between WEST   47 STREET and WEST   57 STREET",
+      "start": "2026-07-18T10:00:00.000-04:00",
+      "end": "2026-07-18T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street festival hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 10:00 AM\u20136:00 PM at 7 AVENUE between WEST   47 STREET and WEST   57 STREET."
+    },
+    {
       "id": "e-30f7069d65",
       "title": "Kwahuman Association of NewYork Health Fair",
       "category": "outabout",
@@ -3795,29 +3237,6 @@
         }
       ],
       "description": "A health fair hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 10:00 AM\u20135:00 PM at MCCLELLAN STREET between CARROLL PLACE and SHERIDAN AVENUE."
-    },
-    {
-      "id": "e-5950893e6f",
-      "title": "St. Catherine of Genoa Festival",
-      "category": "outabout",
-      "subcategory": "festival",
-      "tags": [
-        "festival"
-      ],
-      "neighborhood": "uws",
-      "borough": "manhattan",
-      "venue": "WEST  153 STREET between BROADWAY and AMSTERDAM AVENUE",
-      "start": "2026-07-18T10:00:00.000-04:00",
-      "end": "2026-07-18T17:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A street event hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 10:00 AM\u20135:00 PM at WEST  153 STREET between BROADWAY and AMSTERDAM AVENUE."
     },
     {
       "id": "e-9f25ea00bf",
@@ -4012,19 +3431,19 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 11:00 AM\u20138:00 PM at VAN BUREN STREET between THROOP AVENUE and TOMPKINS AVENUE."
     },
     {
-      "id": "e-91014ed7c0",
-      "title": "E. 49th St. Block Association 2026 Block Party",
+      "id": "e-95a723b8ac",
+      "title": "Flushing BID Annual Community Health Fair",
       "category": "outabout",
       "subcategory": "street-fairs",
       "tags": [
         "free",
         "outdoor"
       ],
-      "neighborhood": "williamsburg",
+      "neighborhood": "flushing",
       "borough": "outer",
-      "venue": "EAST   49 STREET between BEVERLY ROAD and CLARENDON ROAD",
+      "venue": "40 ROAD between PRINCE STREET and MAIN STREET",
       "start": "2026-07-18T11:00:00.000-04:00",
-      "end": "2026-07-18T17:00:00.000-04:00",
+      "end": "2026-07-18T14:00:00.000-04:00",
       "price": "free",
       "tentpole": false,
       "sources": [
@@ -4033,7 +3452,7 @@
           "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 11:00 AM\u20135:00 PM at EAST   49 STREET between BEVERLY ROAD and CLARENDON ROAD."
+      "description": "A health fair hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 11:00 AM\u20132:00 PM at 40 ROAD between PRINCE STREET and MAIN STREET."
     },
     {
       "id": "e-ccf71a7c37",
@@ -4084,6 +3503,78 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 11:00 AM\u20138:00 PM at GATES AVENUE between IRVING AVENUE and KNICKERBOCKER AVENUE."
     },
     {
+      "id": "e-91014ed7c0",
+      "title": "E. 49th St. Block Association 2026 Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "EAST   49 STREET between BEVERLY ROAD and CLARENDON ROAD",
+      "start": "2026-07-18T11:00:00.000-04:00",
+      "end": "2026-07-18T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 11:00 AM\u20135:00 PM at EAST   49 STREET between BEVERLY ROAD and CLARENDON ROAD."
+    },
+    {
+      "id": "e-478f354540",
+      "title": "Madison TT Block Association Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "bushwick",
+      "borough": "outer",
+      "venue": "MADISON STREET between THROOP AVENUE and TOMPKINS AVENUE",
+      "start": "2026-07-18T11:00:00.000-04:00",
+      "end": "2026-07-18T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 11:00 AM\u20138:00 PM at MADISON STREET between THROOP AVENUE and TOMPKINS AVENUE."
+    },
+    {
+      "id": "e-faca75685f",
+      "title": "Manhattanville Rehab TA Resource Fair 2nd Annual",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "WEST  134 STREET between BROADWAY and AMSTERDAM AVENUE",
+      "start": "2026-07-18T11:00:00.000-04:00",
+      "end": "2026-07-18T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 11:00 AM\u20135:00 PM at WEST  134 STREET between BROADWAY and AMSTERDAM AVENUE."
+    },
+    {
       "id": "e-d20b584f06",
       "title": "FDNY Queens Block Party/Street Event",
       "category": "outabout",
@@ -4130,6 +3621,30 @@
         }
       ],
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 11:00 AM\u20136:00 PM at STERLING STREET between ROGERS AVENUE and BEDFORD AVENUE."
+    },
+    {
+      "id": "e-b883af7c3e",
+      "title": "Older Adults Fair",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "VERMONT STREET between LINDEN BOULEVARD and STANLEY AVENUE",
+      "start": "2026-07-18T11:00:00.000-04:00",
+      "end": "2026-07-18T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 11:00 AM\u20134:00 PM at VERMONT STREET between LINDEN BOULEVARD and STANLEY AVENUE."
     },
     {
       "id": "e-69f80f3173",
@@ -4369,31 +3884,6 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20139:00 PM at 2 STREET between 7 AVENUE and 8 AVENUE."
     },
     {
-      "id": "e-53ee35fb02",
-      "title": "Brownsville Old Timer's Parade",
-      "category": "outabout",
-      "subcategory": "parades",
-      "tags": [
-        "free",
-        "outdoor",
-        "parade"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "PITKIN AVENUE between SARATOGA AVENUE and GRAFTON STREET,  PITKIN AVENUE between MOTHER GASTON BOULEVARD and SARATOGA AVENUE,  MOTHER GASTON BOULEVARD between NEW LOTS AVENUE and PITKIN AVENUE,  NEW LOTS AVENUE between SACKMAN STREET and MOTHER GASTON BOULEVARD,  SACKMAN STREET between NEW LOTS AVENUE and HEGEMAN AVENUE, Brownsville Recreation Center Playground: Brownsville Playground ,Brownsville Recreation Center Playground: Brownsville Playground",
-      "start": "2026-07-18T12:00:00.000-04:00",
-      "end": "2026-07-18T16:30:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A parade hosted by Police Department. Takes place Saturday, Jul 18, 12:00 PM\u20134:30 PM at PITKIN AVENUE between SARATOGA AVENUE and GRAFTON STREET,  PITKIN AVENUE between MOTHER GASTON BOULEVARD and SARATOGA AVENUE,  MOTHER GASTON BOULEVARD between NEW LOTS AVENUE and PITKIN AVENUE,  NEW LOTS AVENUE between SACKMAN STREET and MOTHER GASTON BOULEVARD,  SACKMAN STREET between NEW LOTS AVENUE and HEGEMAN AVENUE, Brownsville Recreation Center Playground: Brownsville Playground ,Brownsville Recreation Center Playground: Brownsville Playground."
-    },
-    {
       "id": "e-8cbb0e3c0d",
       "title": "block party",
       "category": "outabout",
@@ -4442,19 +3932,20 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20139:00 PM at 41 STREET between 6 AVENUE and 5 AVENUE."
     },
     {
-      "id": "e-c8173bc544",
-      "title": "224-93rd ave block party",
+      "id": "e-53ee35fb02",
+      "title": "Brownsville Old Timer's Parade",
       "category": "outabout",
-      "subcategory": "street-fairs",
+      "subcategory": "parades",
       "tags": [
         "free",
-        "outdoor"
+        "outdoor",
+        "parade"
       ],
       "neighborhood": "eastvillage",
       "borough": "outer",
-      "venue": "93 AVENUE between 224 STREET and GETTYSBURG STREET",
+      "venue": "PITKIN AVENUE between SARATOGA AVENUE and GRAFTON STREET,  PITKIN AVENUE between MOTHER GASTON BOULEVARD and SARATOGA AVENUE,  MOTHER GASTON BOULEVARD between NEW LOTS AVENUE and PITKIN AVENUE,  NEW LOTS AVENUE between SACKMAN STREET and MOTHER GASTON BOULEVARD,  SACKMAN STREET between NEW LOTS AVENUE and HEGEMAN AVENUE, Brownsville Recreation Center Playground: Brownsville Playground ,Brownsville Recreation Center Playground: Brownsville Playground",
       "start": "2026-07-18T12:00:00.000-04:00",
-      "end": "2026-07-18T20:00:00.000-04:00",
+      "end": "2026-07-18T16:30:00.000-04:00",
       "price": "free",
       "tentpole": false,
       "sources": [
@@ -4463,7 +3954,31 @@
           "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20138:00 PM at 93 AVENUE between 224 STREET and GETTYSBURG STREET."
+      "description": "A parade hosted by Police Department. Takes place Saturday, Jul 18, 12:00 PM\u20134:30 PM at PITKIN AVENUE between SARATOGA AVENUE and GRAFTON STREET,  PITKIN AVENUE between MOTHER GASTON BOULEVARD and SARATOGA AVENUE,  MOTHER GASTON BOULEVARD between NEW LOTS AVENUE and PITKIN AVENUE,  NEW LOTS AVENUE between SACKMAN STREET and MOTHER GASTON BOULEVARD,  SACKMAN STREET between NEW LOTS AVENUE and HEGEMAN AVENUE, Brownsville Recreation Center Playground: Brownsville Playground ,Brownsville Recreation Center Playground: Brownsville Playground."
+    },
+    {
+      "id": "e-96cf25f01a",
+      "title": "Annual Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "redhook",
+      "borough": "outer",
+      "venue": "43 STREET between 7 AVENUE and 8 AVENUE",
+      "start": "2026-07-18T12:00:00.000-04:00",
+      "end": "2026-07-18T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20139:00 PM at 43 STREET between 7 AVENUE and 8 AVENUE."
     },
     {
       "id": "e-09dbc1c152",
@@ -4538,17 +4053,17 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20137:00 PM at HANCOCK STREET between LEWIS AVENUE and STUYVESANT AVENUE."
     },
     {
-      "id": "e-80045d11c8",
-      "title": "Annual East 38 St Block Party",
+      "id": "e-c8173bc544",
+      "title": "224-93rd ave block party",
       "category": "outabout",
       "subcategory": "street-fairs",
       "tags": [
         "free",
         "outdoor"
       ],
-      "neighborhood": "williamsburg",
+      "neighborhood": "eastvillage",
       "borough": "outer",
-      "venue": "EAST   38 STREET between QUENTIN ROAD and AVENUE P",
+      "venue": "93 AVENUE between 224 STREET and GETTYSBURG STREET",
       "start": "2026-07-18T12:00:00.000-04:00",
       "end": "2026-07-18T20:00:00.000-04:00",
       "price": "free",
@@ -4559,7 +4074,7 @@
           "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20138:00 PM at EAST   38 STREET between QUENTIN ROAD and AVENUE P."
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20138:00 PM at 93 AVENUE between 224 STREET and GETTYSBURG STREET."
     },
     {
       "id": "e-81fc36351f",
@@ -4610,6 +4125,54 @@
       "description": "A street event hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20134:00 PM at EAST  179 STREET between MAPES AVENUE and PROSPECT AVENUE."
     },
     {
+      "id": "e-9eba48c4c0",
+      "title": "Womens Empowerment Art Therapy Group Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "bushwick",
+      "borough": "outer",
+      "venue": "HANCOCK STREET between FRANKLIN AVENUE and SPENCER PLACE",
+      "start": "2026-07-18T12:00:00.000-04:00",
+      "end": "2026-07-18T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A open culture hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20133:00 PM at HANCOCK STREET between FRANKLIN AVENUE and SPENCER PLACE."
+    },
+    {
+      "id": "e-80045d11c8",
+      "title": "Annual East 38 St Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "EAST   38 STREET between QUENTIN ROAD and AVENUE P",
+      "start": "2026-07-18T12:00:00.000-04:00",
+      "end": "2026-07-18T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20138:00 PM at EAST   38 STREET between QUENTIN ROAD and AVENUE P."
+    },
+    {
       "id": "e-31480fc834",
       "title": "65th street block party",
       "category": "outabout",
@@ -4634,19 +4197,19 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20137:00 PM at EAST   65 STREET between AVENUE U and AVENUE T."
     },
     {
-      "id": "e-9eba48c4c0",
-      "title": "Womens Empowerment Art Therapy Group Block Party",
+      "id": "e-7ed5031625",
+      "title": "Bushwick Hylans Cornerstone Block  Party",
       "category": "outabout",
       "subcategory": "street-fairs",
       "tags": [
         "free",
         "outdoor"
       ],
-      "neighborhood": "bushwick",
+      "neighborhood": "williamsburg",
       "borough": "outer",
-      "venue": "HANCOCK STREET between FRANKLIN AVENUE and SPENCER PLACE",
+      "venue": "VARET STREET between HUMBOLDT STREET and GRAHAM AVENUE",
       "start": "2026-07-18T12:00:00.000-04:00",
-      "end": "2026-07-18T15:00:00.000-04:00",
+      "end": "2026-07-18T18:00:00.000-04:00",
       "price": "free",
       "tentpole": false,
       "sources": [
@@ -4655,7 +4218,7 @@
           "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "A open culture hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20133:00 PM at HANCOCK STREET between FRANKLIN AVENUE and SPENCER PLACE."
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20136:00 PM at VARET STREET between HUMBOLDT STREET and GRAHAM AVENUE."
     },
     {
       "id": "e-2b4895e30c",
@@ -4705,30 +4268,6 @@
       "description": "A health fair hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20134:00 PM at MORNINGSIDE AVENUE between WEST  125 STREET and WEST  126 STREET."
     },
     {
-      "id": "e-7ed5031625",
-      "title": "Bushwick Hylans Cornerstone Block  Party",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "williamsburg",
-      "borough": "outer",
-      "venue": "VARET STREET between HUMBOLDT STREET and GRAHAM AVENUE",
-      "start": "2026-07-18T12:00:00.000-04:00",
-      "end": "2026-07-18T18:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20136:00 PM at VARET STREET between HUMBOLDT STREET and GRAHAM AVENUE."
-    },
-    {
       "id": "e-b2aa3d8fa3",
       "title": "Mackay Block Party",
       "category": "outabout",
@@ -4753,30 +4292,6 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20137:00 PM at MACKAY PLACE between COLONIAL ROAD and NARROWS AVENUE."
     },
     {
-      "id": "e-abab7327f8",
-      "title": "101 Street Block Party",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "101 STREET between 159 AVENUE and 160 AVENUE",
-      "start": "2026-07-18T12:00:00.000-04:00",
-      "end": "2026-07-18T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20139:00 PM at 101 STREET between 159 AVENUE and 160 AVENUE."
-    },
-    {
       "id": "e-6a045a0378",
       "title": "37 Street Block Party",
       "category": "outabout",
@@ -4799,6 +4314,30 @@
         }
       ],
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20139:00 PM at EAST   37 STREET between AVENUE T and AVENUE U."
+    },
+    {
+      "id": "e-abab7327f8",
+      "title": "101 Street Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "101 STREET between 159 AVENUE and 160 AVENUE",
+      "start": "2026-07-18T12:00:00.000-04:00",
+      "end": "2026-07-18T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 12:00 PM\u20139:00 PM at 101 STREET between 159 AVENUE and 160 AVENUE."
     },
     {
       "id": "e-3cdcd303bb",
@@ -5089,6 +4628,30 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 1:00 PM\u20136:00 PM at ASHFORD STREET between BLAKE AVENUE and SUTTER AVENUE."
     },
     {
+      "id": "e-9b7248f5e5",
+      "title": "KENT MYRT-WILL BLOCK PARTY",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "bushwick",
+      "borough": "outer",
+      "venue": "KENT AVENUE between MYRTLE AVENUE and WILLOUGHBY AVENUE",
+      "start": "2026-07-18T13:00:00.000-04:00",
+      "end": "2026-07-18T19:30:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 1:00 PM\u20137:30 PM at KENT AVENUE between MYRTLE AVENUE and WILLOUGHBY AVENUE."
+    },
+    {
       "id": "e-ca64229a38",
       "title": "Sawyer Ave Block Party",
       "category": "outabout",
@@ -5137,6 +4700,30 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 1:00 PM\u20138:00 PM at 674 49 STREET between 6 AVENUE and 7 AVENUE."
     },
     {
+      "id": "e-8616c4bc5e",
+      "title": "Putnam Avenue Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "bushwick",
+      "borough": "outer",
+      "venue": "PUTNAM AVENUE between FRANKLIN AVENUE and BEDFORD AVENUE",
+      "start": "2026-07-18T13:00:00.000-04:00",
+      "end": "2026-07-18T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 1:00 PM\u20138:00 PM at PUTNAM AVENUE between FRANKLIN AVENUE and BEDFORD AVENUE."
+    },
+    {
       "id": "e-d14b397bb9",
       "title": "Ambassadors of Christ Street Fair",
       "category": "outabout",
@@ -5159,6 +4746,30 @@
         }
       ],
       "description": "A special event hosted by Parks Department. Takes place Saturday, Jul 18, 1:00 PM\u20135:30 PM at Van Nest Park: Van Nest Park."
+    },
+    {
+      "id": "e-9aa8799f33",
+      "title": "Open Arts LES on Avenue B",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "manhattan",
+      "venue": "AVENUE B between EAST    9 STREET and EAST    7 STREET",
+      "start": "2026-07-18T13:00:00.000-04:00",
+      "end": "2026-07-18T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 1:00 PM\u20134:00 PM at AVENUE B between EAST    9 STREET and EAST    7 STREET."
     },
     {
       "id": "e-1674f48d6a",
@@ -5279,6 +4890,30 @@
         }
       ],
       "description": "A special event hosted by Parks Department. Takes place Saturday, Jul 18, 2:00 PM\u20136:00 PM at Classon Playground: Recreation Area-Playground."
+    },
+    {
+      "id": "e-f4d7d9aa0f",
+      "title": "The 300 Quincy Street Block Association, INC. 2026 Block Party Celebration",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "bushwick",
+      "borough": "outer",
+      "venue": "QUINCY STREET between MARCY AVENUE and TOMPKINS AVENUE",
+      "start": "2026-07-18T14:00:00.000-04:00",
+      "end": "2026-07-18T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Jul 18, 2:00 PM\u20138:00 PM at QUINCY STREET between MARCY AVENUE and TOMPKINS AVENUE."
     },
     {
       "id": "e-07c7ec9c9d",
@@ -5815,338 +5450,465 @@
       "description": "A farmers market hosted by Street Activity Permit Office. Takes place Sunday, Jul 19, 8:00 AM\u20135:00 PM at 79 STREET between NORTHERN BOULEVARD and 34 AVENUE."
     },
     {
-      "id": "e-eb1d1565c3",
-      "title": "David Ostwald's Louis Armstrong Eternity Band",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-0883e1adc0",
+      "title": "St. Anthony Flea Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-07-15T21:30:00Z",
-      "end": "2026-07-16T00:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/david-ostwalds-louis-armstrong-eternity-birdland-theater-tickets/14751223"
-        }
-      ],
-      "description": "Live show at Birdland Theater on Wednesday, Jul 15 at 5:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
-    },
-    {
-      "id": "e-dd62c03a63",
-      "title": "TROMBONE SHORTY & ORLEANS AVENUE - LETS GO GET EM TOUR",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "fidi",
-      "borough": "manhattan",
-      "venue": "The Rooftop at Pier 17",
-      "start": "2026-07-15T23:00:00Z",
-      "end": "2026-07-16T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Ku6"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.axs.com/events/1342221/trombone-shorty-orleans-avenue-tickets?skin=therooftopatpier17"
-        }
-      ],
-      "description": "Live show at The Rooftop at Pier 17 on Wednesday, Jul 15 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-a1ebb3ecf8",
-      "title": "Buck Meek",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "les",
-      "borough": "manhattan",
-      "venue": "Bowery Ballroom",
-      "start": "2026-07-15T23:00:00Z",
-      "end": "2026-07-16T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/buck-meek-new-york-new-york-07-15-2026/event/00006451A6FA8AA8"
-        }
-      ],
-      "description": "Live show at Bowery Ballroom on Wednesday, Jul 15 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-4f0b48e664",
-      "title": "Amaury Gutierrez, Pavel Nunez & Obrien Luna",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "S.O.B.'s",
-      "start": "2026-07-15T23:00:00Z",
-      "end": "2026-07-16T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/amaury-gutierrez-pavel-nunez-obrien-luna-new-york-new-york-07-15-2026/event/000064C93CAF14E7"
-        }
-      ],
-      "description": "Live show at S.O.B.'s on Wednesday, Jul 15 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-d9ff779d53",
-      "title": "Johnny Thunders Birthday Bash",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Bowery Palace",
-      "start": "2026-07-15T23:00:00Z",
-      "end": "2026-07-16T02:00:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/johnny-thunders-birthday-bash-bowery-palace-tickets/14961303"
-        }
-      ],
-      "description": "Live show at Bowery Palace on Wednesday, Jul 15 at 7:00 PM. Tickets via Ticketmaster, from $19\u2013$19."
-    },
-    {
-      "id": "e-8a3e32a212",
-      "title": "BMI ACOUSTIC LOUNGE - FREE SHOW",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Lucinda's",
-      "start": "2026-07-15T23:00:00Z",
-      "end": "2026-07-16T02:00:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/bmi-acoustic-lounge-lucindas-tickets/14241814"
-        }
-      ],
-      "description": "Live show at Lucinda's on Wednesday, Jul 15 at 7:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
-    },
-    {
-      "id": "e-2dae583264",
-      "title": "Stella Cole",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Jazz Club",
-      "start": "2026-07-15T23:00:00Z",
-      "end": "2026-07-16T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/stella-cole-birdland-jazz-club-tickets/14787713"
-        }
-      ],
-      "description": "Live show at Birdland Jazz Club on Wednesday, Jul 15 at 7:00 PM. Tickets via Ticketmaster, from $46\u2013$56."
-    },
-    {
-      "id": "e-ce2846400f",
-      "title": "Alex Warren: Finding Family on the Road",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Madison Square Garden",
-      "start": "2026-07-15T23:30:00Z",
-      "end": "2026-07-16T02:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/alex-warren-finding-family-on-the-new-york-new-york-07-15-2026/event/3B006364CCBB56F1"
-        }
-      ],
-      "description": "Live show at Madison Square Garden on Wednesday, Jul 15 at 7:30 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-aae5eb3a41",
-      "title": "Star Card | Balloon Snake | Anxious Hum",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Berlin",
-      "start": "2026-07-15T23:30:00Z",
-      "end": "2026-07-16T02:30:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/star-card-balloon-snake-berlin-tickets/14205634"
-        }
-      ],
-      "description": "Live show at Berlin on Wednesday, Jul 15 at 7:30 PM. Tickets via Ticketmaster, from $12\u2013$12."
-    },
-    {
-      "id": "e-6f21acfa27",
-      "title": "MUSIC! with FLEA (NOT RHCP FLEA!)",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Night Club 101",
-      "start": "2026-07-16T00:00:00Z",
-      "end": "2026-07-16T03:00:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/music-with-flea-not-rhcp-night-club-101-tickets/14983783"
-        }
-      ],
-      "description": "Live show at Night Club 101 on Wednesday, Jul 15 at 8:00 PM. Tickets via Ticketmaster, from $13\u2013$13."
-    },
-    {
-      "id": "e-0bb283e8ed",
-      "title": "Wyatt Waddell",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-hiphop"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "westvillage",
       "borough": "manhattan",
-      "venue": "Blue Note Jazz Club",
-      "start": "2026-07-16T00:00:00Z",
-      "end": "2026-07-16T03:00:00+00:00",
-      "price": "$$",
+      "venue": "WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET",
+      "start": "2026-07-19T09:00:00.000-04:00",
+      "end": "2026-07-19T19:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/wyatt-waddell-blue-note-jazz-club-tickets/14899653"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/wyatt-waddell-blue-note-jazz-club-tickets/14899663"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Blue Note Jazz Club on Wednesday, Jul 15 at 10:30 PM. Tickets via Ticketmaster, from $32\u2013$44."
+      "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Sunday, Jul 19, 9:00 AM\u20137:00 PM at WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET."
     },
     {
-      "id": "e-578e818a30",
-      "title": "Frank Vignola's Guitar Night",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-0f4abc1b54",
+      "title": "RiseBoro Farmers Markets at Irving Square Park",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-jazz"
+        "free",
+        "outdoor",
+        "food"
+      ],
+      "neighborhood": "bushwick",
+      "borough": "outer",
+      "venue": "KNICKERBOCKER AVENUE between STARR STREET and SUYDAM STREET,  KNICKERBOCKER AVENUE between WEIRFIELD STREET and HALSEY STREET",
+      "start": "2026-07-19T09:00:00.000-04:00",
+      "end": "2026-07-19T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Sunday, Jul 19, 9:00 AM\u20133:00 PM at KNICKERBOCKER AVENUE between STARR STREET and SUYDAM STREET,  KNICKERBOCKER AVENUE between WEIRFIELD STREET and HALSEY STREET."
+    },
+    {
+      "id": "e-76d1a4fa0c",
+      "title": "Steps to Success Advocacy Walk 2026",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-07-16T00:30:00Z",
-      "end": "2026-07-16T03:30:00+00:00",
-      "price": "$$",
+      "venue": "Franklin D Roosevelt Boardwalk and Beach: Promenade Midland Beach FDR",
+      "start": "2026-07-19T10:00:00.000-04:00",
+      "end": "2026-07-19T14:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/frank-vignolas-guitar-night-birdland-theater-tickets/14751303"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland Theater on Wednesday, Jul 15 at 8:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Jul 19, 10:00 AM\u20132:00 PM at Franklin D Roosevelt Boardwalk and Beach: Promenade Midland Beach FDR."
     },
     {
-      "id": "e-6227cd09ec",
-      "title": "Tomorrow's Problem",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-dfcc96db1e",
+      "title": "NYMS Mushroom Walk",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "les",
-      "borough": "manhattan",
-      "venue": "Mercury Lounge",
-      "start": "2026-07-16T01:00:00Z",
-      "end": "2026-07-16T04:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/tomorrows-problem-new-york-new-york-07-15-2026/event/000064B4A17EBD23"
-        }
-      ],
-      "description": "Live show at Mercury Lounge on Wednesday, Jul 15 at 9:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-97f62dde63",
-      "title": "Stella Cole",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Birdland Jazz Club",
-      "start": "2026-07-16T01:30:00Z",
-      "end": "2026-07-16T04:30:00+00:00",
-      "price": "$$",
+      "venue": "Van Cortlandt Park: Cass Gallagher Nature Trail",
+      "start": "2026-07-19T10:00:00.000-04:00",
+      "end": "2026-07-19T16:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/stella-cole-birdland-jazz-club-tickets/14787773"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/stella-cole-birdland-jazz-club-tickets/14787723"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland Jazz Club on Wednesday, Jul 15 at 9:30 PM. Tickets via Ticketmaster, from $46\u2013$56."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Jul 19, 10:00 AM\u20134:00 PM at Van Cortlandt Park: Cass Gallagher Nature Trail."
+    },
+    {
+      "id": "e-154f51d441",
+      "title": "Open Streets May/June/July 2026 FY26",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "NEWKIRK AVENUE between CONEY ISLAND AVENUE and EAST   17 STREET",
+      "start": "2026-07-19T10:30:00.000-04:00",
+      "end": "2026-07-19T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Sunday, Jul 19, 10:30 AM\u20138:00 PM at NEWKIRK AVENUE between CONEY ISLAND AVENUE and EAST   17 STREET."
+    },
+    {
+      "id": "e-2515d53116",
+      "title": "Walk-A-Thon",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Alley Pond Park: Upper Alley BBQ Area Orange",
+      "start": "2026-07-19T11:00:00.000-04:00",
+      "end": "2026-07-19T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Jul 19, 11:00 AM\u20136:00 PM at Alley Pond Park: Upper Alley BBQ Area Orange."
+    },
+    {
+      "id": "e-b5dc791f67",
+      "title": "Congo Square Vendor's Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Prospect Park: Drummer's Grove Market Place",
+      "start": "2026-07-19T11:00:00.000-04:00",
+      "end": "2026-07-19T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Jul 19, 11:00 AM\u20138:00 PM at Prospect Park: Drummer's Grove Market Place."
+    },
+    {
+      "id": "e-61993480c9",
+      "title": "Empowering Men",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "outdoor",
+        "parade"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "EAST GUN HILL ROAD between EASTCHESTER ROAD  and ONEILL PLACE, 986 EAST GUN HILL ROAD, EAST GUN HILL ROAD between EASTCHESTER ROAD  and ONEILL PLACE",
+      "start": "2026-07-19T11:00:00.000-04:00",
+      "end": "2026-07-19T13:30:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A parade hosted by Police Department. Takes place Sunday, Jul 19, 11:00 AM\u20131:30 PM at EAST GUN HILL ROAD between EASTCHESTER ROAD  and ONEILL PLACE, 986 EAST GUN HILL ROAD, EAST GUN HILL ROAD between EASTCHESTER ROAD  and ONEILL PLACE."
+    },
+    {
+      "id": "e-cb5eabcd39",
+      "title": "2026 Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "bushwick",
+      "borough": "outer",
+      "venue": "MACON STREET between MARCUS GARVEY BOULEVARD and LEWIS AVENUE",
+      "start": "2026-07-19T12:00:00.000-04:00",
+      "end": "2026-07-19T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Sunday, Jul 19, 12:00 PM\u20137:00 PM at MACON STREET between MARCUS GARVEY BOULEVARD and LEWIS AVENUE."
+    },
+    {
+      "id": "e-dfa6b8c0cb",
+      "title": "Open Street Recess for NYCPS Summer Rising Students",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "EAST  179 STREET between MAPES AVENUE and PROSPECT AVENUE",
+      "start": "2026-07-19T12:00:00.000-04:00",
+      "end": "2026-07-19T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Sunday, Jul 19, 12:00 PM\u20134:00 PM at EAST  179 STREET between MAPES AVENUE and PROSPECT AVENUE."
+    },
+    {
+      "id": "e-c6ca87eeb0",
+      "title": "31st Ave Open Street Collective - July 2026",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "31 AVENUE Open Street 2026: 31 AVENUE Open Street 2026",
+      "start": "2026-07-19T12:00:00.000-04:00",
+      "end": "2026-07-19T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Sunday, Jul 19, 12:00 PM\u20138:00 PM at 31 AVENUE Open Street 2026: 31 AVENUE Open Street 2026."
+    },
+    {
+      "id": "e-5a31178237",
+      "title": "July Falun Dafa Parade",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "outdoor",
+        "parade"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "MOTT STREET between GRAND STREET and HESTER STREET,  MOTT STREET between HESTER STREET and WORTH STREET,  CHATHAM SQUARE between MOTT STREET and EAST BROADWAY,  EAST BROADWAY between CHATHAM SQUARE and ELDRIDGE STREET,  ELDRIDGE STREET between EAST BROADWAY and HESTER STREET,  HESTER STREET between ELDRIDGE STREET and ALLEN STREET",
+      "start": "2026-07-19T13:00:00.000-04:00",
+      "end": "2026-07-19T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A parade hosted by Police Department. Takes place Sunday, Jul 19, 1:00 PM\u20133:00 PM at MOTT STREET between GRAND STREET and HESTER STREET,  MOTT STREET between HESTER STREET and WORTH STREET,  CHATHAM SQUARE between MOTT STREET and EAST BROADWAY,  EAST BROADWAY between CHATHAM SQUARE and ELDRIDGE STREET,  ELDRIDGE STREET between EAST BROADWAY and HESTER STREET,  HESTER STREET between ELDRIDGE STREET and ALLEN STREET."
+    },
+    {
+      "id": "e-74e33501ef",
+      "title": "Rain Date -Goodhaven Percussion Festival featuringYowana Sari Gamelan Ensemble.",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Forest Park: Bandshell and Seating",
+      "start": "2026-07-19T15:00:00.000-04:00",
+      "end": "2026-07-19T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Jul 19, 3:00 PM\u20137:00 PM at Forest Park: Bandshell and Seating."
+    },
+    {
+      "id": "e-233cd58afc",
+      "title": "Worth Square Food Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Worth Square: Triangle",
+      "start": "2026-07-19T15:01:00.000-04:00",
+      "end": "2026-07-19T15:02:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Jul 19, 3:01 PM\u20133:02 PM at Worth Square: Triangle."
+    },
+    {
+      "id": "e-5598c68e3e",
+      "title": "New Wave Pier Food Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "gramercy",
+      "borough": "manhattan",
+      "venue": "East River Esplanade 36th-38th: 36th-38th St",
+      "start": "2026-07-19T15:06:00.000-04:00",
+      "end": "2026-07-19T15:06:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Jul 19, 3:06 PM\u20133:06 PM at East River Esplanade 36th-38th: 36th-38th St."
+    },
+    {
+      "id": "e-333038930e",
+      "title": "Our Lady of the Snows Church Procession in Honor of Saint Alphonsa",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "outdoor",
+        "parade"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "259 STREET between UNION TURNPIKE and 80 AVENUE,  259 STREET between 80 AVENUE and 81 AVENUE,  81 AVENUE between 259 STREET and 258 STREET,  258 STREET between 81 AVENUE and 80 AVENUE,  258 STREET between 80 AVENUE and UNION TURNPIKE,  259 STREET between UNION TURNPIKE and 80 AVENUE",
+      "start": "2026-07-19T17:00:00.000-04:00",
+      "end": "2026-07-19T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A parade hosted by Police Department. Takes place Sunday, Jul 19, 5:00 PM\u20136:00 PM at 259 STREET between UNION TURNPIKE and 80 AVENUE,  259 STREET between 80 AVENUE and 81 AVENUE,  81 AVENUE between 259 STREET and 258 STREET,  258 STREET between 81 AVENUE and 80 AVENUE,  258 STREET between 80 AVENUE and UNION TURNPIKE,  259 STREET between UNION TURNPIKE and 80 AVENUE."
+    },
+    {
+      "id": "e-c5793cbcac",
+      "title": "INTERFAITH PEACE WALK FOR FOR THE CHILDREN AND FAMILIES",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "outdoor",
+        "parade"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Prospect Park: Grand Army Plaza Entrance ,Prospect Park: Prospect P W Sdwk-Grand Army Plza to 3rd St ,Prospect Park: Prospect P W Sdwk-3rd St to 9th St ,Prospect Park: Prospect P W Sdwk-9th St to Bartel-Pritchard",
+      "start": "2026-07-19T18:00:00.000-04:00",
+      "end": "2026-07-19T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A parade hosted by Police Department. Takes place Sunday, Jul 19, 6:00 PM\u20137:00 PM at Prospect Park: Grand Army Plaza Entrance ,Prospect Park: Prospect P W Sdwk-Grand Army Plza to 3rd St ,Prospect Park: Prospect P W Sdwk-3rd St to 9th St ,Prospect Park: Prospect P W Sdwk-9th St to Bartel-Pritchard."
+    },
+    {
+      "id": "e-39a8cf5385",
+      "title": "Ratha Yatra 2026",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "outdoor",
+        "parade"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "175-20 HILLSIDE AVENUE, HILLSIDE AVENUE between 175 STREET and 162 STREET, 87-35 162 STREET",
+      "start": "2026-07-19T19:00:00.000-04:00",
+      "end": "2026-07-19T20:30:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A parade hosted by Police Department. Takes place Sunday, Jul 19, 7:00 PM\u20138:30 PM at 175-20 HILLSIDE AVENUE, HILLSIDE AVENUE between 175 STREET and 162 STREET, 87-35 162 STREET."
+    },
+    {
+      "id": "e-6020ae9d16",
+      "title": "Tienda de Pueblo",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "34 AVENUE between 77 STREET and 78 STREET",
+      "start": "2026-07-20T07:00:00.000-04:00",
+      "end": "2026-07-20T12:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Monday, Jul 20, 7:00 AM\u201312:00 PM at 34 AVENUE between 77 STREET and 78 STREET."
     },
     {
       "id": "e-9642e197ce",
@@ -6262,6 +6024,29 @@
         }
       ],
       "description": "Live show at Gramercy Theatre on Thursday, Jul 16 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-97f62dde63",
+      "title": "Stella Cole",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Jazz Club",
+      "start": "2026-07-16T23:00:00Z",
+      "end": "2026-07-17T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/stella-cole-birdland-jazz-club-tickets/14787723"
+        }
+      ],
+      "description": "Live show at Birdland Jazz Club on Thursday, Jul 16 at 7:00 PM. Tickets via Ticketmaster, from $46\u2013$56."
     },
     {
       "id": "e-8c633fbac0",
@@ -8555,6 +8340,29 @@
       "description": "Live show at Night Club 101 on Wednesday, Jul 22 at 7:00 PM. Tickets via Ticketmaster, from $27\u2013$27."
     },
     {
+      "id": "e-048eddceaa",
+      "title": "TELO HOY,  Austin Larkin & Parsa Ferdowsi, Samara Lubelski",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-07-22T23:00:00Z",
+      "end": "2026-07-23T02:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/telo-hoy-austin-larkin-night-club-101-tickets/14263564"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Wednesday, Jul 22 at 7:00 PM. Tickets via Ticketmaster, from $20\u2013$20."
+    },
+    {
       "id": "e-9b48e46477",
       "title": "Phish",
       "category": "stagesound",
@@ -9468,6 +9276,29 @@
       "description": "Live show at Birdland Theater on Friday, Jul 24 at 7:00 PM. Tickets via Ticketmaster, from $35\u2013$46."
     },
     {
+      "id": "e-32383c582f",
+      "title": "Omari Lyseight, 1600j, Elipropperr + Flea Diamonds B2B, Angels Pond + Genny B2B , Binscoring",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-07-24T23:00:00Z",
+      "end": "2026-07-25T02:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/omari-lyseight-1600j-elipropperr-night-club-101-tickets/14248174"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Friday, Jul 24 at 7:00 PM. Tickets via Ticketmaster, from $17\u2013$17."
+    },
+    {
       "id": "e-c3431f25bd",
       "title": "Phish",
       "category": "stagesound",
@@ -9512,6 +9343,29 @@
         }
       ],
       "description": "Live show at Daryl Roth Theatre on Friday, Jul 24 at 7:30 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-03c87b2223",
+      "title": "The My Only Friends Tokyo Drift Reunion Farewell Tour: Hello, Goodbye Again",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Bowery Palace",
+      "start": "2026-07-24T23:30:00Z",
+      "end": "2026-07-25T02:30:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/the-my-only-friends-tokyo-bowery-palace-tickets/14263744"
+        }
+      ],
+      "description": "Live show at Bowery Palace on Friday, Jul 24 at 7:30 PM. Tickets via Ticketmaster, from $0\u2013$0."
     },
     {
       "id": "e-577782694c",
@@ -10080,6 +9934,336 @@
         }
       ],
       "description": "Live show at Beacon Theatre on Saturday, Jul 25 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-fe3bca5968",
+      "title": "A Night of Georgia Music - Mike Mills, Robert McDuffie & Chuck Leavell",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Carnegie Hall",
+      "start": "2026-07-26T00:00:00Z",
+      "end": "2026-07-26T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.carnegiehall.org/calendar/2026/07/25/a-night-of-georgia-music-featuring-mike-mills-robert-mcduffie-and-chuck-leavel-0800pm"
+        }
+      ],
+      "description": "Live show at Carnegie Hall on Saturday, Jul 25 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-be7868a549",
+      "title": "Noise Complaints Presents: The Late Night R&B Experience Tour (21+)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "gramercy",
+      "borough": "manhattan",
+      "venue": "Irving Plaza Powered By Verizon 5G",
+      "start": "2026-07-26T00:00:00Z",
+      "end": "2026-07-26T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/noise-complaints-presents-the-late-night-new-york-new-york-07-25-2026/event/00006469FFEA0EC8"
+        }
+      ],
+      "description": "Live show at Irving Plaza Powered By Verizon 5G on Saturday, Jul 25 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-8fd464f085",
+      "title": "Christian McBride & Ursa Major",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "Blue Note Jazz Club",
+      "start": "2026-07-26T00:00:00Z",
+      "end": "2026-07-26T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/christian-mcbride-ursa-major-blue-note-jazz-club-tickets/14777213"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/christian-mcbride-ursa-major-blue-note-jazz-club-tickets/14777233"
+        }
+      ],
+      "description": "Live show at Blue Note Jazz Club on Saturday, Jul 25 at 10:30 PM. Tickets via Ticketmaster, from $38\u2013$55."
+    },
+    {
+      "id": "e-4d710ff3d9",
+      "title": "Gerry Gibbs Dream Band ft. Gary Bartz, Randy Brecker, Buster Williams, Cyrus Chestnut",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Jazz Club",
+      "start": "2026-07-26T00:30:00Z",
+      "end": "2026-07-26T03:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/gerry-gibbs-dream-band-ft-birdland-jazz-club-tickets/14867053"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/gerry-gibbs-dream-band-ft-birdland-jazz-club-tickets/14867013"
+        }
+      ],
+      "description": "Live show at Birdland Jazz Club on Saturday, Jul 25 at 10:30 PM. Tickets via Ticketmaster, from $46\u2013$56."
+    },
+    {
+      "id": "e-ee8fccef86",
+      "title": "John \"Papa\" Gros",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Iridium",
+      "start": "2026-07-26T00:30:00Z",
+      "end": "2026-07-26T03:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/john-papa-gros-iridium-tickets/14839513"
+        }
+      ],
+      "description": "Live show at Iridium on Saturday, Jul 25 at 8:30 PM. Tickets via Ticketmaster, from $33\u2013$39."
+    },
+    {
+      "id": "e-c751ecc2c3",
+      "title": "Steven G",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-hiphop"
+      ],
+      "neighborhood": "les",
+      "borough": "manhattan",
+      "venue": "Mercury Lounge",
+      "start": "2026-07-26T01:00:00Z",
+      "end": "2026-07-26T04:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/steven-g-new-york-new-york-07-25-2026/event/00006498BBB4E161"
+        }
+      ],
+      "description": "Live show at Mercury Lounge on Saturday, Jul 25 at 9:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-7f56101a59",
+      "title": "Dan Wilson & Peter Bernstein Quartet",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Theater",
+      "start": "2026-07-26T01:30:00Z",
+      "end": "2026-07-26T04:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/dan-wilson-peter-bernstein-birdland-theater-tickets/14867173"
+        }
+      ],
+      "description": "Live show at Birdland Theater on Saturday, Jul 25 at 9:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
+    },
+    {
+      "id": "e-6def38ed02",
+      "title": "Nu Jazz",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-07-26T01:30:00Z",
+      "end": "2026-07-26T04:30:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/nu-jazz-night-club-101-tickets/14221174"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Saturday, Jul 25 at 9:30 PM. Tickets via Ticketmaster, from $23\u2013$23."
+    },
+    {
+      "id": "e-aec88ae1cb",
+      "title": "MADVKTM (18 and Over)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "manhattan",
+      "venue": "Webster Hall",
+      "start": "2026-07-26T03:00:00Z",
+      "end": "2026-07-26T06:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-8-g"
+        }
+      ],
+      "description": "Live show at Webster Hall on Saturday, Jul 25 at 11:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-9ef520bd46",
+      "title": "Weird Phishes - A Synergistic Mashup of Radiohead & Phish",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Sony Hall",
+      "start": "2026-07-26T03:59:00Z",
+      "end": "2026-07-26T06:59:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/weird-phishes-a-synergistic-mashup-of-new-york-new-york-07-25-2026/event/000064B6FB988C5C"
+        }
+      ],
+      "description": "Live show at Sony Hall on Saturday, Jul 25 at 11:59 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-a85ac9d01d",
+      "title": "A Phish After-Party with Magoo (Psychedelic Bluegrass Jam)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Hill Country Live",
+      "start": "2026-07-26T03:59:00Z",
+      "end": "2026-07-26T06:59:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/a-phish-after-party-with-hill-country-live-tickets/14770263"
+        }
+      ],
+      "description": "Live show at Hill Country Live on Saturday, Jul 25 at 11:59 PM. Tickets via Ticketmaster, from $28\u2013$28."
+    },
+    {
+      "id": "e-c8ed16140f",
+      "title": "A Phish After-Party with Spafford (Improvisational Rock Jamband)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Cutting Room",
+      "start": "2026-07-26T03:59:00Z",
+      "end": "2026-07-26T06:59:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/a-phish-after-party-with-cutting-room-tickets/14769363"
+        }
+      ],
+      "description": "Live show at Cutting Room on Saturday, Jul 25 at 11:59 PM. Tickets via Ticketmaster, from $44\u2013$44."
+    },
+    {
+      "id": "e-c3e41d0ee1",
+      "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-folk"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Lucinda's",
+      "start": "2026-07-26T17:00:00Z",
+      "end": "2026-07-26T20:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/sunday-songwriters-open-mic-every-lucindas-tickets/13952534"
+        }
+      ],
+      "description": "Live show at Lucinda's on Sunday, Jul 26 at 1:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
+      "id": "e-8228f94209",
+      "title": "The World Famous Harlem Gospel Choir",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "Blue Note Jazz Club",
+      "start": "2026-07-26T17:30:00Z",
+      "end": "2026-07-26T20:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/the-world-famous-harlem-gospel-blue-note-jazz-club-tickets/14777403"
+        }
+      ],
+      "description": "Live show at Blue Note Jazz Club on Sunday, Jul 26 at 1:30 PM. Tickets via Ticketmaster, from $38\u2013$44."
     }
   ]
 }
