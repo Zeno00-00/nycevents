@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:41:43.517914-04:00",
+  "generated_at": "2026-10-01T12:02:35.279803-04:00",
   "events": [
     {
       "id": "e-79c61f6e7c",
@@ -649,30 +649,6 @@
       "description": "First major US Caravaggio exhibit in over a decade. Brings together late-career works from European collections."
     },
     {
-      "id": "e-db76ca98a1",
-      "title": "Picasso & the Photographers",
-      "category": "mindeye",
-      "subcategory": "museum-art",
-      "tags": [
-        "m-art",
-        "m-photo"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "MoMA",
-      "start": "2026-06-01T10:00:00-04:00",
-      "end": "2026-09-30T17:00:00-04:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "MoMA",
-          "url": "https://www.moma.org/calendar/exhibitions"
-        }
-      ],
-      "description": "Explores how photographers documented and influenced Picasso's studio practice. Features ~150 prints and paintings."
-    },
-    {
       "id": "e-c5a5337cd0",
       "title": "Spring Permanent Collection Highlights",
       "category": "mindeye",
@@ -717,583 +693,6 @@
         }
       ],
       "description": "Deep-sea life rendered in immersive video and live specimens. Part of the museum's ongoing climate exhibition program."
-    },
-    {
-      "id": "e-cd87200429",
-      "title": "GrowNYC @ Washington Market Park",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "fidi",
-      "borough": "manhattan",
-      "venue": "Washington Market Park: Washington Market Park",
-      "start": "2026-09-30T06:00:00.000-04:00",
-      "end": "2026-09-30T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Sep 30, 6:00 AM\u20137:00 PM at Washington Market Park: Washington Market Park."
-    },
-    {
-      "id": "e-c064986e2e",
-      "title": "HHFM North Central Bronx Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Mosholu Parkway: Mosholu Parkway-Kossuth Playground Event Area",
-      "start": "2026-09-30T07:00:00.000-04:00",
-      "end": "2026-09-30T16:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Sep 30, 7:00 AM\u20134:00 PM at Mosholu Parkway: Mosholu Parkway-Kossuth Playground Event Area."
-    },
-    {
-      "id": "e-e4ac166f71",
-      "title": "HHFM Hunts Point Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Monsignor Raul Del Valle Square: Whole Park",
-      "start": "2026-09-30T07:00:00.000-04:00",
-      "end": "2026-09-30T16:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Sep 30, 7:00 AM\u20134:00 PM at Monsignor Raul Del Valle Square: Whole Park."
-    },
-    {
-      "id": "e-82c5ce5328",
-      "title": "Mount Sinai Greenmarket Wednesday",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "ues",
-      "borough": "manhattan",
-      "venue": "MADISON AVENUE between EAST   98 STREET and EAST   99 STREET",
-      "start": "2026-09-30T08:00:00.000-04:00",
-      "end": "2026-09-30T17:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 8:00 AM\u20135:00 PM at MADISON AVENUE between EAST   98 STREET and EAST   99 STREET."
-    },
-    {
-      "id": "e-47da2d8d21",
-      "title": "HHFM Kings County Hospital Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "CLARKSON AVENUE between EAST   37 STREET and EAST   38 STREET",
-      "start": "2026-09-30T08:00:00.000-04:00",
-      "end": "2026-09-30T15:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 8:00 AM\u20133:00 PM at CLARKSON AVENUE between EAST   37 STREET and EAST   38 STREET."
-    },
-    {
-      "id": "e-50dd16cfa3",
-      "title": "HHFM Hunts Point Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "SOUTHERN BOULEVARD between BARRETTO STREET and TIFFANY STREET",
-      "start": "2026-09-30T08:00:00.000-04:00",
-      "end": "2026-09-30T15:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 8:00 AM\u20133:00 PM at SOUTHERN BOULEVARD between BARRETTO STREET and TIFFANY STREET."
-    },
-    {
-      "id": "e-8b62e7e019",
-      "title": "Community Gathering",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "dumbo",
-      "borough": "outer",
-      "venue": "Pearl Street Plaza: Archway (Pearl Street Plaza) water street between Anchorage Pl and adams st, Pearl Street Plaza: Pearl Triangle (Pearl Street Plaza) Pearl Street between Water Street and Anchorage Place",
-      "start": "2026-09-30T09:00:00.000-04:00",
-      "end": "2026-09-30T14:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 9:00 AM\u20132:00 PM at Pearl Street Plaza: Archway (Pearl Street Plaza) water street between Anchorage Pl and adams st, Pearl Street Plaza: Pearl Triangle (Pearl Street Plaza) Pearl Street between Water Street and Anchorage Place."
-    },
-    {
-      "id": "e-01f6230a8f",
-      "title": "SAIL Structure at Lou Gehrig Plaza",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse",
-      "start": "2026-09-30T09:00:00.000-04:00",
-      "end": "2026-09-30T16:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 9:00 AM\u20134:00 PM at Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse."
-    },
-    {
-      "id": "e-d81fbaa339",
-      "title": "Immigrant Culture Month at Avenue C Plaza Extension - September",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE",
-      "start": "2026-09-30T09:00:00.000-04:00",
-      "end": "2026-09-30T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 9:00 AM\u20137:00 PM at Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE."
-    },
-    {
-      "id": "e-c59a8077e7",
-      "title": "WSP Food Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "westvillage",
-      "borough": "manhattan",
-      "venue": "Washington Square Park: Wash Sq West Sidewalks",
-      "start": "2026-09-30T09:00:00.000-04:00",
-      "end": "2026-09-30T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Sep 30, 9:00 AM\u20139:00 PM at Washington Square Park: Wash Sq West Sidewalks."
-    },
-    {
-      "id": "e-7a32026bba",
-      "title": "Bro Sis Green Youth Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Johnny Hartman Square: Johnny Hartman Square",
-      "start": "2026-09-30T09:00:00.000-04:00",
-      "end": "2026-09-30T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Sep 30, 9:00 AM\u20137:00 PM at Johnny Hartman Square: Johnny Hartman Square."
-    },
-    {
-      "id": "e-e1190b0783",
-      "title": "The International Day",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "EAST   22 STREET between PARK AVENUE SOUTH and LEXINGTON AVENUE",
-      "start": "2026-09-30T09:30:00.000-04:00",
-      "end": "2026-09-30T13:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 9:30 AM\u20131:00 PM at EAST   22 STREET between PARK AVENUE SOUTH and LEXINGTON AVENUE."
-    },
-    {
-      "id": "e-ed0a205511",
-      "title": "Deluxe carnival",
-      "category": "outabout",
-      "subcategory": "festival",
-      "tags": [
-        "festival"
-      ],
-      "neighborhood": "williamsburg",
-      "borough": "outer",
-      "venue": "TAYLOR STREET between LEE AVENUE and BEDFORD AVENUE",
-      "start": "2026-09-30T10:00:00.000-04:00",
-      "end": "2026-09-30T20:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A street festival hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 10:00 AM\u20138:00 PM at TAYLOR STREET between LEE AVENUE and BEDFORD AVENUE."
-    },
-    {
-      "id": "e-a9903f3c63",
-      "title": "PERSHING SQUARE SUMMER SOUNDS CONCERT SERIES 2026",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Pershing Square Plaza: West Park ave between E 42nd street and E 41st street",
-      "start": "2026-09-30T11:00:00.000-04:00",
-      "end": "2026-09-30T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 11:00 AM\u20137:00 PM at Pershing Square Plaza: West Park ave between E 42nd street and E 41st street."
-    },
-    {
-      "id": "e-b328072f98",
-      "title": "Community Resource Fair - Back-up Date",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "fidi",
-      "borough": "manhattan",
-      "venue": "Thomas Paine Park (Foley Square): Thomas Paine Park (Foley Square)",
-      "start": "2026-09-30T11:00:00.000-04:00",
-      "end": "2026-09-30T15:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Sep 30, 11:00 AM\u20133:00 PM at Thomas Paine Park (Foley Square): Thomas Paine Park (Foley Square)."
-    },
-    {
-      "id": "e-710be421d5",
-      "title": "East 125th Street Farmstand",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor",
-        "food"
-      ],
-      "neighborhood": "ues",
-      "borough": "manhattan",
-      "venue": "EAST  125 STREET between PARK AVENUE and LEXINGTON AVENUE",
-      "start": "2026-09-30T12:00:00.000-04:00",
-      "end": "2026-09-30T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A farmers market hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 12:00 PM\u20137:00 PM at EAST  125 STREET between PARK AVENUE and LEXINGTON AVENUE."
-    },
-    {
-      "id": "e-6850490f43",
-      "title": "TSQ LIVE: 45/46 Plaza Programming",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "chelsea",
-      "borough": "manhattan",
-      "venue": "Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE",
-      "start": "2026-09-30T12:00:00.000-04:00",
-      "end": "2026-09-30T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 12:00 PM\u20139:00 PM at Times Square: 45/46 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   45 STREET and WEST   46 STREET,  WEST   46 STREET between 7 AVENUE and 8 AVENUE."
-    },
-    {
-      "id": "e-608897f42a",
-      "title": "Global Citizen Festival",
-      "category": "outabout",
-      "subcategory": "festival",
-      "tags": [
-        "festival"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Central Park: Great Lawn Oval   ,Central Park: Great Lawn South West Lawn ,Central Park: Turtle Pond Lawn ,Central Park: Ross Pinetum East ,Central Park: Ross Pinetum West ,Central Park: King Jagiallo Plaza ,Central Park: Shakespeare Garden ,Central Park: Great Lawn Plgd-Basketball-05 ,Central Park: Great Lawn Plgd-Basketball-06 ,Central Park: Great Lawn-Softball-01 ,Central Park: Great Lawn-Softball-02 ,Central Park: Great Lawn-Softball-03 ,Central Park: Great Lawn-Softball-04 ,Central Park: Great Lawn-Softball-05 ,Central Park: Great Lawn-Softball-06 ,Central Park: Great Lawn-Softball-07 ,Central Park: Great Lawn-Softball-08 ,Central Park: Bandshell Plaza ,Central Park: Diana Ross Playground Lawn ,Central Park: Belvedere Castle Terrace ,Central Park: Shakespeare Statue Plaza ,Central Park: Central Park West Sidewalks - 72nd St to 81st St ,Central Park: Fifth Ave Sidewalks - 65th St to 72nd St ,Central Park: Fifth Ave Sidewalks - 60 St to 65 St ,Central Park: Fifth Ave Sidewalks - 79th St to 85th St ,Central Park: Fifth Ave Sidewalks - 86th St to 97th St ,Central Park: East Drive ,Central Park: West Drive",
-      "start": "2026-09-30T12:00:00.000-04:00",
-      "end": "2026-09-30T23:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Sep 30, 12:00 PM\u201311:00 PM at Central Park: Great Lawn Oval   ,Central Park: Great Lawn South West Lawn ,Central Park: Turtle Pond Lawn ,Central Park: Ross Pinetum East ,Central Park: Ross Pinetum West ,Central Park: King Jagiallo Plaza ,Central Park: Shakespeare Garden ,Central Park: Great Lawn Plgd-Basketball-05 ,Central Park: Great Lawn Plgd-Basketball-06 ,Central Park: Great Lawn-Softball-01 ,Central Park: Great Lawn-Softball-02 ,Central Park: Great Lawn-Softball-03 ,Central Park: Great Lawn-Softball-04 ,Central Park: Great Lawn-Softball-05 ,Central Park: Great Lawn-Softball-06 ,Central Park: Great Lawn-Softball-07 ,Central Park: Great Lawn-Softball-08 ,Central Park: Bandshell Plaza ,Central Park: Diana Ross Playground Lawn ,Central Park: Belvedere Castle Terrace ,Central Park: Shakespeare Statue Plaza ,Central Park: Central Park West Sidewalks - 72nd St to 81st St ,Central Park: Fifth Ave Sidewalks - 65th St to 72nd St ,Central Park: Fifth Ave Sidewalks - 60 St to 65 St ,Central Park: Fifth Ave Sidewalks - 79th St to 85th St ,Central Park: Fifth Ave Sidewalks - 86th St to 97th St ,Central Park: East Drive ,Central Park: West Drive."
-    },
-    {
-      "id": "e-53300193b5",
-      "title": "Sukkot Block Party",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "parkslope",
-      "borough": "outer",
-      "venue": "3 STREET between PROSPECT PARK WEST and 8 AVENUE",
-      "start": "2026-09-30T14:00:00.000-04:00",
-      "end": "2026-09-30T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A street event hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 2:00 PM\u20137:00 PM at 3 STREET between PROSPECT PARK WEST and 8 AVENUE."
-    },
-    {
-      "id": "e-308bf2ceb1",
-      "title": "Worth Square Food Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Worth Square: Triangle",
-      "start": "2026-09-30T15:01:00.000-04:00",
-      "end": "2026-09-30T15:02:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Sep 30, 3:01 PM\u20133:02 PM at Worth Square: Triangle."
-    },
-    {
-      "id": "e-e65d7b2a58",
-      "title": "New Wave Pier Food Market",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "gramercy",
-      "borough": "manhattan",
-      "venue": "East River Esplanade 36th-38th: 36th-38th St",
-      "start": "2026-09-30T15:06:00.000-04:00",
-      "end": "2026-09-30T15:06:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Sep 30, 3:06 PM\u20133:06 PM at East River Esplanade 36th-38th: 36th-38th St."
-    },
-    {
-      "id": "e-062faae0d5",
-      "title": "PS/IS270Q Back to School Fest",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "lic",
-      "borough": "outer",
-      "venue": "234 STREET between MERRICK BOULEVARD and 133 AVENUE",
-      "start": "2026-09-30T15:15:00.000-04:00",
-      "end": "2026-09-30T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A street event hosted by Street Activity Permit Office. Takes place Wednesday, Sep 30, 3:15 PM\u20137:00 PM at 234 STREET between MERRICK BOULEVARD and 133 AVENUE."
-    },
-    {
-      "id": "e-1342f0b9fa",
-      "title": "Yoga Series Weekdays",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "chelsea",
-      "borough": "manhattan",
-      "venue": "Bella Abzug Park : Block 2 (between 34th street & 35th street)",
-      "start": "2026-09-30T17:30:00.000-04:00",
-      "end": "2026-09-30T19:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Sep 30, 5:30 PM\u20137:00 PM at Bella Abzug Park : Block 2 (between 34th street & 35th street)."
-    },
-    {
-      "id": "e-3aca8d7a5f",
-      "title": "Georgia Gardner Gray Performance",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "westvillage",
-      "borough": "manhattan",
-      "venue": "The High Line: The High Line",
-      "start": "2026-09-30T19:30:00.000-04:00",
-      "end": "2026-09-30T20:30:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Wednesday, Sep 30, 7:30 PM\u20138:30 PM at The High Line: The High Line."
     },
     {
       "id": "e-e67ab26495",
@@ -1684,6 +1083,29 @@
       "description": "A sidewalk sale hosted by Street Activity Permit Office. Takes place Thursday, Oct 1, 9:00 AM\u20137:00 PM at WEST HOUSTON STREET between THOMPSON STREET and MACDOUGAL STREET."
     },
     {
+      "id": "e-290d5bb54b",
+      "title": "WORLD TRADE CENTER COMMUNITY FAIR",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "fidi",
+      "borough": "manhattan",
+      "venue": "PARK PLACE between BROADWAY and CHURCH STREET",
+      "start": "2026-10-01T10:00:00.000-04:00",
+      "end": "2026-10-01T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street festival hosted by Street Activity Permit Office. Takes place Thursday, Oct 1, 10:00 AM\u20136:00 PM at PARK PLACE between BROADWAY and CHURCH STREET."
+    },
+    {
       "id": "e-4387a72b08",
       "title": "Deluxe carnival",
       "category": "outabout",
@@ -1729,6 +1151,53 @@
         }
       ],
       "description": "A plaza event hosted by Street Activity Permit Office. Takes place Thursday, Oct 1, 10:00 AM\u20136:00 PM at Roberto Clemente Plaza: Roberto Clemente Plaza 3 AVENUE between EAST  148 STREET and WILLIS AVENUE."
+    },
+    {
+      "id": "e-28a9689646",
+      "title": "Nature Mural Installation at Flatiron Plaza",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "chelsea",
+      "borough": "manhattan",
+      "venue": "Flatiron Plaza: 23/24 Broadway (North) Broadway between 23rd st and 24th st,  WEST   24 STREET between 5 AVENUE and 6 AVENUE",
+      "start": "2026-10-01T12:00:00.000-04:00",
+      "end": "2026-10-02T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Oct 1 \u2013 Oct 2 at Flatiron Plaza: 23/24 Broadway (North) Broadway between 23rd st and 24th st,  WEST   24 STREET between 5 AVENUE and 6 AVENUE."
+    },
+    {
+      "id": "e-2625b36815",
+      "title": "Sukkot Street Festival",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "EAST   14 STREET between AVENUE X and AVENUE Y",
+      "start": "2026-10-01T13:00:00.000-04:00",
+      "end": "2026-10-01T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Thursday, Oct 1, 1:00 PM\u20135:00 PM at EAST   14 STREET between AVENUE X and AVENUE Y."
     },
     {
       "id": "e-8de9f63e0a",
@@ -2243,6 +1712,54 @@
       "description": "A special event hosted by Parks Department. Takes place Friday, Oct 2, 9:30 AM\u20139:00 PM at Central Park: Merchants' Gate."
     },
     {
+      "id": "e-e19b4a1021",
+      "title": "Music Performances and Fitness Classes and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Herald Square Plaza: Herald Square (34/35 Broadway) Broadway between W. 34th Street and W. 35th Street",
+      "start": "2026-10-02T10:00:00.000-04:00",
+      "end": "2026-10-02T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Friday, Oct 2, 10:00 AM\u20139:00 PM at Herald Square Plaza: Herald Square (34/35 Broadway) Broadway between W. 34th Street and W. 35th Street."
+    },
+    {
+      "id": "e-7b2d97ca19",
+      "title": "Live Music and Dance Performances and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street",
+      "start": "2026-10-02T10:00:00.000-04:00",
+      "end": "2026-10-02T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Friday, Oct 2, 10:00 AM\u20139:00 PM at Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street."
+    },
+    {
       "id": "e-a68b6b6894",
       "title": "Fall Festival",
       "category": "outabout",
@@ -2626,6 +2143,29 @@
         }
       ],
       "description": "A special event hosted by Parks Department. Takes place Saturday, Oct 3, 8:00 AM\u201311:00 AM at Inwood Hill Park: Inwood Hill Trails."
+    },
+    {
+      "id": "e-a97b31135d",
+      "title": "Dyckman 5K Run",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Inwood Hill Park: Dyckman Picnic A",
+      "start": "2026-10-03T08:00:00.000-04:00",
+      "end": "2026-10-03T11:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, Oct 3, 8:00 AM\u201311:00 AM at Inwood Hill Park: Dyckman Picnic A."
     },
     {
       "id": "e-f3d632b8f8",
@@ -3184,6 +2724,29 @@
       "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 9:50 AM\u201311:00 AM at ALBEMARLE ROAD - MARLBOROUGH ROAD to ARGYLE ROAD: ALBEMARLE ROAD - MARLBOROUGH ROAD to ARGYLE ROAD."
     },
     {
+      "id": "e-769236ba61",
+      "title": "The Garden Link Up 3 Mile Run/Walk",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "LINDEN BOULEVARD between 227 STREET and 226 STREET,  LINDEN BOULEVARD between 227 STREET and SPRINGFIELD BOULEVARD,  LINDEN BOULEVARD between SPRINGFIELD BOULEVARD and 227 STREET,  LINDEN BOULEVARD between 227 STREET and 226 STREET",
+      "start": "2026-10-03T10:00:00.000-04:00",
+      "end": "2026-10-03T13:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A athletic race / tour hosted by Police Department. Takes place Saturday, Oct 3, 10:00 AM\u20131:00 PM at LINDEN BOULEVARD between 227 STREET and 226 STREET,  LINDEN BOULEVARD between 227 STREET and SPRINGFIELD BOULEVARD,  LINDEN BOULEVARD between SPRINGFIELD BOULEVARD and 227 STREET,  LINDEN BOULEVARD between 227 STREET and 226 STREET."
+    },
+    {
       "id": "e-42e73a94c8",
       "title": "Shine A Light Walk",
       "category": "outabout",
@@ -3231,6 +2794,30 @@
         }
       ],
       "description": "A parade hosted by Police Department. Takes place Saturday, Oct 3, 10:00 AM\u20136:00 PM at Holcombe Rucker Park: Playground Holcombe Rucker Park between Playground and ,  FREDERICK DOUGLASS BOULEVARD between WEST 155  and WEST 135 ST,  WEST  135 STREET between FREDERICK DOUGLASS BOULEVARD and ADAM CLAYTON POWELL JR BOULEVARD,  ADAM CLAYTON POWELL JR BOULEVARD between WEST  135 STREET and WEST  125 STREET,  WEST  125 STREET between ADAM CLAYTON POWELL JR BOULEVARD and LENOX AVENUE,  LENOX AVENUE between WEST  125 STREET and WEST  126 STREET,  WEST  126 STREET between LENOX AVENUE and ADAM CLAYTON POWELL JR BOULEVARD."
+    },
+    {
+      "id": "e-2fa20609ba",
+      "title": "2026 block party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "77 STREET between 4 AVENUE and 5 AVENUE",
+      "start": "2026-10-03T10:00:00.000-04:00",
+      "end": "2026-10-03T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 10:00 AM\u20137:00 PM at 77 STREET between 4 AVENUE and 5 AVENUE."
     },
     {
       "id": "e-f447129db4",
@@ -3304,6 +2891,29 @@
         }
       ],
       "description": "A single block festival hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 10:00 AM\u20136:00 PM at WEST   32 STREET between BROADWAY and 5 AVENUE."
+    },
+    {
+      "id": "e-960ff6b40c",
+      "title": "Thirty Sixth Annual West 104 Street Block Association Yard Sale",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "uws",
+      "borough": "manhattan",
+      "venue": "WEST  104 STREET between RIVERSIDE DRIVE and WEST END AVENUE",
+      "start": "2026-10-03T10:00:00.000-04:00",
+      "end": "2026-10-03T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A single block festival hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 10:00 AM\u20136:00 PM at WEST  104 STREET between RIVERSIDE DRIVE and WEST END AVENUE."
     },
     {
       "id": "e-845f357661",
@@ -3640,6 +3250,30 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 11:00 AM\u20138:00 PM at PRESIDENT STREET between COLUMBIA STREET and VAN BRUNT STREET."
     },
     {
+      "id": "e-c955fee305",
+      "title": "Vanderbilt Open Street October 2026 Trick-or-Streets",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "crownhts",
+      "borough": "outer",
+      "venue": "VANDERBILT AVENUE - ATLANTIC AVENUE to PARK PLACE: VANDERBILT AVENUE - ATLANTIC AVENUE to PARK PLACE",
+      "start": "2026-10-03T11:00:00.000-04:00",
+      "end": "2026-10-03T23:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 11:00 AM\u201311:00 PM at VANDERBILT AVENUE - ATLANTIC AVENUE to PARK PLACE: VANDERBILT AVENUE - ATLANTIC AVENUE to PARK PLACE."
+    },
+    {
       "id": "e-ee1bb0f66d",
       "title": "8th Street Block Party",
       "category": "outabout",
@@ -3664,6 +3298,30 @@
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 11:00 AM\u20136:30 PM at 8 STREET between 7 AVENUE and 8 AVENUE."
     },
     {
+      "id": "e-c1936bb810",
+      "title": "University Settlement Society of New York 140th Anniversary Community Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "parkslope",
+      "borough": "outer",
+      "venue": "BUTLER STREET between 4 AVENUE and QUISENBURY DRIVE",
+      "start": "2026-10-03T11:00:00.000-04:00",
+      "end": "2026-10-03T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 11:00 AM\u20135:00 PM at BUTLER STREET between 4 AVENUE and QUISENBURY DRIVE."
+    },
+    {
       "id": "e-1e86652001",
       "title": "Brooklyn Friends School Fall Block Party",
       "category": "outabout",
@@ -3686,6 +3344,30 @@
         }
       ],
       "description": "A street event hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 11:00 AM\u20132:00 PM at PEARL STREET between WILLOUGHBY STREET and DEAD END."
+    },
+    {
+      "id": "e-8957810c67",
+      "title": "2026 Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "parkslope",
+      "borough": "outer",
+      "venue": "ST MARKS AVENUE between 5 AVENUE and 6 AVENUE",
+      "start": "2026-10-03T11:00:00.000-04:00",
+      "end": "2026-10-03T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 11:00 AM\u20135:00 PM at ST MARKS AVENUE between 5 AVENUE and 6 AVENUE."
     },
     {
       "id": "e-6f624a11e6",
@@ -4023,6 +3705,53 @@
       "description": "A parade hosted by Police Department. Takes place Saturday, Oct 3, 12:00 PM\u20133:00 PM at WEST   38 STREET between BROADWAY and 5 AVENUE,  6 AVENUE between WEST   38 STREET and WEST   27 STREET,  WEST   27 STREET between 6 AVENUE and BROADWAY,  6 AVENUE between WEST   32 STREET and WEST   31 STREET."
     },
     {
+      "id": "e-87ee73fdbb",
+      "title": "Summer on the Hudson Little Red Lighthouse Festival",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Fort Washington Park: Little Red Lighthouse Waterfront   ,Fort Washington Park: Little Red Lighthouse Picnic Area",
+      "start": "2026-10-03T12:00:00.000-04:00",
+      "end": "2026-10-03T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, Oct 3, 12:00 PM\u20134:00 PM at Fort Washington Park: Little Red Lighthouse Waterfront   ,Fort Washington Park: Little Red Lighthouse Picnic Area."
+    },
+    {
+      "id": "e-1f8e3efa65",
+      "title": "81st Street Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "81 STREET between 10 AVENUE and 11 AVENUE",
+      "start": "2026-10-03T12:00:00.000-04:00",
+      "end": "2026-10-03T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 12:00 PM\u20139:00 PM at 81 STREET between 10 AVENUE and 11 AVENUE."
+    },
+    {
       "id": "e-6119acecd1",
       "title": "Green Gems Block Party",
       "category": "outabout",
@@ -4045,6 +3774,30 @@
         }
       ],
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 12:00 PM\u20137:00 PM at FOUNTAIN AVENUE between GLENMORE AVENUE and LIBERTY AVENUE."
+    },
+    {
+      "id": "e-12bb744a17",
+      "title": "Franklin Avenue Open Streets",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "crownhts",
+      "borough": "outer",
+      "venue": "FRANKLIN AVENUE between DEAN STREET and EASTERN PARKWAY",
+      "start": "2026-10-03T12:00:00.000-04:00",
+      "end": "2026-10-03T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 12:00 PM\u20136:00 PM at FRANKLIN AVENUE between DEAN STREET and EASTERN PARKWAY."
     },
     {
       "id": "e-c7a27737e4",
@@ -4072,6 +3825,30 @@
       "description": "A special event hosted by Parks Department. Takes place Saturday, Oct 3, 12:00 PM\u20132:00 PM at Rockaway Beach and Boardwalk: Beach 94th Street."
     },
     {
+      "id": "e-13c1f8b859",
+      "title": "East 70th street 1st Annual Block party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "EAST   70 STREET between AVENUE W and AVENUE X",
+      "start": "2026-10-03T12:00:00.000-04:00",
+      "end": "2026-10-03T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 12:00 PM\u20139:00 PM at EAST   70 STREET between AVENUE W and AVENUE X."
+    },
+    {
       "id": "e-5a47192483",
       "title": "Desfile Nacional Mariano de Nueva York",
       "category": "outabout",
@@ -4097,6 +3874,30 @@
       "description": "A parade hosted by Police Department. Takes place Saturday, Oct 3, 12:00 PM\u20133:00 PM at AMSTERDAM AVENUE between WEST   86 STREET and WEST  110 STREET,  AMSTERDAM AVENUE between WEST   86 STREET and WEST  110 STREET,  AMSTERDAM AVENUE between WEST   86 STREET and WEST  110 STREET."
     },
     {
+      "id": "e-85153e0be0",
+      "title": "Harvest Fair",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "bushwick",
+      "borough": "outer",
+      "venue": "Herbert Von King Park: Amphitheater   ,Herbert Von King Park: Large Lawn ,Herbert Von King Park: Flagpole Picnic Area (No Grilling) ,Herbert Von King Park: Lafayette Avenue BBQ Area near Baseball Field",
+      "start": "2026-10-03T12:00:00.000-04:00",
+      "end": "2026-10-03T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, Oct 3, 12:00 PM\u20134:00 PM at Herbert Von King Park: Amphitheater   ,Herbert Von King Park: Large Lawn ,Herbert Von King Park: Flagpole Picnic Area (No Grilling) ,Herbert Von King Park: Lafayette Avenue BBQ Area near Baseball Field."
+    },
+    {
       "id": "e-5a789a8e00",
       "title": "2nd Street Block Party",
       "category": "outabout",
@@ -4119,6 +3920,30 @@
         }
       ],
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 12:00 PM\u20137:00 PM at 2 STREET between 6 AVENUE and 7 AVENUE."
+    },
+    {
+      "id": "e-c6bca46b19",
+      "title": "Mackay Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "MACKAY PLACE between COLONIAL ROAD and NARROWS AVENUE",
+      "start": "2026-10-03T12:00:00.000-04:00",
+      "end": "2026-10-03T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 12:00 PM\u20137:00 PM at MACKAY PLACE between COLONIAL ROAD and NARROWS AVENUE."
     },
     {
       "id": "e-0bc2e5354f",
@@ -4167,6 +3992,30 @@
         }
       ],
       "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 12:00 PM\u20139:00 PM at 3 STREET between SMITH STREET and HOYT STREET."
+    },
+    {
+      "id": "e-1aaa610f5e",
+      "title": "Fall Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "parkslope",
+      "borough": "outer",
+      "venue": "13 STREET between FOURTH AVENUE and FIFTH AVENUE",
+      "start": "2026-10-03T12:00:00.000-04:00",
+      "end": "2026-10-03T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Saturday, Oct 3, 12:00 PM\u20139:00 PM at 13 STREET between FOURTH AVENUE and FIFTH AVENUE."
     },
     {
       "id": "e-3d0e489bae",
@@ -4691,6 +4540,29 @@
         }
       ],
       "description": "A athletic race / tour hosted by Police Department. Takes place Sunday, Oct 4, 8:00 AM\u20135:00 PM at GRAND CONCOURSE between EAST  161 STREET and EAST  164 STREET,  GRAND CONCOURSE between EAST  161 STREET and EAST  144 STREET,  EAST  144 STREET between GRAND CONCOURSE and EAST  143 STREET,  EAST  143 STREET between EAST  144 STREET and THIRD AVENUE,  THIRD AVENUE between EAST  143 STREET and EAST  144 STREET,  EAST  144 STREET between THIRD AVENUE and ST ANNS AVENUE,  ST ANNS AVENUE between EAST  144 STREET and EAST  156 STREET,  EAST  156 STREET between ST ANNS AVENUE and PROSPECT AVENUE,  PROSPECT AVENUE between EAST  156 STREET and BOSTON ROAD,  BOSTON ROAD between PROSPECT AVENUE and CHARLOTTE STREET,  CHARLOTTE STREET between BOSTON ROAD and JENNINGS STREET,  JENNINGS STREET between CHARLOTTE STREET and LONGFELLOW AVENUE,  LONGFELLOW AVENUE between JENNINGS STREET and EAST  173 STREET,  EAST  173 STREET between LONGFELLOW AVENUE and WEST FARMS ROAD,  WEST FARMS ROAD between EAST  173 STREET and BOSTON ROAD,  BOSTON ROAD between WEST FARMS ROAD and BRONX PARK SOUTH,  BRONX PARK SOUTH between BOSTON ROAD and CROTONA PARKWAY,  EAST  182 STREET between CROTONA PARKWAY and SOUTHERN BOULEVARD,  SOUTHERN BOULEVARD between EAST  182 STREET and BEDFORD PARK BOULEVARD, 2900 SOUTHERN BOULEVARD."
+    },
+    {
+      "id": "e-69f927d43a",
+      "title": "NYRR Open Run at Marine Park",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Marine Park: Lawn (Fillmore Avenue)",
+      "start": "2026-10-04T08:00:00.000-04:00",
+      "end": "2026-10-04T11:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 8:00 AM\u201311:00 AM at Marine Park: Lawn (Fillmore Avenue)."
     },
     {
       "id": "e-b132e795ac",
@@ -5369,710 +5241,869 @@
       "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 10:00 AM\u201312:00 PM at Cadman Plaza Park: Monument Base."
     },
     {
-      "id": "e-53eaee7042",
-      "title": "David Ostwald's Louis Armstrong Eternity Band",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-78c9c4e33c",
+      "title": "Run Your City - Belmont",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "g-jazz"
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-09-30T21:30:00Z",
-      "end": "2026-10-01T00:30:00+00:00",
-      "price": "$$",
+      "venue": "Williamsbridge Oval: Scenic Tables   ,Williamsbridge Oval: Track-01",
+      "start": "2026-10-04T10:30:00.000-04:00",
+      "end": "2026-10-04T12:30:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/david-ostwalds-louis-armstrong-eternity-birdland-theater-tickets/14881283"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland Theater on Wednesday, Sep 30 at 5:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 10:30 AM\u201312:30 PM at Williamsbridge Oval: Scenic Tables   ,Williamsbridge Oval: Track-01."
     },
     {
-      "id": "e-caa973e2ca",
-      "title": "Rise Against",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-2c8e09ca94",
+      "title": "17th Annual Epiphany Walk",
+      "category": "outabout",
+      "subcategory": "parades",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor",
+        "parade"
+      ],
+      "neighborhood": "gramercy",
+      "borough": "manhattan",
+      "venue": "EAST   22 STREET between 2 AVENUE and 3 AVENUE,  EAST   22 STREET between 2 AVENUE and 1 AVENUE,  PETER COOPER ROAD between 1 AVENUE and AVENUE C,  EAST   23 STREET between ASSER LEVY PLACE and AVENUE C,  AVENUE C between EAST   23 STREET and AVENUE C LOOP,  STUYVESANT OVAL between AVE C LOOP and 1 AVE LOOP ,  1 AVENUE between EAST   18 STREET and EAST   20 STREET,  EAST   20 STREET between 1 AVENUE and 2 AVENUE,  2 AVENUE between EAST   20 STREET and EAST   22 STREET,  EAST   22 STREET between 2 AVENUE and 3 AVENUE",
+      "start": "2026-10-04T10:30:00.000-04:00",
+      "end": "2026-10-04T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A parade hosted by Police Department. Takes place Sunday, Oct 4, 10:30 AM\u20134:00 PM at EAST   22 STREET between 2 AVENUE and 3 AVENUE,  EAST   22 STREET between 2 AVENUE and 1 AVENUE,  PETER COOPER ROAD between 1 AVENUE and AVENUE C,  EAST   23 STREET between ASSER LEVY PLACE and AVENUE C,  AVENUE C between EAST   23 STREET and AVENUE C LOOP,  STUYVESANT OVAL between AVE C LOOP and 1 AVE LOOP ,  1 AVENUE between EAST   18 STREET and EAST   20 STREET,  EAST   20 STREET between 1 AVENUE and 2 AVENUE,  2 AVENUE between EAST   20 STREET and EAST   22 STREET,  EAST   22 STREET between 2 AVENUE and 3 AVENUE."
+    },
+    {
+      "id": "e-66f0f8f2bd",
+      "title": "2026 Chinese MOON CAKE Festival",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "outdoor",
+        "parade"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "8 AVENUE between 59 STREET and 60 STREET,  8 AVENUE between 50 STREET and 59 STREET,  8 AVENUE between 59 STREET and 60 STREET",
+      "start": "2026-10-04T11:00:00.000-04:00",
+      "end": "2026-10-04T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A parade hosted by Police Department. Takes place Sunday, Oct 4, 11:00 AM\u20133:00 PM at 8 AVENUE between 59 STREET and 60 STREET,  8 AVENUE between 50 STREET and 59 STREET,  8 AVENUE between 59 STREET and 60 STREET."
+    },
+    {
+      "id": "e-4e6e09077f",
+      "title": "BRAKING AIDS Ride",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "180 CABRINI BOULEVARD, WEST  180 STREET between CABRINI BOULEVARD and ST NICHOLAS AVENUE,  ST NICHOLAS AVENUE between WEST  180 STREET and BROADWAY,  BROADWAY between ST NICHOLAS AVENUE and WEST  165 STREET,  WEST  165 STREET between BROADWAY and RIVERSIDE DRIVE,  RIVERSIDE DRIVE between WEST  165 STREET and WEST  137 STREET, Riverside Park: Riverbank-RSP",
+      "start": "2026-10-04T11:00:00.000-04:00",
+      "end": "2026-10-04T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A athletic race / tour hosted by Police Department. Takes place Sunday, Oct 4, 11:00 AM\u20136:00 PM at 180 CABRINI BOULEVARD, WEST  180 STREET between CABRINI BOULEVARD and ST NICHOLAS AVENUE,  ST NICHOLAS AVENUE between WEST  180 STREET and BROADWAY,  BROADWAY between ST NICHOLAS AVENUE and WEST  165 STREET,  WEST  165 STREET between BROADWAY and RIVERSIDE DRIVE,  RIVERSIDE DRIVE between WEST  165 STREET and WEST  137 STREET, Riverside Park: Riverbank-RSP."
+    },
+    {
+      "id": "e-d337c57223",
+      "title": "Cancer Awareness Walk",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Brookville Park: Large Event Area",
+      "start": "2026-10-04T11:00:00.000-04:00",
+      "end": "2026-10-04T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 11:00 AM\u20135:00 PM at Brookville Park: Large Event Area."
+    },
+    {
+      "id": "e-e7d44ea072",
+      "title": "PS 527 Fall Fair",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "ues",
+      "borough": "manhattan",
+      "venue": "EAST   91 STREET between 1 AVENUE and 2 AVENUE",
+      "start": "2026-10-04T11:00:00.000-04:00",
+      "end": "2026-10-04T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Sunday, Oct 4, 11:00 AM\u20133:00 PM at EAST   91 STREET between 1 AVENUE and 2 AVENUE."
+    },
+    {
+      "id": "e-1a5ae315b9",
+      "title": "17th Street 2026 Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "redhook",
+      "borough": "outer",
+      "venue": "17 STREET between PROSPECT PARK WEST and 10 AVENUE",
+      "start": "2026-10-04T11:00:00.000-04:00",
+      "end": "2026-10-04T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Sunday, Oct 4, 11:00 AM\u20137:00 PM at 17 STREET between PROSPECT PARK WEST and 10 AVENUE."
+    },
+    {
+      "id": "e-3a8cf8e19f",
+      "title": "Tiffany Place Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "parkslope",
+      "borough": "outer",
+      "venue": "TIFFANY PLACE between DEGRAW STREET and KANE STREET",
+      "start": "2026-10-04T11:00:00.000-04:00",
+      "end": "2026-10-04T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Sunday, Oct 4, 11:00 AM\u20136:00 PM at TIFFANY PLACE between DEGRAW STREET and KANE STREET."
+    },
+    {
+      "id": "e-94d08a5960",
+      "title": "Congo Square Vendor's Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Prospect Park: Drummer's Grove Market Place",
+      "start": "2026-10-04T11:00:00.000-04:00",
+      "end": "2026-10-04T20:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 11:00 AM\u20138:00 PM at Prospect Park: Drummer's Grove Market Place."
+    },
+    {
+      "id": "e-dd847c4955",
+      "title": "Austism Speaks Empower Walk",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "outdoor",
+        "parade"
       ],
       "neighborhood": "fidi",
       "borough": "manhattan",
-      "venue": "The Rooftop at Pier 17",
-      "start": "2026-09-30T22:00:00Z",
-      "end": "2026-10-01T01:00:00+00:00",
-      "price": "$$",
+      "venue": "89 SOUTH STREET, SOUTH STREET between JOHN STREET and FULTON STREET,  WHITEHALL STREET between SOUTH STREET and STATE STREET,  BATTERY PLACE between STATE STREET and 2 PLACE,  2 PLACE between BATTERY PLACE and LITTLE WEST STREET,  BATTERY PLACE between 2 PLACE and STATE STREET,  STATE STREET between BATTERY PLACE and WHITEHALL STREET,  SOUTH STREET between FULTON STREET and WHITEHALL STREET,  SOUTH STREET between JOHN STREET and FULTON STREET",
+      "start": "2026-10-04T11:30:00.000-04:00",
+      "end": "2026-10-04T12:30:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-UZz"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.axs.com/events/1362384/rise-against-tickets?skin=therooftopatpier17"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at The Rooftop at Pier 17 on Wednesday, Sep 30 at 6:00 PM. Tickets via Ticketmaster."
+      "description": "A parade hosted by Police Department. Takes place Sunday, Oct 4, 11:30 AM\u201312:30 PM at 89 SOUTH STREET, SOUTH STREET between JOHN STREET and FULTON STREET,  WHITEHALL STREET between SOUTH STREET and STATE STREET,  BATTERY PLACE between STATE STREET and 2 PLACE,  2 PLACE between BATTERY PLACE and LITTLE WEST STREET,  BATTERY PLACE between 2 PLACE and STATE STREET,  STATE STREET between BATTERY PLACE and WHITEHALL STREET,  SOUTH STREET between FULTON STREET and WHITEHALL STREET,  SOUTH STREET between JOHN STREET and FULTON STREET."
     },
     {
-      "id": "e-41ece9d6f1",
-      "title": "Bear Ghost",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-fcbd6a23a0",
+      "title": "83 street block party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "gramercy",
-      "borough": "manhattan",
-      "venue": "Gramercy Theatre",
-      "start": "2026-09-30T22:00:00Z",
-      "end": "2026-10-01T01:00:00+00:00",
-      "price": "$$",
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "83 STREET between 10 AVENUE and 11 AVENUE",
+      "start": "2026-10-04T12:00:00.000-04:00",
+      "end": "2026-10-04T20:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/bear-ghost-new-york-new-york-09-30-2026/event/000064BCCF425874"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Gramercy Theatre on Wednesday, Sep 30 at 6:00 PM. Tickets via Ticketmaster."
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Sunday, Oct 4, 12:00 PM\u20138:00 PM at 83 STREET between 10 AVENUE and 11 AVENUE."
     },
     {
-      "id": "e-fcbcff732d",
-      "title": "Ben Kessler",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-36afa3f3ae",
+      "title": "International music festival",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "g-indie"
+        "festival"
       ],
-      "neighborhood": "les",
-      "borough": "manhattan",
-      "venue": "Mercury Lounge",
-      "start": "2026-09-30T22:00:00Z",
-      "end": "2026-10-01T01:00:00+00:00",
-      "price": "$$",
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Roy Wilkins Park: Performance Space",
+      "start": "2026-10-04T12:00:00.000-04:00",
+      "end": "2026-10-04T18:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/ben-kessler-new-york-new-york-09-30-2026/event/000064EDCCAB44A7"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Mercury Lounge on Wednesday, Sep 30 at 6:00 PM. Tickets via Ticketmaster."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 12:00 PM\u20136:00 PM at Roy Wilkins Park: Performance Space."
     },
     {
-      "id": "e-6a32492c84",
-      "title": "Maggie FM, Shearing, Raybody",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-692e08d78f",
+      "title": "CM Ariola Fall Festival",
+      "category": "outabout",
+      "subcategory": "festival",
       "tags": [
-        "g-indie"
+        "festival"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Night Club 101",
-      "start": "2026-09-30T22:30:00Z",
-      "end": "2026-10-01T01:30:00+00:00",
-      "price": "$",
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Rockaway Beach and Boardwalk: Beach 116th Street Island",
+      "start": "2026-10-04T12:00:00.000-04:00",
+      "end": "2026-10-04T18:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/maggie-fm-shearing-raybody-night-club-101-tickets/15008453"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Night Club 101 on Wednesday, Sep 30 at 6:30 PM. Tickets via Ticketmaster, from $20\u2013$20."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 12:00 PM\u20136:00 PM at Rockaway Beach and Boardwalk: Beach 116th Street Island."
     },
     {
-      "id": "e-b1bb4efc5a",
-      "title": "The Hot Sardines",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-efa6762531",
+      "title": "73rd Street Annual Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "music"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland",
-      "start": "2026-09-30T23:00:00Z",
-      "end": "2026-10-01T02:00:00+00:00",
-      "price": "$$",
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "73 STREET between 3 AVENUE and RIDGE BOULEVARD",
+      "start": "2026-10-04T12:00:00.000-04:00",
+      "end": "2026-10-04T19:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PaOo"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland on Wednesday, Sep 30 at 7:00 PM. Tickets via Ticketmaster."
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Sunday, Oct 4, 12:00 PM\u20137:00 PM at 73 STREET between 3 AVENUE and RIDGE BOULEVARD."
     },
     {
-      "id": "e-07e298cebc",
-      "title": "New York Philharmonic: Gustavo Dudamel???s Inaugural Gala",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-b53047270a",
+      "title": "Japan Fun Fest",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-classical"
-      ],
-      "neighborhood": "uws",
-      "borough": "manhattan",
-      "venue": "David Geffen Hall",
-      "start": "2026-09-30T23:00:00Z",
-      "end": "2026-10-01T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ-oV"
-        }
-      ],
-      "description": "Live show at David Geffen Hall on Wednesday, Sep 30 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-3dd54561e4",
-      "title": "Buffalo Traffic Jam - Pictures of You Tour",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-folk"
-      ],
-      "neighborhood": "gramercy",
-      "borough": "manhattan",
-      "venue": "Irving Plaza Powered By Verizon 5G",
-      "start": "2026-09-30T23:00:00Z",
-      "end": "2026-10-01T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/buffalo-traffic-jam-pictures-of-you-new-york-new-york-09-30-2026/event/000064AD9DA7CB4B"
-        }
-      ],
-      "description": "Live show at Irving Plaza Powered By Verizon 5G on Wednesday, Sep 30 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-5c3116109e",
-      "title": "Seasick Steve",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "les",
-      "borough": "manhattan",
-      "venue": "Bowery Ballroom",
-      "start": "2026-09-30T23:00:00Z",
-      "end": "2026-10-01T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/seasick-steve-new-york-new-york-09-30-2026/event/00006512B9822AE2"
-        }
-      ],
-      "description": "Live show at Bowery Ballroom on Wednesday, Sep 30 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-3f24907eba",
-      "title": "The Hot Sardines",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Jazz Club",
-      "start": "2026-09-30T23:00:00Z",
-      "end": "2026-10-01T02:00:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/the-hot-sardines-birdland-jazz-club-tickets/14911383"
-        }
-      ],
-      "description": "Live show at Birdland Jazz Club on Wednesday, Sep 30 at 7:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
-    },
-    {
-      "id": "e-6006efc6f9",
-      "title": "Litvar | Bill Divers | Grant Claytor",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Berlin",
-      "start": "2026-09-30T23:00:00Z",
-      "end": "2026-10-01T02:00:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/litvar-bill-divers-berlin-tickets/14324284"
-        }
-      ],
-      "description": "Live show at Berlin on Wednesday, Sep 30 at 7:00 PM. Tickets via Ticketmaster, from $15\u2013$15."
-    },
-    {
-      "id": "e-0b6a1a064e",
-      "title": "BMI Acoustic Lounge Presents Bentley Robles and Anne Tello",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Lucinda's",
-      "start": "2026-09-30T23:00:00Z",
-      "end": "2026-10-01T02:00:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/bmi-acoustic-lounge-presents-bentley-lucindas-tickets/14316604"
-        }
-      ],
-      "description": "Live show at Lucinda's on Wednesday, Sep 30 at 7:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
-    },
-    {
-      "id": "e-f31afcfc9c",
-      "title": "Chloe Tang | Cecilian",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Bowery Palace",
-      "start": "2026-09-30T23:30:00Z",
-      "end": "2026-10-01T02:30:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/chloe-tang-cecilian-bowery-palace-tickets/15020613"
-        }
-      ],
-      "description": "Live show at Bowery Palace on Wednesday, Sep 30 at 7:30 PM. Tickets via Ticketmaster, from $22\u2013$22."
-    },
-    {
-      "id": "e-4c807bd379",
-      "title": "Tom Jones: Come Gather Round Tour",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "uws",
-      "borough": "manhattan",
-      "venue": "Beacon Theatre",
-      "start": "2026-10-01T00:00:00Z",
-      "end": "2026-10-01T03:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/tom-jones-come-gather-round-tour-new-york-new-york-09-30-2026/event/3B0064B5A5023995"
-        }
-      ],
-      "description": "Live show at Beacon Theatre on Wednesday, Sep 30 at 8:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-927f5efd2a",
-      "title": "Harry Styles: Together, Together",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Madison Square Garden",
-      "start": "2026-10-01T00:00:00Z",
-      "end": "2026-10-01T03:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/harry-styles-together-together-new-york-new-york-09-30-2026/event/3B00643505768283"
-        }
-      ],
-      "description": "Live show at Madison Square Garden on Wednesday, Sep 30 at 8:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-8187ca7898",
-      "title": "Jacob Collier",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Carnegie Hall - NY",
-      "start": "2026-10-01T00:00:00Z",
-      "end": "2026-10-01T03:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-EQk"
-        }
-      ],
-      "description": "Live show at Carnegie Hall - NY on Wednesday, Sep 30 at 8:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-427a064ca2",
-      "title": "Epik High (16 and Over)",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Terminal 5",
-      "start": "2026-10-01T00:00:00Z",
-      "end": "2026-10-01T03:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P3PO"
-        }
-      ],
-      "description": "Live show at Terminal 5 on Wednesday, Sep 30 at 8:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-729710ab54",
-      "title": "Frog (16 and Over)",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "eastvillage",
       "borough": "manhattan",
-      "venue": "Webster Hall",
-      "start": "2026-10-01T00:00:00Z",
-      "end": "2026-10-01T03:00:00+00:00",
-      "price": "$$",
+      "venue": "Corlears Hook Park: Corlears Hook Park",
+      "start": "2026-10-04T12:00:00.000-04:00",
+      "end": "2026-10-04T16:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PV-f"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Webster Hall on Wednesday, Sep 30 at 8:00 PM. Tickets via Ticketmaster."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 12:00 PM\u20134:00 PM at Corlears Hook Park: Corlears Hook Park."
     },
     {
-      "id": "e-65953c2a8f",
-      "title": "Magnus Ferrell",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-b821a9db0b",
+      "title": "Annual Fashion Week Brooklyn - Block Party Family Day",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-hiphop"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "westvillage",
+      "neighborhood": "parkslope",
+      "borough": "outer",
+      "venue": "7 STREET between 4 AVENUE and 5 AVENUE",
+      "start": "2026-10-04T12:00:00.000-04:00",
+      "end": "2026-10-04T18:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Sunday, Oct 4, 12:00 PM\u20136:00 PM at 7 STREET between 4 AVENUE and 5 AVENUE."
+    },
+    {
+      "id": "e-d7cf899404",
+      "title": "Madison Avenue Presbyterian Church Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "ues",
       "borough": "manhattan",
-      "venue": "Blue Note Jazz Club - NY",
-      "start": "2026-10-01T00:00:00Z",
-      "end": "2026-10-01T03:00:00+00:00",
-      "price": "$$",
+      "venue": "EAST   73 STREET between PARK AVENUE and MADISON AVENUE",
+      "start": "2026-10-04T12:00:00.000-04:00",
+      "end": "2026-10-04T15:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvP7e"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Blue Note Jazz Club - NY on Wednesday, Sep 30 at 8:00 PM. Tickets via Ticketmaster."
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Sunday, Oct 4, 12:00 PM\u20133:00 PM at EAST   73 STREET between PARK AVENUE and MADISON AVENUE."
     },
     {
-      "id": "e-0d8fc31c05",
-      "title": "Jacob Collier - The Light For Days Tour - A Series Of Solo Performance",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-fbd59e0ae0",
+      "title": "Bergen Street Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "music"
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "parkslope",
+      "borough": "outer",
+      "venue": "BERGEN STREET between 4 AVENUE and 5 AVENUE",
+      "start": "2026-10-04T12:00:00.000-04:00",
+      "end": "2026-10-04T17:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Sunday, Oct 4, 12:00 PM\u20135:00 PM at BERGEN STREET between 4 AVENUE and 5 AVENUE."
+    },
+    {
+      "id": "e-b8bfae9767",
+      "title": "89th Pulaski Day Parade",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "outdoor",
+        "parade"
       ],
       "neighborhood": "midtownW",
       "borough": "manhattan",
-      "venue": "Carnegie Hall",
-      "start": "2026-10-01T00:00:00Z",
-      "end": "2026-10-01T03:00:00+00:00",
-      "price": "$$",
+      "venue": "EAST   36 STREET between 5 AVENUE and MADISON AVENUE,  WEST   36 STREET between 5 AVENUE and AVENUE OF THE AMERICAS,  EAST   37 STREET between 5 AVENUE and MADISON AVENUE,  WEST   37 STREET between 5 AVENUE and AVENUE OF THE AMERICAS,  EAST   38 STREET between 5 AVENUE and MADISON AVENUE,  WEST   38 STREET between 5 AVENUE and AVENUE OF THE AMERICAS,  EAST   39 STREET between 5 AVENUE and MADISON AVENUE,  WEST   39 STREET between 5 AVENUE and AVENUE OF THE AMERICAS,  EAST   41 STREET between 5 AVENUE and PARK AVENUE,  5 AVENUE between EAST   36 STREET and WEST   54 STREET,  EAST   54 STREET between 5 AVENUE and MADISON AVENUE,  WEST   54 STREET between 5 AVENUE and AVENUE OF THE AMERICAS",
+      "start": "2026-10-04T12:00:00.000-04:00",
+      "end": "2026-10-04T17:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.carnegiehall.org/calendar/2026/09/30/jacob-collier-0800pm"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Carnegie Hall on Wednesday, Sep 30 at 8:00 PM. Tickets via Ticketmaster."
+      "description": "A parade hosted by Police Department. Takes place Sunday, Oct 4, 12:00 PM\u20135:00 PM at EAST   36 STREET between 5 AVENUE and MADISON AVENUE,  WEST   36 STREET between 5 AVENUE and AVENUE OF THE AMERICAS,  EAST   37 STREET between 5 AVENUE and MADISON AVENUE,  WEST   37 STREET between 5 AVENUE and AVENUE OF THE AMERICAS,  EAST   38 STREET between 5 AVENUE and MADISON AVENUE,  WEST   38 STREET between 5 AVENUE and AVENUE OF THE AMERICAS,  EAST   39 STREET between 5 AVENUE and MADISON AVENUE,  WEST   39 STREET between 5 AVENUE and AVENUE OF THE AMERICAS,  EAST   41 STREET between 5 AVENUE and PARK AVENUE,  5 AVENUE between EAST   36 STREET and WEST   54 STREET,  EAST   54 STREET between 5 AVENUE and MADISON AVENUE,  WEST   54 STREET between 5 AVENUE and AVENUE OF THE AMERICAS."
     },
     {
-      "id": "e-c1b98d5f45",
-      "title": "Jenny Owen Youngs, Northcote",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-a8e5a4db57",
+      "title": "Queens Dominican Parade",
+      "category": "outabout",
+      "subcategory": "parades",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor",
+        "parade"
       ],
-      "neighborhood": "midtownE",
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "69 STREET between 37 AVENUE and 34 AVENUE,  37 AVENUE between 69TH STREET and 86TH STREET,  86 STREET between 37 AVENUE and 35 AVENUE, 85-08 37 AVENUE",
+      "start": "2026-10-04T12:00:00.000-04:00",
+      "end": "2026-10-04T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A parade hosted by Police Department. Takes place Sunday, Oct 4, 12:00 PM\u20133:00 PM at 69 STREET between 37 AVENUE and 34 AVENUE,  37 AVENUE between 69TH STREET and 86TH STREET,  86 STREET between 37 AVENUE and 35 AVENUE, 85-08 37 AVENUE."
+    },
+    {
+      "id": "e-4d9ffe3143",
+      "title": "31st Annual Mahatma Gandhi Peach March",
+      "category": "outabout",
+      "subcategory": "parades",
+      "tags": [
+        "free",
+        "outdoor",
+        "parade"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "LIBERTY AVENUE between LEFFERTS BOULEVARD and 120 STREET,  LIBERTY AVENUE between 120 STREET and 126 STREET, Phil \"Scooter\" Rizzuto Park / Smokey Oval: Phil \"Scooter\" Rizzuto Park , 126 STREET between LIBERTY AVENUE and 95 AVENUE",
+      "start": "2026-10-04T12:00:00.000-04:00",
+      "end": "2026-10-04T16:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A parade hosted by Police Department. Takes place Sunday, Oct 4, 12:00 PM\u20134:00 PM at LIBERTY AVENUE between LEFFERTS BOULEVARD and 120 STREET,  LIBERTY AVENUE between 120 STREET and 126 STREET, Phil \"Scooter\" Rizzuto Park / Smokey Oval: Phil \"Scooter\" Rizzuto Park , 126 STREET between LIBERTY AVENUE and 95 AVENUE."
+    },
+    {
+      "id": "e-ef332a4583",
+      "title": "Parish Festival",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "uws",
       "borough": "manhattan",
-      "venue": "Cafe Wha?",
-      "start": "2026-10-01T00:00:00Z",
-      "end": "2026-10-01T03:00:00+00:00",
-      "price": "$$",
+      "venue": "WEST  142 STREET between AMSTERDAM AVENUE and CONVENT AVENUE",
+      "start": "2026-10-04T13:00:00.000-04:00",
+      "end": "2026-10-04T17:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/jenny-owen-youngs-northcote-cafe-wha-tickets/14915293"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Cafe Wha? on Wednesday, Sep 30 at 8:00 PM. Tickets via Ticketmaster, from $26\u2013$38."
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Sunday, Oct 4, 1:00 PM\u20135:00 PM at WEST  142 STREET between AMSTERDAM AVENUE and CONVENT AVENUE."
     },
     {
-      "id": "e-bec9c90d59",
-      "title": "Magnus Ferrell",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-4d8f324f17",
+      "title": "DJ MAGIC Breast Cancer Awareness Ride",
+      "category": "outabout",
+      "subcategory": "parades",
       "tags": [
-        "g-hiphop"
+        "free",
+        "outdoor",
+        "parade"
       ],
-      "neighborhood": "westvillage",
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "FLATBUSH AVENUE between AVENUE T and AVENUE U,  FLATBUSH AVENUE between AVENUE T and SHORE PARKWAY,  SHORE PARKWAY between FLATBUSH AVENUE and EXIT 19 ROUTE 878,  ROUTE 878 between SHORE PARKWAY and I 678,  VAN WYCK EXPRESSWAY - I678N between ROUTE 678 and LIBERTY AVENUE,  VAN WYCK EXPRESSWAY SERVICE ROAD between I 678 and LIBERTY AVENUE,  LIBERTY AVENUE between VAN WYCK EXPRESSWAY SERVICE ROAD and 173RD STREET,  173RD ROAD between LIBERTY AVENUE and 103 ROAD,  173RD ROAD between LIBERTY AVENUE and 103 ROAD",
+      "start": "2026-10-04T14:00:00.000-04:00",
+      "end": "2026-10-04T15:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A parade hosted by Police Department. Takes place Sunday, Oct 4, 2:00 PM\u20133:00 PM at FLATBUSH AVENUE between AVENUE T and AVENUE U,  FLATBUSH AVENUE between AVENUE T and SHORE PARKWAY,  SHORE PARKWAY between FLATBUSH AVENUE and EXIT 19 ROUTE 878,  ROUTE 878 between SHORE PARKWAY and I 678,  VAN WYCK EXPRESSWAY - I678N between ROUTE 678 and LIBERTY AVENUE,  VAN WYCK EXPRESSWAY SERVICE ROAD between I 678 and LIBERTY AVENUE,  LIBERTY AVENUE between VAN WYCK EXPRESSWAY SERVICE ROAD and 173RD STREET,  173RD ROAD between LIBERTY AVENUE and 103 ROAD,  173RD ROAD between LIBERTY AVENUE and 103 ROAD."
+    },
+    {
+      "id": "e-bd57d9314b",
+      "title": "Taste of Sunnyside Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "46 STREET between QUEENS BOULEVARD and GREENPOINT AVENUE",
+      "start": "2026-10-04T14:00:00.000-04:00",
+      "end": "2026-10-04T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A street event hosted by Street Activity Permit Office. Takes place Sunday, Oct 4, 2:00 PM\u20137:00 PM at 46 STREET between QUEENS BOULEVARD and GREENPOINT AVENUE."
+    },
+    {
+      "id": "e-89f6528ea4",
+      "title": "Healthy Kids Running Series",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "outer",
+      "venue": "Van Cortlandt Park: Cross Country Parade Ground Broadway 2",
+      "start": "2026-10-04T14:00:00.000-04:00",
+      "end": "2026-10-04T19:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 2:00 PM\u20137:00 PM at Van Cortlandt Park: Cross Country Parade Ground Broadway 2."
+    },
+    {
+      "id": "e-9a366c0221",
+      "title": "The Verdi Square Festival of the Arts",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "festival"
+      ],
+      "neighborhood": "uws",
       "borough": "manhattan",
-      "venue": "Blue Note Jazz Club",
-      "start": "2026-10-01T00:00:00Z",
-      "end": "2026-10-01T03:00:00+00:00",
-      "price": "$$",
+      "venue": "Verdi Square: Verdi Square",
+      "start": "2026-10-04T14:00:00.000-04:00",
+      "end": "2026-10-04T19:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/magnus-ferrell-blue-note-jazz-club-tickets/14307704"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/magnus-ferrell-blue-note-jazz-club-tickets/14307714"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Blue Note Jazz Club on Wednesday, Sep 30 at 10:30 PM. Tickets via Ticketmaster, from $55\u2013$72."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 2:00 PM\u20137:00 PM at Verdi Square: Verdi Square."
     },
     {
-      "id": "e-4a01265a2a",
-      "title": "Mike Campbell & The Dirty Knobs",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-c0904bdb04",
+      "title": "McGolrick Park Farmers' Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Monsignor McGolrick Park: Pavilion",
+      "start": "2026-10-04T14:27:00.000-04:00",
+      "end": "2026-10-04T14:28:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 2:27 PM\u20132:28 PM at Monsignor McGolrick Park: Pavilion."
+    },
+    {
+      "id": "e-641c00de9a",
+      "title": "Worth Square Food Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownW",
       "borough": "manhattan",
-      "venue": "Town Hall",
-      "start": "2026-10-01T00:00:00Z",
-      "end": "2026-10-01T03:00:00+00:00",
-      "price": "$$",
+      "venue": "Worth Square: Triangle",
+      "start": "2026-10-04T15:01:00.000-04:00",
+      "end": "2026-10-04T15:02:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/mike-campbell-the-dirty-knobs-new-york-new-york-09-30-2026/event/030064D1ECB516A7"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Town Hall on Wednesday, Sep 30 at 8:00 PM. Tickets via Ticketmaster."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 3:01 PM\u20133:02 PM at Worth Square: Triangle."
     },
     {
-      "id": "e-b7bff198d0",
-      "title": "SONS OF CREAM, feat. Kofi Baker, Malcolm Bruce, Rob Johnson & Special Guest: Vernon Reid!",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-f103e344f6",
+      "title": "New Wave Pier Food Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "music"
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "gramercy",
+      "borough": "manhattan",
+      "venue": "East River Esplanade 36th-38th: 36th-38th St",
+      "start": "2026-10-04T15:06:00.000-04:00",
+      "end": "2026-10-04T15:06:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 3:06 PM\u20133:06 PM at East River Esplanade 36th-38th: 36th-38th St."
+    },
+    {
+      "id": "e-ecf4a287b8",
+      "title": "Pigeonwing Dance Performance",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Iridium",
-      "start": "2026-10-01T00:30:00Z",
-      "end": "2026-10-01T03:30:00+00:00",
-      "price": "$$",
+      "venue": "St. Nicholas Park: West 135th Street James Baldwin Lawn   ,St. Nicholas Park: West 135th Street Plaza",
+      "start": "2026-10-04T16:00:00.000-04:00",
+      "end": "2026-10-04T18:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/sons-of-cream-feat-kofi-iridium-tickets/14256054"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Iridium on Wednesday, Sep 30 at 8:30 PM. Tickets via Ticketmaster, from $39\u2013$44."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Oct 4, 4:00 PM\u20136:00 PM at St. Nicholas Park: West 135th Street James Baldwin Lawn   ,St. Nicholas Park: West 135th Street Plaza."
     },
     {
-      "id": "e-942c92e84a",
-      "title": "Frank Vignola's Guitar Night with Pasquale Grasso",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-eb2cdad8d5",
+      "title": "CVBA Block Party",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-jazz"
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "CORNELIA STREET between BLEECKER STREET and WEST    4 STREET",
+      "start": "2026-10-04T18:00:00.000-04:00",
+      "end": "2026-10-04T21:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A block party hosted by Street Activity Permit Office. Takes place Sunday, Oct 4, 6:00 PM\u20139:00 PM at CORNELIA STREET between BLEECKER STREET and WEST    4 STREET."
+    },
+    {
+      "id": "e-3c80d005cf",
+      "title": "Tienda de Pueblo",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "34 AVENUE between 77 STREET and 78 STREET",
+      "start": "2026-10-05T07:00:00.000-04:00",
+      "end": "2026-10-05T12:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Monday, Oct 5, 7:00 AM\u201312:00 PM at 34 AVENUE between 77 STREET and 78 STREET."
+    },
+    {
+      "id": "e-976b0f083a",
+      "title": "Immigrant Culture Month at Avenue C Plaza Extension - September",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "outer",
+      "venue": "Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE",
+      "start": "2026-10-05T08:00:00.000-04:00",
+      "end": "2026-10-05T19:30:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Monday, Oct 5, 8:00 AM\u20137:30 PM at Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE."
+    },
+    {
+      "id": "e-c5baafcad3",
+      "title": "SAIL Structure at Lou Gehrig Plaza",
+      "category": "outabout",
+      "subcategory": "street-fairs",
+      "tags": [
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-10-01T00:30:00Z",
-      "end": "2026-10-01T03:30:00+00:00",
-      "price": "$$",
+      "venue": "Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse",
+      "start": "2026-10-05T09:00:00.000-04:00",
+      "end": "2026-10-05T16:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/frank-vignolas-guitar-night-with-birdland-theater-tickets/14881423"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland Theater on Wednesday, Sep 30 at 8:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
+      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Monday, Oct 5, 9:00 AM\u20134:00 PM at Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse."
     },
     {
-      "id": "e-d63729dc3e",
-      "title": "Upon Your Dead Body",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-c1752522ad",
+      "title": "Music Performances and Fitness Classes and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "les",
+      "neighborhood": "midtownW",
       "borough": "manhattan",
-      "venue": "Mercury Lounge",
-      "start": "2026-10-01T01:00:00Z",
-      "end": "2026-10-01T04:00:00+00:00",
-      "price": "$$",
+      "venue": "Herald Square Plaza: Herald Square (34/35 Broadway) Broadway between W. 34th Street and W. 35th Street",
+      "start": "2026-10-05T10:00:00.000-04:00",
+      "end": "2026-10-05T21:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/upon-your-dead-body-new-york-new-york-09-30-2026/event/000064C8D1067331"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Mercury Lounge on Wednesday, Sep 30 at 9:00 PM. Tickets via Ticketmaster."
+      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Monday, Oct 5, 10:00 AM\u20139:00 PM at Herald Square Plaza: Herald Square (34/35 Broadway) Broadway between W. 34th Street and W. 35th Street."
     },
     {
-      "id": "e-9e3abb2a10",
-      "title": "The Hot Sardines",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-f6e92249a6",
+      "title": "Live Music and Dance Performances and Circus Arts",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "music"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "midtownE",
+      "neighborhood": "midtownW",
       "borough": "manhattan",
-      "venue": "Birdland",
-      "start": "2026-10-01T01:30:00Z",
-      "end": "2026-10-01T04:30:00+00:00",
-      "price": "$$",
+      "venue": "Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street",
+      "start": "2026-10-05T10:00:00.000-04:00",
+      "end": "2026-10-05T21:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Parf"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Paro"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Birdland on Wednesday, Sep 30 at 9:30 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-7c96e9bc0b",
-      "title": "The Hot Sardines",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Jazz Club",
-      "start": "2026-10-01T01:30:00Z",
-      "end": "2026-10-01T04:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/the-hot-sardines-birdland-jazz-club-tickets/14911363"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/the-hot-sardines-birdland-jazz-club-tickets/14911313"
-        }
-      ],
-      "description": "Live show at Birdland Jazz Club on Wednesday, Sep 30 at 9:30 PM. Tickets via Ticketmaster, from $46\u2013$56."
-    },
-    {
-      "id": "e-45ce1ae180",
-      "title": "The Otherness | Smoke Break | Papas Sin Sal",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Berlin",
-      "start": "2026-10-01T01:30:00Z",
-      "end": "2026-10-01T04:30:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/the-otherness-smoke-break-berlin-tickets/14154654"
-        }
-      ],
-      "description": "Live show at Berlin on Wednesday, Sep 30 at 9:30 PM. Tickets via Ticketmaster, from $13\u2013$13."
-    },
-    {
-      "id": "e-f43d26e402",
-      "title": "Hannah Cole, Evil Adeline",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Night Club 101",
-      "start": "2026-10-01T02:00:00Z",
-      "end": "2026-10-01T05:00:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/hannah-cole-evil-adeline-night-club-101-tickets/14239724"
-        }
-      ],
-      "description": "Live show at Night Club 101 on Wednesday, Sep 30 at 10:00 PM. Tickets via Ticketmaster, from $24\u2013$24."
+      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Monday, Oct 5, 10:00 AM\u20139:00 PM at Greeley Square Plaza: Greeley Square (32/33 Broadway) Broadway between W. 32rd Street and W. 33rd Street."
     },
     {
       "id": "e-907919fb93",
@@ -6144,6 +6175,29 @@
       "description": "Live show at Bowery Palace on Thursday, Oct 1 at 6:30 PM. Tickets via Ticketmaster, from $19\u2013$19."
     },
     {
+      "id": "e-9e3abb2a10",
+      "title": "The Hot Sardines",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland",
+      "start": "2026-10-01T23:00:00Z",
+      "end": "2026-10-02T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Paro"
+        }
+      ],
+      "description": "Live show at Birdland on Thursday, Oct 1 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
       "id": "e-7a3e335bf8",
       "title": "Buffalo Traffic Jam - Pictures of You Tour",
       "category": "stagesound",
@@ -6211,6 +6265,29 @@
         }
       ],
       "description": "Live show at Bowery Ballroom on Thursday, Oct 1 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-7c96e9bc0b",
+      "title": "The Hot Sardines",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Jazz Club",
+      "start": "2026-10-01T23:00:00Z",
+      "end": "2026-10-02T02:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/the-hot-sardines-birdland-jazz-club-tickets/14911313"
+        }
+      ],
+      "description": "Live show at Birdland Jazz Club on Thursday, Oct 1 at 7:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
     },
     {
       "id": "e-0a00c11f97",
@@ -7410,29 +7487,6 @@
       "description": "Live show at Bowery Ballroom on Saturday, Oct 3 at 7:00 PM. Tickets via Ticketmaster."
     },
     {
-      "id": "e-4bcee5d602",
-      "title": "Walden, Anaia",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Night Club 101",
-      "start": "2026-10-03T23:00:00Z",
-      "end": "2026-10-04T02:00:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/walden-anaia-night-club-101-tickets/14233794"
-        }
-      ],
-      "description": "Live show at Night Club 101 on Saturday, Oct 3 at 7:00 PM. Tickets via Ticketmaster, from $23\u2013$23."
-    },
-    {
       "id": "e-7a79a5e24f",
       "title": "Ray LaMontagne - Trouble 20th Anniversary Tour",
       "category": "stagesound",
@@ -7667,6 +7721,29 @@
       "description": "Live show at Blue Note Jazz Club on Saturday, Oct 3 at 10:30 PM. Tickets via Ticketmaster, from $78\u2013$143."
     },
     {
+      "id": "e-dbec4c20c5",
+      "title": "Walden, Anaia",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-10-04T00:00:00Z",
+      "end": "2026-10-04T03:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/walden-anaia-night-club-101-tickets/14233794"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Saturday, Oct 3 at 8:00 PM. Tickets via Ticketmaster, from $23\u2013$23."
+    },
+    {
       "id": "e-70d52f6840",
       "title": "The Hot Sardines",
       "category": "stagesound",
@@ -7742,6 +7819,29 @@
         }
       ],
       "description": "Live show at Birdland Jazz Club on Saturday, Oct 3 at 10:30 PM. Tickets via Ticketmaster, from $46\u2013$56."
+    },
+    {
+      "id": "e-44fd2af1b3",
+      "title": "Chris Elia's 50th Bday Banger",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Bowery Palace",
+      "start": "2026-10-04T00:30:00Z",
+      "end": "2026-10-04T03:30:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/chris-elias-50th-bday-banger-bowery-palace-tickets/14354694"
+        }
+      ],
+      "description": "Live show at Bowery Palace on Saturday, Oct 3 at 8:30 PM. Tickets via Ticketmaster, from $12\u2013$12."
     },
     {
       "id": "e-5221a323cf",
@@ -9225,8 +9325,8 @@
       "description": "Live show at Bowery Ballroom on Wednesday, Oct 7 at 7:00 PM. Tickets via Ticketmaster."
     },
     {
-      "id": "e-967369537a",
-      "title": "Revenge Wife, Quelle Rox",
+      "id": "e-4ce3355c2d",
+      "title": "Revenge Wife",
       "category": "stagesound",
       "subcategory": "concerts",
       "tags": [
@@ -9242,7 +9342,7 @@
       "sources": [
         {
           "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/revenge-wife-quelle-rox-night-club-101-tickets/15020783"
+          "url": "https://www.ticketweb.com/event/revenge-wife-night-club-101-tickets/15020783"
         }
       ],
       "description": "Live show at Night Club 101 on Wednesday, Oct 7 at 7:00 PM. Tickets via Ticketmaster, from $27\u2013$27."
@@ -10148,6 +10248,547 @@
         }
       ],
       "description": "Live show at Mercury Lounge on Friday, Oct 9 at 6:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-295d1c2057",
+      "title": "Thelonious Monk Birthday Celebration",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Theater",
+      "start": "2026-10-09T23:00:00Z",
+      "end": "2026-10-10T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/thelonious-monk-birthday-celebration-birdland-theater-tickets/14928283"
+        }
+      ],
+      "description": "Live show at Birdland Theater on Friday, Oct 9 at 7:00 PM. Tickets via Ticketmaster, from $35\u2013$46."
+    },
+    {
+      "id": "e-1e31f3f2cc",
+      "title": "Adam Paddock",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Berlin",
+      "start": "2026-10-09T23:00:00Z",
+      "end": "2026-10-10T02:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/adam-paddock-berlin-tickets/14935043"
+        }
+      ],
+      "description": "Live show at Berlin on Friday, Oct 9 at 7:00 PM. Tickets via Ticketmaster, from $20\u2013$20."
+    },
+    {
+      "id": "e-b52c0e340c",
+      "title": "Odie Leigh, Nussy Andrews",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-folk"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-10-09T23:00:00Z",
+      "end": "2026-10-10T02:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/odie-leigh-nussy-andrews-night-club-101-tickets/14279884"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Friday, Oct 9 at 7:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
+      "id": "e-fcf4c5e639",
+      "title": "The Besties: Live On Broadway",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Town Hall",
+      "start": "2026-10-09T23:00:00Z",
+      "end": "2026-10-10T02:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-besties-live-on-broadway-new-york-new-york-10-09-2026/event/030064DEEA891ED2"
+        }
+      ],
+      "description": "Live show at Town Hall on Friday, Oct 9 at 7:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-c7b7ab0aba",
+      "title": "The Format - 20 Years of Dog Problems + New & Old Favorites",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Radio City Music Hall",
+      "start": "2026-10-09T23:30:00Z",
+      "end": "2026-10-10T02:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-format-20-years-of-dog-new-york-new-york-10-09-2026/event/3C0064A8F3E12526"
+        }
+      ],
+      "description": "Live show at Radio City Music Hall on Friday, Oct 9 at 7:30 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-8ae59069d5",
+      "title": "Medium Build w/ Ken Yates",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "eastvillage",
+      "borough": "manhattan",
+      "venue": "Webster Hall",
+      "start": "2026-10-09T23:30:00Z",
+      "end": "2026-10-10T02:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PV4b"
+        }
+      ],
+      "description": "Live show at Webster Hall on Friday, Oct 9 at 7:30 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-67dfe759fe",
+      "title": "Steve Conte | Soraia | Jessie Wagner",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Bowery Palace",
+      "start": "2026-10-09T23:30:00Z",
+      "end": "2026-10-10T02:30:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/steve-conte-soraia-bowery-palace-tickets/14940593"
+        }
+      ],
+      "description": "Live show at Bowery Palace on Friday, Oct 9 at 7:30 PM. Tickets via Ticketmaster, from $19\u2013$19."
+    },
+    {
+      "id": "e-0b0d072f14",
+      "title": "Harry Styles: Together, Together",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownW",
+      "borough": "manhattan",
+      "venue": "Madison Square Garden",
+      "start": "2026-10-10T00:00:00Z",
+      "end": "2026-10-10T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/harry-styles-together-together-new-york-new-york-10-09-2026/event/3B00643505B782CA"
+        }
+      ],
+      "description": "Live show at Madison Square Garden on Friday, Oct 9 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-ab925af96b",
+      "title": "The Damnwells (18 and Over)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Racket NYC",
+      "start": "2026-10-10T00:00:00Z",
+      "end": "2026-10-10T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tuf"
+        }
+      ],
+      "description": "Live show at Racket NYC on Friday, Oct 9 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-5a694bc90b",
+      "title": "Robert Glasper",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "Blue Note Jazz Club - NY",
+      "start": "2026-10-10T00:00:00Z",
+      "end": "2026-10-10T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvabf"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvab3"
+        }
+      ],
+      "description": "Live show at Blue Note Jazz Club - NY on Friday, Oct 9 at 10:30 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-59b653e49c",
+      "title": "Arlo",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "les",
+      "borough": "manhattan",
+      "venue": "Bowery Ballroom",
+      "start": "2026-10-10T00:00:00Z",
+      "end": "2026-10-10T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/arlo-new-york-new-york-10-09-2026/event/000064CCB5690F77"
+        }
+      ],
+      "description": "Live show at Bowery Ballroom on Friday, Oct 9 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-057fa7d75b",
+      "title": "The Great Gig - Beka Gochiashvili, Temuriko Diasamidze, and KORDZ",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Sony Hall",
+      "start": "2026-10-10T00:00:00Z",
+      "end": "2026-10-10T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/the-great-gig-beka-gochiashvili-temuriko-new-york-new-york-10-09-2026/event/00006535D5E8E822"
+        }
+      ],
+      "description": "Live show at Sony Hall on Friday, Oct 9 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-bd9f43a3a2",
+      "title": "Bop To The Top (18+)",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-electronic"
+      ],
+      "neighborhood": "gramercy",
+      "borough": "manhattan",
+      "venue": "Irving Plaza Powered By Verizon 5G",
+      "start": "2026-10-10T00:00:00Z",
+      "end": "2026-10-10T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/bop-to-the-top-18-new-york-new-york-10-09-2026/event/000065381AF913D6"
+        }
+      ],
+      "description": "Live show at Irving Plaza Powered By Verizon 5G on Friday, Oct 9 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-aca5f786e9",
+      "title": "John R. Miller with Special Guest William Matheny",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-folk"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Hill Country Live",
+      "start": "2026-10-10T00:00:00Z",
+      "end": "2026-10-10T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/john-r-miller-with-special-hill-country-live-tickets/15040643"
+        }
+      ],
+      "description": "Live show at Hill Country Live on Friday, Oct 9 at 8:00 PM. Tickets via Ticketmaster, from $27\u2013$27."
+    },
+    {
+      "id": "e-5f500f2b9d",
+      "title": "Robert Glasper X Terrace Martin with Special Guest Phoelix",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "Blue Note Jazz Club",
+      "start": "2026-10-10T00:00:00Z",
+      "end": "2026-10-10T03:00:00+00:00",
+      "price": "$$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/robert-glasper-x-terrace-martin-blue-note-jazz-club-tickets/15041793"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/robert-glasper-x-terrace-martin-blue-note-jazz-club-tickets/15041753"
+        }
+      ],
+      "description": "Live show at Blue Note Jazz Club on Friday, Oct 9 at 10:30 PM. Tickets via Ticketmaster, from $78\u2013$169."
+    },
+    {
+      "id": "e-1789a05869",
+      "title": "Live Band Country Karaoke",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Lucinda's",
+      "start": "2026-10-10T00:00:00Z",
+      "end": "2026-10-10T03:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/-live-band-country-lucindas-tickets/14976853"
+        }
+      ],
+      "description": "Live show at Lucinda's on Friday, Oct 9 at 8:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
+      "id": "e-6d1362e9b6",
+      "title": "Ron Carter Foursight Quartet",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Jazz Club",
+      "start": "2026-10-10T00:30:00Z",
+      "end": "2026-10-10T03:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/ron-carter-foursight-quartet-birdland-jazz-club-tickets/14224844"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/ron-carter-foursight-quartet-birdland-jazz-club-tickets/14224814"
+        }
+      ],
+      "description": "Live show at Birdland Jazz Club on Friday, Oct 9 at 10:30 PM. Tickets via Ticketmaster, from $46\u2013$61."
+    },
+    {
+      "id": "e-880cbb8336",
+      "title": "Lari Basilio",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Iridium",
+      "start": "2026-10-10T00:30:00Z",
+      "end": "2026-10-10T03:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/lari-basilio-iridium-tickets/14739123"
+        }
+      ],
+      "description": "Live show at Iridium on Friday, Oct 9 at 8:30 PM. Tickets via Ticketmaster, from $57\u2013$68."
+    },
+    {
+      "id": "e-fad69ed207",
+      "title": "Dark Streets & Straight To Hell - \"Pogues vs Clash\"",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "les",
+      "borough": "manhattan",
+      "venue": "Mercury Lounge",
+      "start": "2026-10-10T01:00:00Z",
+      "end": "2026-10-10T04:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/dark-streets-straight-to-hell-pogues-new-york-new-york-10-09-2026/event/00006512F342262B"
+        }
+      ],
+      "description": "Live show at Mercury Lounge on Friday, Oct 9 at 9:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-eca77b6590",
+      "title": "Thelonious Monk Birthday Celebration",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Theater",
+      "start": "2026-10-10T01:30:00Z",
+      "end": "2026-10-10T04:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/thelonious-monk-birthday-celebration-birdland-theater-tickets/14928293"
+        }
+      ],
+      "description": "Live show at Birdland Theater on Friday, Oct 9 at 9:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
+    },
+    {
+      "id": "e-5c1a0c8897",
+      "title": "Apollo Music Caf\u00e9: TheARTI$T",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-hiphop"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "The Apollo's Victoria Theater 1",
+      "start": "2026-10-10T02:00:00Z",
+      "end": "2026-10-10T05:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/apollo-music-cafe-theartit-new-york-new-york-10-09-2026/event/00006519BBB89218"
+        }
+      ],
+      "description": "Live show at The Apollo's Victoria Theater 1 on Friday, Oct 9 at 10:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-651cdcc788",
+      "title": "Send It Up",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-electronic"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-10-10T02:00:00Z",
+      "end": "2026-10-10T05:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/send-it-up-night-club-101-tickets/14336754"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Friday, Oct 9 at 10:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
+      "id": "e-5f2c6db594",
+      "title": "CONEP - TRAPPii 2",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-hiphop"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "HK Hall",
+      "start": "2026-10-10T03:00:00Z",
+      "end": "2026-10-10T06:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/conep-trappii-2-new-york-new-york-10-09-2026/event/0000651385A36167"
+        }
+      ],
+      "description": "Live show at HK Hall on Friday, Oct 9 at 11:00 PM. Tickets via Ticketmaster."
     }
   ]
 }
