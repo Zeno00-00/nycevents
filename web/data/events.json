@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:14:07.094698-04:00",
+  "generated_at": "2026-11-03T12:51:28.189736-04:00",
   "events": [
     {
       "id": "e-79c61f6e7c",
@@ -670,126 +670,6 @@
         }
       ],
       "description": "Rotating selection of American art from the Whitney's permanent collection. Free admission on Friday nights."
-    },
-    {
-      "id": "e-f3a30e854f",
-      "title": "Union Square Holiday Market 2026",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "gramercy",
-      "borough": "manhattan",
-      "venue": "Union Square Park: South Plaza",
-      "start": "2026-11-02T00:00:00.000-04:00",
-      "end": "2026-11-02T23:55:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Monday, Nov 2, 12:00 AM\u201311:55 PM at Union Square Park: South Plaza."
-    },
-    {
-      "id": "e-633f1e9e28",
-      "title": "Tienda de Pueblo",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "eastvillage",
-      "borough": "outer",
-      "venue": "34 AVENUE between 77 STREET and 78 STREET",
-      "start": "2026-11-02T07:00:00.000-04:00",
-      "end": "2026-11-02T12:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Monday, Nov 2, 7:00 AM\u201312:00 PM at 34 AVENUE between 77 STREET and 78 STREET."
-    },
-    {
-      "id": "e-7896345bb0",
-      "title": "SAIL Structure at Lou Gehrig Plaza",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse",
-      "start": "2026-11-02T09:00:00.000-04:00",
-      "end": "2026-11-02T16:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Monday, Nov 2, 9:00 AM\u20134:00 PM at Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse."
-    },
-    {
-      "id": "e-65767235de",
-      "title": "Latinos In Times Square Dia de Los Muertos",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "chelsea",
-      "borough": "manhattan",
-      "venue": "Times Square: 46/47 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   46 STREET and WEST   47 STREET,  WEST   46 STREET between BROADWAY and 8 AVENUE",
-      "start": "2026-11-02T14:00:00.000-04:00",
-      "end": "2026-11-02T21:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Monday, Nov 2, 2:00 PM\u20139:00 PM at Times Square: 46/47 Broadway Pedestrian Plaza (Times Sq) BROADWAY between WEST   46 STREET and WEST   47 STREET,  WEST   46 STREET between BROADWAY and 8 AVENUE."
-    },
-    {
-      "id": "e-668e734542",
-      "title": "WALGREENS - PSA",
-      "category": "outabout",
-      "subcategory": "street-fairs",
-      "tags": [
-        "free",
-        "outdoor"
-      ],
-      "neighborhood": "midtownW",
-      "borough": "manhattan",
-      "venue": "Herald Square Plaza: Herald Square (34/35 Broadway) Broadway between W. 34th Street and W. 35th Street,  WEST   35 STREET between BROADWAY and 7 AVENUE",
-      "start": "2026-11-02T14:00:00.000-04:00",
-      "end": "2026-11-02T20:30:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A plaza event hosted by Street Activity Permit Office. Takes place Monday, Nov 2, 2:00 PM\u20138:30 PM at Herald Square Plaza: Herald Square (34/35 Broadway) Broadway between W. 34th Street and W. 35th Street,  WEST   35 STREET between BROADWAY and 7 AVENUE."
     },
     {
       "id": "e-2cf40edb08",
@@ -2350,6 +2230,29 @@
       "description": "A special event hosted by Parks Department. Takes place Saturday, Nov 7, 8:00 AM\u201311:00 AM at Morningside Park: Lower Path 114th-116th."
     },
     {
+      "id": "e-a9ae938d73",
+      "title": "NYRR Open Run at Canarsie Park",
+      "category": "outabout",
+      "subcategory": "festival",
+      "tags": [
+        "outdoor"
+      ],
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Canarsie Park: Oval Path",
+      "start": "2026-11-07T08:00:00.000-04:00",
+      "end": "2026-11-07T11:00:00.000-04:00",
+      "price": "free",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
+        }
+      ],
+      "description": "A special event hosted by Parks Department. Takes place Saturday, Nov 7, 8:00 AM\u201311:00 AM at Canarsie Park: Oval Path."
+    },
+    {
       "id": "e-123e898701",
       "title": "NYRR Open Run at Inwood Hill Park",
       "category": "outabout",
@@ -2615,29 +2518,6 @@
         }
       ],
       "description": "A special event hosted by Parks Department. Takes place Saturday, Nov 7, 8:00 AM\u20135:00 PM at Jackie Robinson Park: Sidewalk."
-    },
-    {
-      "id": "e-a9ae938d73",
-      "title": "NYRR Open Run at Canarsie Park",
-      "category": "outabout",
-      "subcategory": "festival",
-      "tags": [
-        "outdoor"
-      ],
-      "neighborhood": "williamsburg",
-      "borough": "outer",
-      "venue": "Canarsie Park: Oval Path",
-      "start": "2026-11-07T08:00:00.000-04:00",
-      "end": "2026-11-07T11:00:00.000-04:00",
-      "price": "free",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "NYC Open Data",
-          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
-        }
-      ],
-      "description": "A special event hosted by Parks Department. Takes place Saturday, Nov 7, 8:00 AM\u201311:00 AM at Canarsie Park: Oval Path."
     },
     {
       "id": "e-c27d6afe8d",
@@ -2931,20 +2811,18 @@
       "description": "A special event hosted by Parks Department. Takes place Saturday, Nov 7, 9:30 AM\u201312:00 PM at Forest Park: Trails Blue."
     },
     {
-      "id": "e-4e2608691a",
-      "title": "60th Independence Flag Raising Parade",
+      "id": "e-770719b97a",
+      "title": "NYC Halal Fest",
       "category": "outabout",
-      "subcategory": "parades",
+      "subcategory": "festival",
       "tags": [
-        "free",
-        "outdoor",
-        "parade"
+        "festival"
       ],
-      "neighborhood": "williamsburg",
-      "borough": "outer",
-      "venue": "Prospect Park: Grand Army Plaza Arch",
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "ASTOR PLACE between LAFAYETTE STREET and BROADWAY",
       "start": "2026-11-07T10:00:00.000-04:00",
-      "end": "2026-11-07T14:00:00.000-04:00",
+      "end": "2026-11-07T18:00:00.000-04:00",
       "price": "free",
       "tentpole": false,
       "sources": [
@@ -2953,7 +2831,7 @@
           "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "A special event hosted by Parks Department. Takes place Saturday, Nov 7, 10:00 AM\u20132:00 PM at Prospect Park: Grand Army Plaza Arch."
+      "description": "A single block festival hosted by Street Activity Permit Office. Takes place Saturday, Nov 7, 10:00 AM\u20136:00 PM at ASTOR PLACE between LAFAYETTE STREET and BROADWAY."
     },
     {
       "id": "e-0d64ccecea",
@@ -2979,18 +2857,20 @@
       "description": "A single block festival hosted by Street Activity Permit Office. Takes place Saturday, Nov 7, 10:00 AM\u20136:00 PM at 44 STREET between 5 AVENUE and 6 AVENUE."
     },
     {
-      "id": "e-770719b97a",
-      "title": "NYC Halal Fest",
+      "id": "e-4e2608691a",
+      "title": "60th Independence Flag Raising Parade",
       "category": "outabout",
-      "subcategory": "festival",
+      "subcategory": "parades",
       "tags": [
-        "festival"
+        "free",
+        "outdoor",
+        "parade"
       ],
-      "neighborhood": "westvillage",
-      "borough": "manhattan",
-      "venue": "ASTOR PLACE between LAFAYETTE STREET and BROADWAY",
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Prospect Park: Grand Army Plaza Arch",
       "start": "2026-11-07T10:00:00.000-04:00",
-      "end": "2026-11-07T18:00:00.000-04:00",
+      "end": "2026-11-07T14:00:00.000-04:00",
       "price": "free",
       "tentpole": false,
       "sources": [
@@ -2999,7 +2879,7 @@
           "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "A single block festival hosted by Street Activity Permit Office. Takes place Saturday, Nov 7, 10:00 AM\u20136:00 PM at ASTOR PLACE between LAFAYETTE STREET and BROADWAY."
+      "description": "A special event hosted by Parks Department. Takes place Saturday, Nov 7, 10:00 AM\u20132:00 PM at Prospect Park: Grand Army Plaza Arch."
     },
     {
       "id": "e-1d8cd4d5bd",
@@ -3662,484 +3542,125 @@
       "description": "A parade hosted by Police Department. Takes place Sunday, Nov 8, 12:30 PM\u20132:30 PM at 3370 PRINCE STREET, PRINCE STREET between 35 AVENUE and 33 AVENUE,  33 AVENUE between PRINCE STREET and FARRINGTON STREET,  FARRINGTON STREET between 33 AVENUE and NORTHERN BOULEVARD,  NORTHERN BOULEVARD between FARRINGTON STREET and LEAVITT STREET,  LEAVITT STREET between 35 AVENUE and 137 STREET,  LEAVITT STREET between NORTHERN BOULEVARD and 35 AVENUE,  137 STREET between LEAVITT STREET and LATIMER PLACE,  LATIMER PLACE between 137 STREET and LINDEN PLACE, 3420 LINDEN PLACE."
     },
     {
-      "id": "e-03d13082a0",
-      "title": "The Midnight Special",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-1d51626a73",
+      "title": "McGolrick Park Farmers' Market",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "music"
+        "free",
+        "outdoor"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Wild Horses",
-      "start": "2026-11-02T04:55:00Z",
-      "end": "2026-11-02T07:55:00+00:00",
-      "price": "$",
+      "neighborhood": "williamsburg",
+      "borough": "outer",
+      "venue": "Monsignor McGolrick Park: Pavilion",
+      "start": "2026-11-08T14:27:00.000-04:00",
+      "end": "2026-11-08T14:28:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/the-midnight-special-wild-horses-tickets/14320254"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Wild Horses on Monday, Nov 2 at 12:55 AM. Tickets via Ticketmaster, from $0\u2013$0."
+      "description": "A special event hosted by Parks Department. Takes place Sunday, Nov 8, 2:27 PM\u20132:28 PM at Monsignor McGolrick Park: Pavilion."
     },
     {
-      "id": "e-e83a3194a4",
-      "title": "Three Gentlemen: Rod Hohl, Bruce Martin, and Konrad Meissner",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-2f5dbf7b46",
+      "title": "LADY OF HAVEN FATIMA SAW",
+      "category": "outabout",
+      "subcategory": "parades",
       "tags": [
-        "g-folk"
+        "free",
+        "outdoor",
+        "parade"
       ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Lucinda's",
-      "start": "2026-11-02T22:30:00Z",
-      "end": "2026-11-03T01:30:00+00:00",
-      "price": "$",
+      "neighborhood": "lic",
+      "borough": "outer",
+      "venue": "Big Bush Playground: Picnic Area , LAUREL HILL BLVD.  61ST ST between 61ST STREET  and QUEENS BLVD, 5511 QUEENS BOULEVARD, QUEENS BOULEVARD between 61 STREET and 55 STREET",
+      "start": "2026-11-08T15:00:00.000-04:00",
+      "end": "2026-11-08T18:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/three-gentlemen-rod-hohl-bruce-lucindas-tickets/14410524"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Lucinda's on Monday, Nov 2 at 6:30 PM. Tickets via Ticketmaster, from $0\u2013$0."
+      "description": "A parade hosted by Police Department. Takes place Sunday, Nov 8, 3:00 PM\u20136:00 PM at Big Bush Playground: Picnic Area , LAUREL HILL BLVD.  61ST ST between 61ST STREET  and QUEENS BLVD, 5511 QUEENS BOULEVARD, QUEENS BOULEVARD between 61 STREET and 55 STREET."
     },
     {
-      "id": "e-372be4bdc9",
-      "title": "Vince Giordano and the Nighthawks",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-31cd56c071",
+      "title": "Union Square Holiday Market 2026",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-11-02T22:30:00Z",
-      "end": "2026-11-03T01:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225054"
-        }
-      ],
-      "description": "Live show at Birdland Theater on Monday, Nov 2 at 6:30 PM. Tickets via Ticketmaster, from $25\u2013$46."
-    },
-    {
-      "id": "e-3443181e36",
-      "title": "Lily DeTaeye",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "les",
-      "borough": "manhattan",
-      "venue": "Mercury Lounge",
-      "start": "2026-11-02T23:00:00Z",
-      "end": "2026-11-03T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/lily-detaeye-new-york-new-york-11-02-2026/event/00006511F1D7C932"
-        }
-      ],
-      "description": "Live show at Mercury Lounge on Monday, Nov 2 at 7:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-71c75dbab3",
-      "title": "Mike Clark Quartet",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Smalls Jazz Club",
-      "start": "2026-11-02T23:00:00Z",
-      "end": "2026-11-03T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/mike-clark-quartet-smalls-jazz-club-tickets/14361434"
-        }
-      ],
-      "description": "Live show at Smalls Jazz Club on Monday, Nov 2 at 7:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
-    },
-    {
-      "id": "e-2b5f2ea218",
-      "title": "Spike Wilner Trio",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Mezzrow",
-      "start": "2026-11-02T23:00:00Z",
-      "end": "2026-11-03T02:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/spike-wilner-trio-mezzrow-tickets/14357454"
-        }
-      ],
-      "description": "Live show at Mezzrow on Monday, Nov 2 at 7:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
-    },
-    {
-      "id": "e-37bc86edec",
-      "title": "Holywatr: Deo Gratias Tour",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "gramercy",
       "borough": "manhattan",
-      "venue": "Irving Plaza Powered By Verizon 5G",
-      "start": "2026-11-03T00:00:00Z",
-      "end": "2026-11-03T03:00:00+00:00",
-      "price": "$$",
+      "venue": "Union Square Park: South Plaza",
+      "start": "2026-11-09T00:00:00.000-04:00",
+      "end": "2026-11-09T23:55:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/holywatr-deo-gratias-tour-new-york-new-york-11-02-2026/event/000064C2038CFA6B"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Irving Plaza Powered By Verizon 5G on Monday, Nov 2 at 8:00 PM. Tickets via Ticketmaster."
+      "description": "A special event hosted by Parks Department. Takes place Monday, Nov 9, 12:00 AM\u201311:55 PM at Union Square Park: South Plaza."
     },
     {
-      "id": "e-9e5cf3de32",
-      "title": "Blake Whiten",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-5a0f6bae52",
+      "title": "Tienda de Pueblo",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "music"
-      ],
-      "neighborhood": "les",
-      "borough": "manhattan",
-      "venue": "Bowery Ballroom",
-      "start": "2026-11-03T00:00:00Z",
-      "end": "2026-11-03T03:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/blake-whiten-new-york-new-york-11-02-2026/event/0000649DC7493987"
-        }
-      ],
-      "description": "Live show at Bowery Ballroom on Monday, Nov 2 at 8:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-9ac2ee03ae",
-      "title": "Edgar Alejandro",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "gramercy",
-      "borough": "manhattan",
-      "venue": "Gramercy Theatre",
-      "start": "2026-11-03T00:00:00Z",
-      "end": "2026-11-03T03:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/edgar-alejandro-new-york-new-york-11-02-2026/event/000064DEA059BA65"
-        }
-      ],
-      "description": "Live show at Gramercy Theatre on Monday, Nov 2 at 8:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-dc676d5ef1",
-      "title": "rocknite.ny",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Night Club 101",
-      "start": "2026-11-03T00:30:00Z",
-      "end": "2026-11-03T03:30:00+00:00",
-      "price": "$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/rockniteny-night-club-101-tickets/14413244"
-        }
-      ],
-      "description": "Live show at Night Club 101 on Monday, Nov 2 at 8:30 PM. Tickets via Ticketmaster, from $0\u2013$0."
-    },
-    {
-      "id": "e-8efe614f18",
-      "title": "Mike Clark Quartet",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Smalls Jazz Club",
-      "start": "2026-11-03T00:30:00Z",
-      "end": "2026-11-03T03:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/mike-clark-quartet-smalls-jazz-club-tickets/14361404"
-        }
-      ],
-      "description": "Live show at Smalls Jazz Club on Monday, Nov 2 at 8:30 PM. Tickets via Ticketmaster, from $44\u2013$44."
-    },
-    {
-      "id": "e-a8efe62a9d",
-      "title": "Spike Wilner Trio",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Mezzrow",
-      "start": "2026-11-03T00:30:00Z",
-      "end": "2026-11-03T03:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/spike-wilner-trio-mezzrow-tickets/14357494"
-        }
-      ],
-      "description": "Live show at Mezzrow on Monday, Nov 2 at 8:30 PM. Tickets via Ticketmaster, from $44\u2013$44."
-    },
-    {
-      "id": "e-918eda9cd6",
-      "title": "She Wants Revenge w/ Rosegarden Funeral Party",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "eastvillage",
-      "borough": "manhattan",
-      "venue": "Webster Hall",
-      "start": "2026-11-03T01:00:00Z",
-      "end": "2026-11-03T04:00:00+00:00",
-      "price": "$$",
+      "borough": "outer",
+      "venue": "34 AVENUE between 77 STREET and 78 STREET",
+      "start": "2026-11-09T07:00:00.000-04:00",
+      "end": "2026-11-09T12:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70E18"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Webster Hall on Monday, Nov 2 at 9:00 PM. Tickets via Ticketmaster."
+      "description": "A open street partner event hosted by Street Activity Permit Office. Takes place Monday, Nov 9, 7:00 AM\u201312:00 PM at 34 AVENUE between 77 STREET and 78 STREET."
     },
     {
-      "id": "e-145b470824",
-      "title": "Rockers on Broadway: 33",
-      "category": "stagesound",
-      "subcategory": "concerts",
+      "id": "e-3bfb104495",
+      "title": "SAIL Structure at Lou Gehrig Plaza",
+      "category": "outabout",
+      "subcategory": "street-fairs",
       "tags": [
-        "g-indie"
+        "free",
+        "outdoor"
       ],
       "neighborhood": "midtownE",
       "borough": "manhattan",
-      "venue": "Sony Hall",
-      "start": "2026-11-03T01:00:00Z",
-      "end": "2026-11-03T04:00:00+00:00",
-      "price": "$$",
+      "venue": "Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse",
+      "start": "2026-11-09T09:00:00.000-04:00",
+      "end": "2026-11-09T16:00:00.000-04:00",
+      "price": "free",
       "tentpole": false,
       "sources": [
         {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/rockers-on-broadway-33-new-york-new-york-11-02-2026/event/00006529E4A6AA8A"
+          "name": "NYC Open Data",
+          "url": "https://data.cityofnewyork.us/d/tvpp-9vvx"
         }
       ],
-      "description": "Live show at Sony Hall on Monday, Nov 2 at 9:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-3af0f16da1",
-      "title": "Elena Pinderhughes",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "westvillage",
-      "borough": "manhattan",
-      "venue": "Blue Note Jazz Club",
-      "start": "2026-11-03T01:00:00Z",
-      "end": "2026-11-03T04:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/elena-pinderhughes-blue-note-jazz-club-tickets/15018583"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/elena-pinderhughes-blue-note-jazz-club-tickets/15018603"
-        }
-      ],
-      "description": "Live show at Blue Note Jazz Club on Monday, Nov 2 at 11:30 PM. Tickets via Ticketmaster, from $32\u2013$44."
-    },
-    {
-      "id": "e-d98c5f0e96",
-      "title": "Ari Hoenig Trio ft. Gabe Terracciano",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Jazzcultural",
-      "start": "2026-11-03T01:00:00Z",
-      "end": "2026-11-03T04:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/ari-hoenig-trio-ft-gabe-jazzcultural-tickets/14354764"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/ari-hoenig-trio-ft-gabe-jazzcultural-tickets/14354794"
-        }
-      ],
-      "description": "Live show at Jazzcultural on Monday, Nov 2 at 11:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
-    },
-    {
-      "id": "e-200fb26a14",
-      "title": "Vince Giordano and the Nighthawks",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Theater",
-      "start": "2026-11-03T01:30:00Z",
-      "end": "2026-11-03T04:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225134"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225124"
-        }
-      ],
-      "description": "Live show at Birdland Theater on Tuesday, Nov 3 at 6:30 PM. Tickets via Ticketmaster, from $25\u2013$46."
-    },
-    {
-      "id": "e-3faeaa8f18",
-      "title": "Coyle Girelli",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-indie"
-      ],
-      "neighborhood": "les",
-      "borough": "manhattan",
-      "venue": "Mercury Lounge",
-      "start": "2026-11-03T02:00:00Z",
-      "end": "2026-11-03T05:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketmaster.com/coyle-girelli-new-york-new-york-11-02-2026/event/0000653E02D743E0"
-        }
-      ],
-      "description": "Live show at Mercury Lounge on Monday, Nov 2 at 10:00 PM. Tickets via Ticketmaster."
-    },
-    {
-      "id": "e-5898290fab",
-      "title": "Eric Lewis Trio",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Smalls Jazz Club",
-      "start": "2026-11-03T02:00:00Z",
-      "end": "2026-11-03T05:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/eric-lewis-trio-smalls-jazz-club-tickets/14361414"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/eric-lewis-trio-smalls-jazz-club-tickets/14361464"
-        }
-      ],
-      "description": "Live show at Smalls Jazz Club on Monday, Nov 2 at 10:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
-    },
-    {
-      "id": "e-667983c2eb",
-      "title": "Michael Kanan Trio",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "g-jazz"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Mezzrow",
-      "start": "2026-11-03T02:00:00Z",
-      "end": "2026-11-03T05:00:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/michael-kanan-trio-mezzrow-tickets/14357534"
-        },
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/michael-kanan-trio-mezzrow-tickets/14357574"
-        }
-      ],
-      "description": "Live show at Mezzrow on Monday, Nov 2 at 10:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
+      "description": "A plaza partner event hosted by Street Activity Permit Office. Takes place Monday, Nov 9, 9:00 AM\u20134:00 PM at Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse."
     },
     {
       "id": "e-b43ffa5aee",
@@ -4165,29 +3686,6 @@
       "description": "Live show at Lucinda's on Monday, Nov 2 at 10:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
     },
     {
-      "id": "e-fa4d0057fa",
-      "title": "Jim Caruso's Cast Party with Billy Stritch",
-      "category": "stagesound",
-      "subcategory": "concerts",
-      "tags": [
-        "music"
-      ],
-      "neighborhood": "midtownE",
-      "borough": "manhattan",
-      "venue": "Birdland Jazz Club",
-      "start": "2026-11-03T02:30:00Z",
-      "end": "2026-11-03T05:30:00+00:00",
-      "price": "$$",
-      "tentpole": false,
-      "sources": [
-        {
-          "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/jim-carusos-cast-party-with-birdland-jazz-club-tickets/15007223"
-        }
-      ],
-      "description": "Live show at Birdland Jazz Club on Monday, Nov 2 at 10:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
-    },
-    {
       "id": "e-1be19ac919",
       "title": "Vince Giordano",
       "category": "stagesound",
@@ -4209,6 +3707,29 @@
         }
       ],
       "description": "Live show at Birdland on Tuesday, Nov 3 at 6:30 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-200fb26a14",
+      "title": "Vince Giordano and the Nighthawks",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Theater",
+      "start": "2026-11-03T22:30:00Z",
+      "end": "2026-11-04T01:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225124"
+        }
+      ],
+      "description": "Live show at Birdland Theater on Tuesday, Nov 3 at 6:30 PM. Tickets via Ticketmaster, from $25\u2013$46."
     },
     {
       "id": "e-40e00cdbf8",
@@ -4641,8 +4162,8 @@
       "description": "Live show at Smalls Jazz Club on Tuesday, Nov 3 at 10:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
     },
     {
-      "id": "e-aa9811ec49",
-      "title": "Lolivone De La Rosa Trio",
+      "id": "e-8934677a09",
+      "title": "Lolivone De La Rosa Quartet",
       "category": "stagesound",
       "subcategory": "concerts",
       "tags": [
@@ -4658,11 +4179,11 @@
       "sources": [
         {
           "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/lolivone-de-la-rosa-trio-mezzrow-tickets/14357504"
+          "url": "https://www.ticketweb.com/event/lolivone-de-la-rosa-quartet-mezzrow-tickets/14357504"
         },
         {
           "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/lolivone-de-la-rosa-trio-mezzrow-tickets/14357464"
+          "url": "https://www.ticketweb.com/event/lolivone-de-la-rosa-quartet-mezzrow-tickets/14357464"
         }
       ],
       "description": "Live show at Mezzrow on Tuesday, Nov 3 at 10:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
@@ -4688,7 +4209,7 @@
           "url": "https://www.ticketweb.com/event/dress-as-your-own-madness-night-club-101-tickets/14348364"
         }
       ],
-      "description": "Live show at Night Club 101 on Tuesday, Nov 3 at 11:00 PM. Tickets via Ticketmaster, from $11\u2013$20."
+      "description": "Live show at Night Club 101 on Tuesday, Nov 3 at 11:00 PM. Tickets via Ticketmaster, from $15\u2013$20."
     },
     {
       "id": "e-ce13ea77b9",
@@ -5639,8 +5160,8 @@
       "description": "Live show at Lucinda's on Thursday, Nov 5 at 8:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
     },
     {
-      "id": "e-dffd4add14",
-      "title": "Feaster | PFFU | Diary",
+      "id": "e-8d5acacb63",
+      "title": "Feaster | Reanimators | Diary",
       "category": "stagesound",
       "subcategory": "concerts",
       "tags": [
@@ -5656,7 +5177,7 @@
       "sources": [
         {
           "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/feaster-pffu-diary-berlin-tickets/14364434"
+          "url": "https://www.ticketweb.com/event/feaster-reanimators-diary-berlin-tickets/14364434"
         }
       ],
       "description": "Live show at Berlin on Thursday, Nov 5 at 8:00 PM. Tickets via Ticketmaster, from $15\u2013$15."
@@ -5992,8 +5513,8 @@
       "description": "Live show at The Bitter End on Thursday, Nov 5 at 10:00 PM. Tickets via Ticketmaster, from $50\u2013$63."
     },
     {
-      "id": "e-98f08baf25",
-      "title": "Willerm Delisfort Quintet",
+      "id": "e-8122c64fc2",
+      "title": "Willerm Delisfort Sextet",
       "category": "stagesound",
       "subcategory": "concerts",
       "tags": [
@@ -6009,11 +5530,11 @@
       "sources": [
         {
           "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/willerm-delisfort-quintet-smalls-jazz-club-tickets/14361564"
+          "url": "https://www.ticketweb.com/event/willerm-delisfort-sextet-smalls-jazz-club-tickets/14361564"
         },
         {
           "name": "Ticketmaster",
-          "url": "https://www.ticketweb.com/event/willerm-delisfort-quintet-smalls-jazz-club-tickets/14362474"
+          "url": "https://www.ticketweb.com/event/willerm-delisfort-sextet-smalls-jazz-club-tickets/14362474"
         }
       ],
       "description": "Live show at Smalls Jazz Club on Thursday, Nov 5 at 10:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
@@ -6196,7 +5717,7 @@
       "venue": "Birdland Jazz Club",
       "start": "2026-11-06T22:30:00Z",
       "end": "2026-11-07T01:30:00+00:00",
-      "price": "$$",
+      "price": "$",
       "tentpole": false,
       "sources": [
         {
@@ -6204,7 +5725,7 @@
           "url": "https://www.ticketweb.com/event/birdland-big-band-birdland-jazz-club-tickets/14196724"
         }
       ],
-      "description": "Live show at Birdland Jazz Club on Friday, Nov 6 at 6:30 PM. Tickets via Ticketmaster, from $35\u2013$46."
+      "description": "Live show at Birdland Jazz Club on Friday, Nov 6 at 6:30 PM. Tickets via Ticketmaster, from $0\u2013$0."
     },
     {
       "id": "e-064f05447f",
@@ -8576,6 +8097,29 @@
       "description": "Live show at Bowery Palace on Sunday, Nov 8 at 10:30 PM. Tickets via Ticketmaster, from $25\u2013$25."
     },
     {
+      "id": "e-1049eab985",
+      "title": "Frank Wood & His NYC All Stars Band",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Berlin",
+      "start": "2026-11-09T02:30:00Z",
+      "end": "2026-11-09T05:30:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/frank-wood-his-nyc-berlin-tickets/14414904"
+        }
+      ],
+      "description": "Live show at Berlin on Sunday, Nov 8 at 10:30 PM. Tickets via Ticketmaster, from $11\u2013$11."
+    },
+    {
       "id": "e-9693599e33",
       "title": "Saya Gray",
       "category": "stagesound",
@@ -9238,6 +8782,440 @@
         }
       ],
       "description": "Live show at Mezzrow on Tuesday, Nov 10 at 7:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
+    },
+    {
+      "id": "e-0826fe87f6",
+      "title": "Q Marsden",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-hiphop"
+      ],
+      "neighborhood": "les",
+      "borough": "manhattan",
+      "venue": "Bowery Ballroom",
+      "start": "2026-11-11T00:00:00Z",
+      "end": "2026-11-11T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/q-marsden-new-york-new-york-11-10-2026/event/00006506E65859CC"
+        }
+      ],
+      "description": "Live show at Bowery Ballroom on Tuesday, Nov 10 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-45227b06ce",
+      "title": "Wally Baram: My Snake's Quincea\u00f1era, Presented by the NY Comedy Fest.",
+      "category": "stagesound",
+      "subcategory": "comedy-clubs",
+      "tags": [
+        "comedy"
+      ],
+      "neighborhood": "gramercy",
+      "borough": "manhattan",
+      "venue": "Gramercy Theatre",
+      "start": "2026-11-11T00:00:00Z",
+      "end": "2026-11-11T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/wally-baram-my-snakes-quinceanera-presented-new-york-new-york-11-10-2026/event/0000650AC7C5106E"
+        }
+      ],
+      "description": "Live show at Gramercy Theatre on Tuesday, Nov 10 at 8:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-a8d86e25a9",
+      "title": "Houston Person Quintet: 92nd Birthday Celebration",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Jazz Club",
+      "start": "2026-11-11T00:00:00Z",
+      "end": "2026-11-11T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/houston-person-quintet-92nd-birthday-birdland-jazz-club-tickets/15007193"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/houston-person-quintet-92nd-birthday-birdland-jazz-club-tickets/15007203"
+        }
+      ],
+      "description": "Live show at Birdland Jazz Club on Tuesday, Nov 10 at 10:30 PM. Tickets via Ticketmaster, from $46\u2013$56."
+    },
+    {
+      "id": "e-a3c3b74243",
+      "title": "Sweeping Promises, Van Goth",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-11-11T00:00:00Z",
+      "end": "2026-11-11T03:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/sweeping-promises-van-goth-night-club-101-tickets/14908543"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Tuesday, Nov 10 at 8:00 PM. Tickets via Ticketmaster, from $27\u2013$27."
+    },
+    {
+      "id": "e-f09576b89e",
+      "title": "Little by Little",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Night Club 101",
+      "start": "2026-11-11T00:00:00Z",
+      "end": "2026-11-11T03:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/little-by-little-night-club-101-tickets/14414214"
+        }
+      ],
+      "description": "Live show at Night Club 101 on Tuesday, Nov 10 at 8:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
+      "id": "e-b0f982501c",
+      "title": "Allen Lowe Quartet",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Smalls Jazz Club",
+      "start": "2026-11-11T00:30:00Z",
+      "end": "2026-11-11T03:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/allen-lowe-quartet-smalls-jazz-club-tickets/14361604"
+        }
+      ],
+      "description": "Live show at Smalls Jazz Club on Tuesday, Nov 10 at 8:30 PM. Tickets via Ticketmaster, from $44\u2013$44."
+    },
+    {
+      "id": "e-04762200f9",
+      "title": "Carolyn Leonhart Trio",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Mezzrow",
+      "start": "2026-11-11T00:30:00Z",
+      "end": "2026-11-11T03:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/carolyn-leonhart-trio-mezzrow-tickets/14357594"
+        }
+      ],
+      "description": "Live show at Mezzrow on Tuesday, Nov 10 at 8:30 PM. Tickets via Ticketmaster, from $44\u2013$44."
+    },
+    {
+      "id": "e-0756088f24",
+      "title": "Ten",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Terminal 5",
+      "start": "2026-11-11T01:00:00Z",
+      "end": "2026-11-11T04:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv4Fw"
+        }
+      ],
+      "description": "Live show at Terminal 5 on Tuesday, Nov 10 at 9:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-60e86f80a2",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Lucinda's",
+      "start": "2026-11-11T01:00:00Z",
+      "end": "2026-11-11T04:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/live-weekly-bluegrass-with-lucindas-tickets/13950714"
+        }
+      ],
+      "description": "Live show at Lucinda's on Tuesday, Nov 10 at 9:00 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
+      "id": "e-129dbd7f07",
+      "title": "Factors Fest Week 2",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-indie"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Bowery Palace",
+      "start": "2026-11-11T01:00:00Z",
+      "end": "2026-11-11T04:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/factors-fest-week-2-bowery-palace-tickets/14395424"
+        }
+      ],
+      "description": "Live show at Bowery Palace on Tuesday, Nov 10 at 9:00 PM. Tickets via Ticketmaster, from $12\u2013$12."
+    },
+    {
+      "id": "e-c11bc2834b",
+      "title": "Vic Mensa with Live Band",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-hiphop"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "Blue Note Jazz Club",
+      "start": "2026-11-11T01:00:00Z",
+      "end": "2026-11-11T04:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/vic-mensa-with-live-band-blue-note-jazz-club-tickets/14316924"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/vic-mensa-with-live-band-blue-note-jazz-club-tickets/14316934"
+        }
+      ],
+      "description": "Live show at Blue Note Jazz Club on Tuesday, Nov 10 at 11:30 PM. Tickets via Ticketmaster, from $0\u2013$0."
+    },
+    {
+      "id": "e-17bdca1dea",
+      "title": "Dan Tepfer Trio",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Jazzcultural",
+      "start": "2026-11-11T01:00:00Z",
+      "end": "2026-11-11T04:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/dan-tepfer-trio-jazzcultural-tickets/14355394"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/dan-tepfer-trio-jazzcultural-tickets/14354894"
+        }
+      ],
+      "description": "Live show at Jazzcultural on Tuesday, Nov 10 at 11:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
+    },
+    {
+      "id": "e-2c394dd593",
+      "title": "Torture Tuesday",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Berlin",
+      "start": "2026-11-11T01:00:00Z",
+      "end": "2026-11-11T04:00:00+00:00",
+      "price": "$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/torture-tuesday-berlin-tickets/14343354"
+        }
+      ],
+      "description": "Live show at Berlin on Tuesday, Nov 10 at 9:00 PM. Tickets via Ticketmaster, from $13\u2013$13."
+    },
+    {
+      "id": "e-11293e795b",
+      "title": "Vince Giordano and the Nighthawks",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Birdland Theater",
+      "start": "2026-11-11T01:30:00Z",
+      "end": "2026-11-11T04:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225064"
+        }
+      ],
+      "description": "Live show at Birdland Theater on Tuesday, Nov 10 at 9:30 PM. Tickets via Ticketmaster, from $25\u2013$46."
+    },
+    {
+      "id": "e-14f91922c8",
+      "title": "vaultboy: ARE YOU EVER COMING BACK TOUR",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "music"
+      ],
+      "neighborhood": "les",
+      "borough": "manhattan",
+      "venue": "Mercury Lounge",
+      "start": "2026-11-11T02:00:00Z",
+      "end": "2026-11-11T05:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/vaultboy-are-you-ever-coming-back-new-york-new-york-11-10-2026/event/000064E1DA19AC0E"
+        }
+      ],
+      "description": "Live show at Mercury Lounge on Tuesday, Nov 10 at 10:00 PM. Tickets via Ticketmaster."
+    },
+    {
+      "id": "e-0e45b99190",
+      "title": "Robert Edwards Quintet",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Smalls Jazz Club",
+      "start": "2026-11-11T02:00:00Z",
+      "end": "2026-11-11T05:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/robert-edwards-quintet-smalls-jazz-club-tickets/14361634"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/robert-edwards-quintet-smalls-jazz-club-tickets/14361684"
+        }
+      ],
+      "description": "Live show at Smalls Jazz Club on Tuesday, Nov 10 at 10:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
+    },
+    {
+      "id": "e-3a8faf8e11",
+      "title": "Jordan Piper Trio",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-jazz"
+      ],
+      "neighborhood": "midtownE",
+      "borough": "manhattan",
+      "venue": "Mezzrow",
+      "start": "2026-11-11T02:00:00Z",
+      "end": "2026-11-11T05:00:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/jordan-piper-trio-mezzrow-tickets/14357954"
+        },
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketweb.com/event/jordan-piper-trio-mezzrow-tickets/14357884"
+        }
+      ],
+      "description": "Live show at Mezzrow on Tuesday, Nov 10 at 10:00 PM. Tickets via Ticketmaster, from $44\u2013$44."
+    },
+    {
+      "id": "e-7eb876cb94",
+      "title": "Vic Mensa",
+      "category": "stagesound",
+      "subcategory": "concerts",
+      "tags": [
+        "g-hiphop"
+      ],
+      "neighborhood": "westvillage",
+      "borough": "manhattan",
+      "venue": "Blue Note Jazz Club - NY",
+      "start": "2026-11-11T03:30:00Z",
+      "end": "2026-11-11T06:30:00+00:00",
+      "price": "$$",
+      "tentpole": false,
+      "sources": [
+        {
+          "name": "Ticketmaster",
+          "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvS-N"
+        }
+      ],
+      "description": "Live show at Blue Note Jazz Club - NY on Tuesday, Nov 10 at 11:30 PM. Tickets via Ticketmaster."
     }
   ]
 }
